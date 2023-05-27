@@ -1,0 +1,500 @@
+AKB48	Entity
+negro spiritual	Concept
+lullabies	Concept
+dulcimer	Concept
+four-part harmony	Concept
+nocturne	Concept
+David Bowie	Entity
+sheet music	Concept
+James Brown	Entity
+karaoke	Concept
+solfeggio	Concept
+work song	Concept
+contralto	Concept
+contemporary folk	Concept
+hard rock	Concept
+Dark Passion Play	Entity
+harmonica	Concept
+outlaw country	Concept
+keyed trumpet	Concept
+rhythm and blues	Concept
+Metallica	Entity
+military march	Concept
+bolero	Concept
+impromptu	Concept
+jangle pop	Concept
+potpourri	Concept
+Mikey Chung	Entity
+traditional pop	Concept
+chanty	Concept
+motown	Concept
+suite	Concept
+tango	Concept
+Fairport Convention	Entity
+humming	Concept
+musical bow	Concept
+antique cymbals	Concept
+urban folk	Concept
+largo	Concept
+dubstep	Concept
+vibraphonist	Concept
+metal	Concept
+vocal music	Concept
+Kazimierz Serocki	Entity
+Welcome the Night	Entity
+Latin jazz	Concept
+drumming	Concept
+pastorale	Concept
+overture	Concept
+stride piano	Concept
+chamber pop	Concept
+Trap House	Entity
+hip-hop	Concept
+vocal pop	Concept
+short form	Concept
+maracas	Concept
+industrial	Concept
+ligature	Concept
+Kaleidoscope	Entity
+Queen	Entity
+southern gospel	Concept
+heavy metal music	Concept
+swedish pop	Concept
+Heart Food	Entity
+harmonization	Concept
+arrangement	Concept
+suspended cymbal	Concept
+schottische	Concept
+trance	Concept
+ostinato	Concept
+Electric guitar	Concept
+clavichord	Concept
+transverse flute	Concept
+The Donkeys	Entity
+new age	Concept
+The Offspring	Entity
+orchestration	Concept
+monochord	Concept
+refrain	Concept
+Christian rock	Concept
+mariachi	Concept
+figured bass	Concept
+skiffle	Concept
+kwela	Concept
+western swing	Concept
+DJ Sharkey	Entity
+bass clarinet	Concept
+transition	Concept
+temple blocks	Concept
+incidental music	Concept
+quintet	Concept
+riot grrl	Concept
+amplifier	Concept
+bop	Concept
+Benny Goodman	Entity
+snare drum	Concept
+habanera	Concept
+new jack	Concept
+psytrance	Concept
+arena rock	Concept
+Nightwish	Entity
+güiro	Concept
+alto saxophone	Concept
+traditional blues	Concept
+Supernatural	Entity
+alto clarinet	Concept
+cutting	Concept
+continuo	Concept
+antiphony	Concept
+musical arrangement	Concept
+lyricist	Concept
+tenor tuba	Concept
+southern rap	Concept
+psalmody	Concept
+scottish folk	Concept
+Smokey	Entity
+Citysong	Entity
+character piece	Concept
+antiphonal	Concept
+rackett	Concept
+fantasies	Concept
+timbales	Concept
+modern blues	Concept
+lyre	Concept
+Les Claypool	Entity
+motive	Concept
+quartet	Concept
+viola	Concept
+Charlotte Church	Entity
+lied	Concept
+Lollipops and Roses	Entity
+Tool	Entity
+orchestra bells	Concept
+instrumental music	Concept
+musical harmony	Concept
+american punk	Concept
+monody	Concept
+program music	Concept
+Zeraphine	Entity
+Frank Zappa	Entity
+Grateful Dead	Entity
+garage rock	Concept
+Rolling Stones	Entity
+Back on Track	Entity
+Mute Print	Entity
+microphone	Concept
+spoken word	Concept
+bongos	Concept
+serial music	Concept
+surf rock	Concept
+Carl Davis	Entity
+acoustic blues	Concept
+electronic	Concept
+soundtrack	Concept
+King Crimson	Entity
+symphonic poem	Concept
+Cypress Hill	Entity
+alphorn	Concept
+Fireworks	Entity
+samba	Concept
+trumpet	Concept
+recorder	Concept
+Judas Priest	Entity
+Annie Lennox	Entity
+Tony Brock	Entity
+grand piano	Concept
+The Beach Boys	Entity
+drum & bass	Concept
+Eminem	Entity
+Gentle Giant	Entity
+chansons	Concept
+percussion	Concept
+jamaican ska	Concept
+elegies	Concept
+gittern	Concept
+polka	Concept
+Beastie Boys	Entity
+bugler	Concept
+reel	Concept
+steel drums	Concept
+lo-fi	Concept
+primo	Concept
+new wave	Concept
+canons	Concept
+pan flute	Concept
+cacophony	Concept
+mallet	Concept
+yodeling	Concept
+epistle	Concept
+composition	Concept
+wedding music	Concept
+Agoraphobia	Entity
+psalm	Concept
+bluegrass	Concept
+harmonium	Concept
+goth	Concept
+All Wrapped Up	Entity
+italian pop	Concept
+glissando	Concept
+3 Words	Entity
+Paul Stookey	Entity
+Ramones	Entity
+ballet	Concept
+violoncello	Concept
+Fallen	Entity
+guitar	Concept
+quadrille	Concept
+dub	Concept
+trad	Concept
+chorale	Concept
+rhumba	Concept
+soprano saxophone	Concept
+cadenza	Concept
+flamenco	Concept
+Like Drawing Blood	Entity
+Sonic Youth	Entity
+country rock	Concept
+Madonna	Entity
+folk	Concept
+baroque pop	Concept
+accompaniment	Concept
+Hot Mess	Entity
+chant	Concept
+symphony	Concept
+sextet	Concept
+David Bisbal	Entity
+ambient	Concept
+Yes	Entity
+rainstick	Concept
+coda	Concept
+John Peel	Entity
+funk	Concept
+Brian Wilson	Entity
+classic big band	Concept
+Gittler guitar	Concept
+bass	Concept
+heavy metal	Concept
+augmentation	Concept
+Basket Case	Entity
+New Order	Entity
+theremin	Concept
+motif	Concept
+a cappella singing	Concept
+variation	Concept
+rock music	Concept
+Stronger	Entity
+score	Concept
+Grapevyne	Entity
+soft rock	Concept
+preamble	Concept
+Jim O'Rourke	Entity
+caroling	Concept
+saxophone	Concept
+Never Say Die	Entity
+harmony	Concept
+movement	Concept
+Grappelli	Entity
+Blur	Entity
+The Beyond	Entity
+Bob Dylan	Entity
+folk music	Concept
+dance pop	Concept
+Katy Perry	Entity
+hillbilly music	Concept
+Elvis Presley	Entity
+progressive rock	Concept
+soundtrack album	Concept
+gong	Concept
+Motörhead	Entity
+disney	Concept
+Iron Maiden	Entity
+Planningtorock	Entity
+Irma	Entity
+canticle	Concept
+bouffe	Concept
+clapper	Concept
+Shamrock Diaries	Entity
+finger cymbals	Concept
+Russian pop	Concept
+disco	Concept
+country	Concept
+study	Concept
+diminution	Concept
+Rancid	Entity
+instrumentation	Concept
+Ascendancy	Entity
+Naked	Entity
+Pavarotti	Entity
+vihuela	Concept
+Tom Waits	Entity
+cantillation	Concept
+Neil Young	Entity
+acoustic guitar	Concept
+dithyramb	Concept
+Pennywise	Entity
+melody	Concept
+alternative rock	Concept
+double bass	Concept
+musical score	Concept
+partita	Concept
+odes	Concept
+Dream Theater	Entity
+rock and roll	Concept
+quotation	Concept
+chorus	Concept
+acid jazz	Concept
+pop music	Concept
+harmonisation	Concept
+gradual	Concept
+idm	Concept
+musical passage	Concept
+fugues	Concept
+fanfare	Concept
+crash cymbals	Concept
+smooth jazz	Concept
+delta blues	Concept
+recital	Concept
+death metal	Concept
+Yankee Hotel Foxtrot	Entity
+medley	Concept
+Pakistani rock	Concept
+traditional	Concept
+foreword	Concept
+Supraphon	Entity
+piccolo	Concept
+voices	Concept
+Art of Life	Entity
+Oasis	Entity
+sheng	Concept
+turntablists	Concept
+Quincy Jones	Entity
+polonaise	Concept
+carol	Concept
+funk rock	Concept
+jump blues	Concept
+tuba	Concept
+fado	Concept
+glam rock	Concept
+Bounce	Entity
+Planet Earth	Entity
+epigraph	Concept
+Unity Band	Entity
+Über	Entity
+AC/DC	Entity
+Massive Attack	Entity
+Velvet Monkeys	Entity
+mezzo-soprano	Concept
+slapstick	Concept
+The Crusade	Entity
+Nevermind	Entity
+religious song	Concept
+ragtime	Concept
+post-punk	Concept
+drumstick	Concept
+Nas	Entity
+tributes	Concept
+preludes	Concept
+Frank Sinatra	Entity
+Avalon	Entity
+salutation	Concept
+The Magic Flute	Entity
+carioca	Concept
+southern soul	Concept
+scat singing	Concept
+Your Favorite Weapon	Entity
+quintette	Concept
+ranchera	Concept
+rock-and-roll	Concept
+Led Zeppelin	Entity
+kithara	Concept
+neotraditional	Concept
+castanets	Concept
+electronic pop	Concept
+regional blues	Concept
+riff	Concept
+clarinet	Concept
+preparation	Concept
+Dance Revolution	Entity
+tambourine	Concept
+merengue	Concept
+pastoral	Concept
+minuets	Concept
+Bedrock Records	Entity
+folksong	Concept
+oldies	Concept
+golden oldie	Concept
+instrumental	Concept
+pibroch	Concept
+latin rock	Concept
+Krush	Entity
+Edwin Birdsong	Entity
+euphony	Concept
+rockabilly	Concept
+vamp	Concept
+cantata	Concept
+alternative metal	Concept
+bass guitar	Concept
+chimes	Concept
+sonatina	Concept
+bel canto	Concept
+duette	Concept
+sousaphone	Concept
+gigue	Concept
+Peter Gabriel	Entity
+crumhorn	Concept
+Phil Collins	Entity
+quartette	Concept
+cantus firmus	Concept
+Indorock	Entity
+drum set	Concept
+For Sleepyheads Only	Entity
+musical	Concept
+classical music	Concept
+My Bloody Valentine	Entity
+Celtic rock	Concept
+Fidelio	Entity
+Space Monkeys	Entity
+Baker Street	Entity
+church music	Concept
+introit	Concept
+Summertime	Entity
+shock rock	Concept
+Prince	Entity
+electric guitar	Concept
+metalhead	Concept
+The Reeling	Entity
+The Whole Shebang	Entity
+west coast blues	Concept
+music box	Concept
+My Chemical Romance	Entity
+The Ventures	Entity
+Brian Eno	Entity
+melodic line	Concept
+opera	Concept
+modern jazz	Concept
+house	Concept
+The Doldrums	Entity
+organ	Concept
+opus	Concept
+garage punk	Concept
+Only U	Entity
+Take Me Out	Entity
+punk revival	Concept
+morceau	Concept
+Hollywood	Entity
+cool jazz	Concept
+jaw harp	Concept
+sing-a-longs	Concept
+solfege	Concept
+Donkey	Entity
+jazz fusion	Concept
+Ilosaarirock	Entity
+capriccio	Concept
+Wagner	Entity
+Robert Cray	Entity
+timpani	Concept
+Dreamtime	Entity
+antiphonary	Concept
+Happily Ever After	Entity
+Björk	Entity
+math rock	Concept
+Dave Brockie	Entity
+popular music	Concept
+David Foster	Entity
+intro	Concept
+blues rock	Concept
+marching music	Concept
+piece of music	Concept
+Paint It Black	Entity
+voice part	Concept
+solmization	Concept
+flageolet	Concept
+track	Concept
+Nine Inch Nails	Entity
+Fursaxa	Entity
+seven-string guitar	Concept
+Just Dance	Entity
+religious music	Concept
+signature	Concept
+accordion	Concept
+arias	Concept
+lullaby	Concept
+kalimba	Concept
+Origin	Entity
+euro pop	Concept
+baritone guitar	Concept
+theme song	Concept
+movie soundtrack	Concept
+ukelele	Concept
+northern	Concept
+kickdrum	Concept
+The Clovers	Entity
+comedic music	Concept
+piece	Concept
+autoharp	Concept
+Steve Mackey	Entity
+torch song	Concept
+variations	Concept
+The Rolling Stones	Entity
+brazilian jazz	Concept
+Shakey Ground	Entity

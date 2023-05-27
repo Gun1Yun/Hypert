@@ -1,0 +1,15 @@
+chorale prelude	Concept
+solfege	Concept
+schottische	Concept
+theme song	Concept
+washboard	Concept
+harmonisation	Concept
+polyphony	Concept
+outlaw country	Concept
+diminution	Concept
+Mackey Feary	Entity
+korean pop	Concept
+Grateful Dead	Entity
+northern	Concept
+antique cymbals	Concept
+Hot Issue	Entity

@@ -1,0 +1,15 @@
+prelude	musical composition	piece of music	opus	composition	musical work	work of art
+proficiency	technique	musical technique	vocalizing	singer	singing	vocalist	vocal music	musical performance	state	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	specifications	show
+traditional music	folk	folkie	folk music	ethnic music	tune	popular music	popular music genre	musical style	music genre	musical composition	piece of music	opus	composition	musical work	work of art
+air	strain	melodic line	melodic phrase	melody	tune	musical composition	piece of music	opus	composition	musical work	line of succession	work of art
+idiophone	instrument	musical instrument
+harmony	musical harmony	backup band	musical accompaniment	support	accompaniment	backup	vocalizing	singer	singing	vocalist	chord	band	musical group	musical organization	music group	voice	bandmember	rock group	rock band	team	vocal music	musical performance	note	tone	musical note	air	strain	melodic line	melodic phrase	melody	tune	dance band	dance orchestra	speech	spoken language	language	performance	performing arts	musical notation	music notation	musical work	line of succession	human language	demonstration	presentation	work of art	show
+texture	musicality
+musical style	music genre	country
+theme	melodic theme	musical theme	air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+person
+pop	music genre
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	album	record album	studio album	lp record	lp	medium	dance band	dance orchestra	musical work	audio signal	phonograph record	platter	vinyl record	disc	gramophone record	disk	firm	corporation	company	partnership	venture	enterprise	concern	work of art	signal	audio recording	sound recording	audio	storage	electrical energy	function	recording	person
+music genre
+idiophone	instrument	musical instrument
+single	medium	vocal	song	track	human voice	album	record album	studio album	extended play	release	musical composition	piece of music	opus	composition	musical work	audio signal	audio recording	sound recording	audio	sound reproduction	sound system	audio system	storage	work of art	signal	recording	reproduction	disc jockey	disk jockey	dj	electronic equipment	electrical energy	function	task	repeating	repetition

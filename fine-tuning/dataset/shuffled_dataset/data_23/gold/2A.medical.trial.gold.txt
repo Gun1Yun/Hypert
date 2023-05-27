@@ -1,0 +1,15 @@
+malady	abdominal mass	disease	disorder	bladder cancer	cancer	illness	pelvic mass	clinical finding	sickness	malignant tumor	pathological state	pathology
+medicine	insulin	hormone	protein	pancreatic hormone	short-acting insulin	drug
+protein antigen	mucin	tumor-associated antigen	analyte	antigen	protein
+neuropathy	clinical finding	inflammatory disorder	disease	peripheral nerve disease	sarcoidosis
+therapy	procedure	functional skills training	therapeutic procedure	skills training	rehabilitation
+biological agent	microbial agent	toxic substance	mycotoxin	toxin	drug
+malady	calcium deficiency	mineral deficiency	undernutrition	nutritional disorder	disorder	metabolic disease	illness	deficiency	clinical finding	sickness	pathology	pathological state	nutritional deficiency	disease
+specialty	dentistry	dental medicine	medicine	medical specialty	medical science	practice of medicine	surgical specialty
+esterification	crystal	medicine	nucleobase	ester	antineoplastic agent	nucleotide	alkali	atom	uracil	heterocycle	molecular entity	pyrimidine	antimetabolite	drug	salt	genetic code
+familial disease	clinical finding	neurocutaneous syndrome	congenital malformation	disease	hereditary disease	congenital disease	syndrome
+malady	mood disorder	postpartum depression	mental disorder	complication	disorder	clinical finding	depressive disorder	perinatal depression	sickness	pathology	illness	pathological state	disease
+malady	clinical diagnosis	disease	nutritional disorder	disorder	metabolic disease	illness	clinical finding	sickness	pathology	medical diagnosis	pathological state	iron overload	haemochromatosis	hemochromatosis
+drug	antibiotic	medicine
+instrument	endoscope
+developmental anomaly	clinical finding	cyst	body structure	odontogenic cyst	disease	lump

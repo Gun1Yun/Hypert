@@ -1,0 +1,15 @@
+malady	disease of bone	benign tumour	medical diagnosis	clinical diagnosis	anatomical pathology	growth	pathological state	clinical finding	neoplasm	sickness	neoplasm of bone	illness	disorder	benign tumor	pathology	tumor	disease
+alkaloid	active ingredient	controlled substance	recreational drug use	acid	medicine	psychoactive drug	psychoactive substance	substance of abuse	psychedelic drug	hallucinogenic	hallucinogenic drug	drug of abuse	psychedelic	psychotropic agent	ergoline derivative	street drug	hallucinogen	drug
+intervention	participation	art therapy	therapy	psychotherapy
+medical test	surgery	biopsy	surgical action	medical examination	test
+malady	disorder	rupture	clinical finding	sickness	pathology	illness	pathological state	disease
+malady	ventricular tachycardia	disorder	illness	clinical finding	sickness	cardiopathy	pathology	pathological state	cardiac finding	tachycardia	disease
+nurse	caregiver	health professional	primary care provider	pcp
+malady	clinical symptom	inflammatory disorder	flushing	disorder	mediastinitis	illness	clinical finding	sickness	cardiopathy	pathology	pathological state	cardiac finding	inflammation	disease
+body region	anatomical structure	body part
+malady	hemorrhage	intracranial hemorrhage	bleeding	disorder	illness	clinical finding	sickness	subarachnoid hemorrhage	pathology	pathological state	disease
+radical prostatectomy	surgical removal	radical cystectomy	removal	operative procedure	prostatectomy	excision	procedure
+appliance
+oxygenator	perfusion pump	circuit
+antispasmodic	medicine	spice	herb	plant	herbaceous plant	drug
+suspension	ending	termination	conclusion	drug suspension

@@ -1,0 +1,15 @@
+medicine	medical specialty	medical science	branch of science	site of care
+disease of lung	clinical finding	disease	respiratory disorder	infectious disease	actinomycosis
+clinical finding	calcification	cardiopathy	cardiac finding
+paraneoplastic neuropathy	neuropathy	clinical finding	disease	peripheral nerve disease	peripheral neuropathy
+neurological lesion	soft tissue lesion	clinical finding	neuropathy	disease	peripheral nerve disease	injury
+therapy	therapeutic procedure	psychotherapy
+headache disorder	clinical finding	disease	headache
+antigen
+malady	microorganism	infectious agent	illness	pathogenic organism	micro-organism	sickness	arenavirus	pathogen	infective agent	virus	disease
+body fluid	suppuration	clinical symptom	malady	inflammatory disorder	pus	biofluid	exudation	disorder	illness	fluid	body structure	clinical finding	pathology	purulence	emission	pathological state	sickness	inflammatory lesion	disease
+sickness	psychological disorder	pathological state	disease	malady	mania	mental disorder	manic disorder	mental disturbance	syndrome	emotional disorder	mood disorder	clinical symptom	mental illness	folie	affective disorder	illness	disturbance	psychiatric condition	organic mental disorder	confusional state	emotional disturbance	clinical finding	pathology	disorder	major affective disorder
+therapy	procedure	administration of medication	medication therapy	antidepressant therapy	administration of substance	therapeutic procedure
+malady	clinical symptom	inflammatory disorder	disease of breast	disorder	clinical finding	redness	rubor	sickness	pathology	illness	pathological state	inflammation	disease
+vasculature	vessel	vas	tube	anatomical structure	body structure
+clinical finding	bladder dysfunction

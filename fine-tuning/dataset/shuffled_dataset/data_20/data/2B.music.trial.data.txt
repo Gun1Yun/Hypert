@@ -1,0 +1,15 @@
+Frank Sinatra	Entity
+tenor tuba	Concept
+new age	Concept
+continuo	Concept
+cornet	Concept
+Dance-rock	Concept
+The Clearing	Entity
+cool jazz	Concept
+christmas	Concept
+leitmotiv	Concept
+morceau	Concept
+Salvatore Adamo	Entity
+My Bloody Valentine	Entity
+crash cymbals	Concept
+antiphony	Concept

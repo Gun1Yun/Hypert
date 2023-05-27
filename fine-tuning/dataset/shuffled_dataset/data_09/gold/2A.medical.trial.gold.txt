@@ -1,0 +1,15 @@
+clinical finding
+neural structure	anatomical structure	body structure
+clinical finding	mental disorder	disease	dependence
+medical care	medical aid	treatment	intervention	aid	tending	attention	health care
+malady	clinical symptom	disorder	illness	clinical finding	sickness	pathology	medical diagnosis	pathological state	atrophy	disease
+nursery	chamber	bedroom
+malady	inflammatory disorder	respiratory disorder	chronic disease	allergic rhinitis	rhinitis	disorder	allergic condition	illness	irritation	clinical finding	sickness	pathology	pathological state	disease
+cardioversion	procedure
+flat bone	os	bone	connective tissue	conjunctive tissue	organ	animal tissue
+tray	imprint
+surgical specialty	surgery
+clinical finding	disease	neuropathy
+body structure	anatomical structure	cell structure	protoplasm	array	blood cell	somatic cell	cell
+osmotic laxative	macromolecule	carbohydrate	saccharide	alcohol	polyol	fluid	sugar	drug
+vascular disease	clinical finding	disease	precapillary pulmonary hypertension

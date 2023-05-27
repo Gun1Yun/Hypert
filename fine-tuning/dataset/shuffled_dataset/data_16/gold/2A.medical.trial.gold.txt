@@ -1,0 +1,15 @@
+clinical symptom	passivity	impairment	handicap	disorder	disablement	passiveness	clinical finding	unfitness	disability	neurological finding	pathology	inactivity	pathological state
+clinical evaluation	diagnostic ultrasonography	imaging of heart	echocardiography	cardiovascular investigation	imaging
+endocrine	hormone	signaling molecule	cell signaling	secretion	biofluid	body fluid
+specialty	dentistry	dental medicine	medicine	medical specialty	medical science	practice of medicine	surgical specialty
+hematologic function	oxygen saturation	saturation
+cognitive approach	cognitive psychology	psychological science	neuropsychology
+alkaloid	pharmaceutical drug	opiate	painkiller	medicine	psychoactive drug	narcotic	analgesic	medicament	antitussive	drug
+clinical finding	elation	elevated mood	mood
+clinical finding	disease
+healthcare professional	physician	specialized physician	worker	medical practitioner	medical doctor
+malady	stenosis	vascular disease	disorder	soft tissue lesion	venous occlusion	clinical finding	sickness	pathology	illness	pathological state	disease
+protein
+psychotherapy	therapy	medical care	medical aid	treatment	intervention	aid	attention	health care	care	therapeutic procedure
+surgical material	bone graft material	body material	transplantation	autograft	transplant
+anaesthesia	anesthesia	regional anaesthesia	regional anesthesia

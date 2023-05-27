@@ -1,0 +1,15 @@
+vocalizing	singer	singing	vocalist	vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra
+musical passage	passage	musical composition	piece of music	opus	composition	musical work	work of art
+dance	dance music	music genre	musical style
+opening
+dance	dance music	folk dance	folk dancing	dancing	social dance	ballroom dance	ballroom	social dancing	musical work	performing arts	flick	work of art	show
+saxist	saxophonist	wind	wind instrument	saxophone	sax	musician	instrument	musical instrument	aerophone	wood	woodwind instrument	woodwind	reed	reed instrument	person
+excerpt	selection	extract
+popular music	popular music genre	musical style	album	record album	studio album	music genre	musical work	audio signal	medium	work of art	signal	storage
+thespian	actor	person
+religious song	vocalizing	singer	singing	vocalist	church music	religious music	vocal	song	track	human voice	vocal music	musical performance	christian music	musical style	music genre	musical composition	piece of music	opus	composition	speech	spoken language	language	performance	performing arts	musical work	human language	demonstration	presentation	work of art	show
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+musical composition	piece of music	opus	composition	musical work	work of art
+idiophone	instrument	musical instrument
+album	record album	studio album	extended play	medium	single	vocal	song	track	human voice	musical work	audio signal	audio recording	sound recording	audio	sound reproduction	sound system	audio system	release	musical composition	piece of music	opus	composition	work of art	signal	recording	reproduction	disc jockey	disk jockey	dj	electronic equipment	storage	electrical energy	function	task	repeating	repetition

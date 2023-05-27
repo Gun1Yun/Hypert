@@ -1,0 +1,500 @@
+biologist	Concept
+temporal lobe	Concept
+fetal head	Concept
+ganglioneuroblastoma	Concept
+tetany	Concept
+childhood obesity	Concept
+hypertensive renal failure	Concept
+vesicant	Concept
+cerclage	Concept
+cortisone	Concept
+bitemporal hemianopia	Concept
+itopride	Concept
+tyramine	Concept
+brain abscess	Concept
+silicone	Concept
+corneal opacity	Concept
+kyphosis	Concept
+chronic postoperative pain	Concept
+periodontal dressing	Concept
+refractory periodontitis	Concept
+cardiovascular implant	Concept
+pulmonary veno-occlusive disease	Concept
+joint implant	Concept
+bowel dysfunction	Concept
+adrenal cortical carcinoma	Concept
+pharmaceutical company	Concept
+cardiothoracic surgery	Concept
+neuromyopathy	Concept
+skeletal tissue	Concept
+neuropathologist	Concept
+psychiatric rehabilitation	Concept
+morphine	Concept
+audiogram	Concept
+care plan	Concept
+bone tumor	Concept
+sexual behavior	Concept
+surveillance for cancer	Concept
+scapular region	Concept
+cardioversion	Concept
+cardiorenal syndrome	Concept
+starfish	Concept
+renal transplant rejection	Concept
+adenocarcinoma of lung	Concept
+chloroma	Concept
+lung bud	Concept
+writing therapy	Concept
+glycerol	Concept
+psychologist	Concept
+phlegmon	Concept
+primary biliary cirrhosis	Concept
+congenital cystic lung	Concept
+low temperature	Concept
+empyema	Concept
+chimera	Concept
+bone autograft	Concept
+large neuron	Concept
+primary spontaneous pneumothorax	Concept
+cardiothoracic surgery department	Concept
+sylvian fissure	Concept
+pulmonary valvotomy	Concept
+neurosis	Concept
+oral nifedipine	Concept
+diabetic autonomic neuropathy	Concept
+nurse manager	Concept
+primary cerebral lymphoma	Concept
+nasal endoscope	Concept
+codeine	Concept
+acetate	Concept
+vagotomy	Concept
+peripheral demyelinating neuropathy	Concept
+esmolol	Concept
+monensin	Concept
+alveolar bone	Concept
+prostate	Concept
+sulfur compound	Concept
+vaccinia	Concept
+synovial joint	Concept
+neurophysin	Concept
+gestational trophoblastic neoplasia	Concept
+head injury rehabilitation	Concept
+facial myokymia	Concept
+pulmonary actinomycosis	Concept
+bone spur	Concept
+intrabony periodontal defect	Concept
+helix structure	Concept
+induced psychotic disorder	Concept
+pulmonary artery blood	Concept
+surgical oncology	Concept
+dextran	Concept
+chronic respiratory acidosis	Concept
+aluminum	Concept
+neuronal heterotopia	Concept
+prophase	Concept
+cyanosis	Concept
+subacute sclerosing panencephalitis	Concept
+odontohypophosphatasia	Concept
+psychological medicine	Concept
+sensory neuron	Concept
+tumorlet	Concept
+pediatric cardiologist	Concept
+aluminium oxide	Concept
+perazine	Concept
+neurological disease	Concept
+milrinone	Concept
+miglitol	Concept
+meiosis	Concept
+neuronal depopulation	Concept
+neurosurgery	Concept
+forefoot	Concept
+lethargy	Concept
+pneumoconiosis	Concept
+direct current cardioversion	Concept
+dental hospital	Concept
+ebastine	Concept
+cardiotomy reservoir	Concept
+acute respiratory insufficiency	Concept
+neuromelanin	Concept
+reductase	Concept
+paretic neurosyphilis	Concept
+depth electrode	Concept
+tertiary referral hospital	Concept
+lithium therapy	Concept
+peripheral odontogenic fibroma	Concept
+femoral nerve	Concept
+hip pain	Concept
+psychoactive substance abuse	Concept
+neuroaxonal dystrophy	Concept
+transesophageal echocardiography	Concept
+proliferative diabetic retinopathy	Concept
+silodosin	Concept
+stopcock	Concept
+elbow joint	Concept
+family conflict	Concept
+vanadium	Concept
+lacrimal bone	Concept
+stomach cancer	Concept
+prodrome	Concept
+old age psychiatry	Concept
+baclofen	Concept
+blood flow	Concept
+radical cystoprostatectomy	Concept
+teratoma	Concept
+irregular bone	Concept
+microbiologist	Concept
+pulmonary emphysema	Concept
+postoperative complication	Concept
+pneumococcal polysaccharide vaccine	Concept
+biliary fistula	Concept
+lung surfactant	Concept
+paraquat	Concept
+neoplasm	Concept
+helminth	Concept
+neuroleptanalgesia	Concept
+dental calculus	Concept
+reducing sugar	Concept
+deep brain stimulation	Concept
+peripheral t-cell lymphoma	Concept
+thyroid adenoma	Concept
+diabetic peripheral neuropathy	Concept
+tolfenamic acid	Concept
+urolithiasis	Concept
+accelerated idioventricular rhythm	Concept
+vertebra	Concept
+gastric rupture	Concept
+acute inflammatory disease	Concept
+asthenia	Concept
+polyuria	Concept
+interferon beta	Concept
+palliative care service	Concept
+bloodletting	Concept
+iopamidol	Concept
+pulmonary thromboembolism	Concept
+tropical pulmonary eosinophilia	Concept
+trephine biopsy	Concept
+clove oil	Concept
+neuroradiology	Concept
+neurogenic pulmonary edema	Concept
+friction	Concept
+chordoma	Concept
+peripheral axonal neuropathy	Concept
+pulmonary artery	Concept
+fracture	Concept
+warming blanket	Concept
+pulmonary edema	Concept
+neurosarcoidosis	Concept
+orthodontic bracket	Concept
+autonomic cardiovascular function	Concept
+cognitive skills training	Concept
+psychotherapy	Concept
+medical oncologist	Concept
+blood sugar	Concept
+interpersonal psychotherapy	Concept
+pulmonary infarction	Concept
+desquamative interstitial pneumonia	Concept
+seasonal allergic rhinitis	Concept
+peroxide	Concept
+peripheral arterial bypass	Concept
+airway pressure	Concept
+pediatrics	Concept
+nephrology	Concept
+cardiovascular physical examination	Concept
+steroid-dependent nephrotic syndrome	Concept
+traumatic optic neuropathy	Concept
+superior pulmonary vein	Concept
+trimming	Concept
+ruptured ectopic pregnancy	Concept
+paraprosthetic aortic regurgitation	Concept
+exercise stress echocardiography	Concept
+angiocardiography	Concept
+soreness	Concept
+radical perineal prostatectomy	Concept
+bone necrosis	Concept
+bilateral hilar adenopathy	Concept
+scrub nurse	Concept
+intimal sarcoma	Concept
+tension headache	Concept
+psoralen	Concept
+right ventricular failure	Concept
+morbid jealousy	Concept
+esthesioneuroblastoma	Concept
+neurological deficit	Concept
+median sternotomy approach	Concept
+impaired vision	Concept
+oral irrigation	Concept
+idiotope	Concept
+atypical antipsychotic	Concept
+neurological screening	Concept
+amrinone	Concept
+psychomotor epilepsy	Concept
+b-type natriuretic peptide	Concept
+neuropore	Concept
+iohexol	Concept
+idiopathic inflammatory myositis	Concept
+thymine	Concept
+blood donation	Concept
+hydrogen ion concentration	Concept
+pulmonary mucormycosis	Concept
+sexual maturity	Concept
+oral antipsychotic therapy	Concept
+bone fragment	Concept
+talonavicular joint	Concept
+propolis	Concept
+exercise	Concept
+dysferlin	Concept
+urology	Concept
+delirium	Concept
+neuritis	Concept
+vascular headache	Concept
+silastic	Concept
+pulmonary embolism	Concept
+bisexual	Concept
+oral phase	Concept
+hookworm	Concept
+chronic tension-type headache	Concept
+acute urticaria	Concept
+amputee	Concept
+cancer procoagulant	Concept
+idiopathic pulmonary hemosiderosis	Concept
+obesity	Concept
+cardiovirus	Concept
+percutaneous liver biopsy	Concept
+probucol	Concept
+busulfan	Concept
+parosmia	Concept
+arginine	Concept
+prostatic massage	Concept
+melanin	Concept
+psychogenic headache	Concept
+affective psychosis	Concept
+diuresis	Concept
+epidermal nevus	Concept
+joint deformity	Concept
+superficial femoral artery	Concept
+lung mass	Concept
+tilidine	Concept
+allergic bronchopulmonary mycosis	Concept
+mazindol	Concept
+large head	Concept
+ligation	Concept
+solitary pulmonary nodule	Concept
+brainstem structure	Concept
+coenzyme	Concept
+brefeldin	Concept
+acute respiratory distress	Concept
+stenosis	Concept
+psychophysiologic insomnia	Concept
+transcranial electrical stimulation	Concept
+chordate	Concept
+vertical maxillary excess	Concept
+therapy	Concept
+nilotinib	Concept
+metal framework	Concept
+tick-borne encephalitis vaccination	Concept
+nonspecific interstitial pneumonia	Concept
+cerebral arteriovenous malformation	Concept
+autologous chondrocyte implantation	Concept
+osteoma	Concept
+neuron-specific enolase	Concept
+femoral neuropathy	Concept
+cardio-facio-cutaneous syndrome	Concept
+straddling tricuspid valve	Concept
+pulpitis	Concept
+tilt test	Concept
+respiratory isolation	Concept
+cardiology department	Concept
+jaw pain	Concept
+orthotopic liver transplant	Concept
+respiratory arrest	Concept
+pyoderma	Concept
+pediatric oncology service	Concept
+diastole	Concept
+respiratory infection	Concept
+brain injury	Concept
+penile erection	Concept
+cobalt cardiomyopathy	Concept
+neuromyelitis	Concept
+bone marrow trephine	Concept
+paraoxon	Concept
+necrotizing ulcerative periodontitis	Concept
+autogenous bone graft	Concept
+general surgery	Concept
+cysteine	Concept
+quinine antiarrhythmic agent	Concept
+natural head position	Concept
+aneurysm	Concept
+pulmonary rehabilitation service	Concept
+specialist palliative care	Concept
+medullary sponge kidney	Concept
+dendrite	Concept
+drug withdrawal	Concept
+rapamycin	Concept
+blood disorder	Concept
+muscular tonus	Concept
+pneumocystis	Concept
+joint stiffness	Concept
+compensated respiratory acidosis	Concept
+pulmonary fat embolism	Concept
+autonomic neuropathy	Concept
+heparin	Concept
+blood cell count	Concept
+restrictive lung disease	Concept
+educational psychologist	Concept
+collapse	Concept
+pediatric neurologist	Concept
+expressive psychotherapy	Concept
+renal blood flow	Concept
+quazepam	Concept
+transcatheter oily chemoembolization	Concept
+kerosene	Concept
+edoxaban	Concept
+eruption	Concept
+cardiopulmonary bypass circuit	Concept
+neurofibroma	Concept
+neurofibrillary degeneration	Concept
+odontogenic keratocyst	Concept
+oral suspension	Concept
+prostatic intraepithelial neoplasia	Concept
+depth psychology	Concept
+intramuscular hematoma	Concept
+limonene	Concept
+pressure	Concept
+carditis	Concept
+hypodontia	Concept
+orthopnea	Concept
+cardamom	Concept
+pneumovirus	Concept
+androgen	Concept
+psychodynamic psychotherapy	Concept
+blood draw	Concept
+aconitate	Concept
+hip bone	Concept
+cancer of skin	Concept
+visiting nurse	Concept
+noncompetitive inhibition	Concept
+episodic cluster headache	Concept
+alcoholic fatty liver	Concept
+agalsidase alfa	Concept
+pediatric medicine	Concept
+distress	Concept
+neuropathic bladder	Concept
+dietary calcium deficiency	Concept
+pulmonic valve	Concept
+abnormal uterine bleeding	Concept
+analgesic overuse headache	Concept
+recurrent aspiration pneumonia	Concept
+peripheral blood flow	Concept
+cluster headache	Concept
+chronic liver disease	Concept
+awareness under anesthesia	Concept
+implantable cardioverter-defibrillator	Concept
+traumatic brain injury	Concept
+pulmonary sarcoidosis	Concept
+whole blood donor	Concept
+pimozide	Concept
+psychoanalyst	Concept
+hangover	Concept
+infusion	Concept
+neurogenesis	Concept
+psychiatry	Concept
+dry skin	Concept
+bosentan	Concept
+pediatric oncology department	Concept
+3beta-hydroxysteroid dehydrogenase	Concept
+sarcoid neuropathy	Concept
+tuftsin	Concept
+vesicle	Concept
+functional skills training	Concept
+asbestos	Concept
+developmental coordination disorder	Concept
+percutaneous needle biopsy	Concept
+sensory neuropathy	Concept
+leprosy neuropathy	Concept
+right pneumothorax	Concept
+neuroma	Concept
+excision biopsy	Concept
+aortic valve regurgitation	Concept
+inflammation	Concept
+functional tricuspid regurgitation	Concept
+ascending aorta	Concept
+paraneoplastic peripheral neuropathy	Concept
+entire right lung	Concept
+juvenile ossifying fibroma	Concept
+suppressor gene	Concept
+bone graft	Concept
+impression tray	Concept
+atresia	Concept
+chromium	Concept
+pneumology	Concept
+procaine	Concept
+platelet	Concept
+rhinitis	Concept
+atrial pressure	Concept
+abacavir	Concept
+continuous blood sampling	Concept
+spindle cell oncocytoma	Concept
+orthodontics	Concept
+right brain	Concept
+chylous ascites	Concept
+odontalgia	Concept
+permanent vegetative state	Concept
+saliva	Concept
+femoral triangle	Concept
+lipoid pneumonia	Concept
+central obesity	Concept
+caffeine	Concept
+organelle	Concept
+popliteal nerve	Concept
+cognitive neuropsychology	Concept
+school nurse	Concept
+migraine	Concept
+reclining chair	Concept
+cough headache syndrome	Concept
+nabilone	Concept
+oral administration	Concept
+slow ventricular response	Concept
+neurotransmitter	Concept
+diagnostic lumbar puncture	Concept
+neurophysics	Concept
+continuous electrocardiogram	Concept
+pharmacy	Concept
+anguilla	Concept
+enthesis	Concept
+hypertensive heart failure	Concept
+chronic empyema	Concept
+vasculitic neuropathy	Concept
+neuropsychological battery	Concept
+cortical visual impairment	Concept
+neurofeedback	Concept
+thallium	Concept
+sepsis syndrome	Concept
+day nursery	Concept
+herpes labialis	Concept
+brain tumour	Concept
+pulmonary renal syndrome	Concept
+hindbrain	Concept
+nasal discharge	Concept
+pulmonary capillary hemangiomatosis	Concept
+etodolac	Concept
+sotalol	Concept
+hematoma	Concept
+nonconvulsive status epilepticus	Concept
+familial prostate cancer	Concept
+mild cognitive impairment	Concept
+tomogram	Concept
+abortion	Concept
+respiratory disorder	Concept
+transthoracic echocardiography	Concept
+lobe of liver	Concept
+uremic neuropathy	Concept
+cardiotomy	Concept
+bone marrow depression	Concept
+cocaine	Concept
+lipoma	Concept
+synteny	Concept
+glucose oxidase	Concept
+cancer registrar	Concept
+paediatric oncology	Concept
+narcosis	Concept
+zoledronic acid	Concept
+aponeurosis	Concept

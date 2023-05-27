@@ -1,0 +1,15 @@
+monochord	Concept
+gigue	Concept
+melody	Concept
+quote	Concept
+obligato	Concept
+discant	Concept
+dance hall	Concept
+Silverthorn	Entity
+guitar	Concept
+panpipes	Concept
+xylophone	Concept
+cover song	Concept
+Joe Satriani	Entity
+Brian Wilson	Entity
+Liz Phair	Entity

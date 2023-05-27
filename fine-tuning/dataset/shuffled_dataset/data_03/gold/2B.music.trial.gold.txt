@@ -1,0 +1,15 @@
+composing	composition
+instrument	membranophone	musical instrument
+percussion	percussive instrument	percussion instrument	instrument	musical instrument	idiophone
+jazz	musical style	music genre	popular music	popular music genre
+vocalizing	singer	singing	vocalist	vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show
+classical	music genre	musical style
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+popular music	popular music genre	musical style	music genre
+medium	single	band	musical group	musical organization	music group	rock group	rock band	team	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	storage	musical work	work of art
+musician	band	musical group	musical organization	music group	person
+stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+military march	martial music	military music	musical style	music genre	marching music	march	musical work	musical composition	piece of music	opus	composition	work of art
+musical style	music genre
+music genre
+musician	person

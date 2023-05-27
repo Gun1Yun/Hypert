@@ -1,0 +1,15 @@
+clinical symptom	passivity	impairment	handicap	disorder	disablement	passiveness	clinical finding	unfitness	disability	neurological finding	pathology	inactivity	pathological state
+cerebrovascular accident	vascular disease	cerebrovascular disease	embolism	soft tissue lesion	disease	clinical finding	stroke
+open wound	procedure	wound	hole
+malady	disturbance of consciousness	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+neurological finding	deficit
+firm	corporation	company	partnership	venture	enterprise
+headache disorder	clinical finding	disease	headache
+temporal bone	os	bone	connective tissue	conjunctive tissue	organ	animal tissue
+bioethics	neuroscience	neurobiology	philosophy	medical research
+ache	aching	painful sensation	pain	pain sensation	hurting	clinical symptom	sentience	sense	sensation	somatic sensation	somatosensory system	malady	illness	sickness	disorder	disease	state
+clinical finding	infectious disease	disease	infection
+benzodiazepine	medicine	psychoactive substance	anticonvulsant	sedative	psychotropic agent	psychotherapeutic agent	anxiolytic	anxiolytic agent	hypnotic agent	drug
+electrode
+malady	disorder	clinical finding	deformity of spine	sickness	pathology	illness	pathological state	deformity	disease
+abscess	neurological lesion	clinical finding	inflammatory disorder	disease	intracranial abscess

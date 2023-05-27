@@ -1,0 +1,50 @@
+summerhouse	Concept
+rep	Concept
+degree	Concept
+bank	Concept
+Ieuaf	Entity
+Washburn High School	Entity
+make	Concept
+royalist	Concept
+epistemology	Concept
+telescope	Concept
+wrestle	Concept
+magistrate	Concept
+vehicle	Concept
+issuer	Concept
+advocacy	Concept
+currency	Concept
+protist	Concept
+Reckless Kelly	Entity
+temperament	Concept
+junk	Concept
+oil well	Concept
+skeet shooting	Concept
+Valetta	Entity
+run batted in	Concept
+interleaf	Concept
+satoyama	Concept
+truth	Concept
+spectroscope	Concept
+Kew Palace	Entity
+byroad	Concept
+University of Liverpool	Entity
+candy	Concept
+neurohypophysis	Concept
+Ohio	Entity
+coma	Concept
+sapphire	Concept
+Pink Dot	Entity
+Jackson Zoo	Entity
+committee	Concept
+cumulus	Concept
+windage	Concept
+horsepower	Concept
+discharge	Concept
+deregulating	Concept
+potpourri	Concept
+downfall	Concept
+rhizome	Concept
+stability	Concept
+fumigation	Concept
+status epilepticus	Concept

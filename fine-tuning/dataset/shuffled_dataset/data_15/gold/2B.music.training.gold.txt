@@ -1,0 +1,500 @@
+country	music genre	musical style
+idiophone	instrument	musical instrument
+band	musical group	musical organization	music group	rock group	rock band	album	record album	studio album	medium	vocal	song	track	human voice	dance band	dance orchestra	musical work	audio signal	musical composition	piece of music
+soundtrack	music genre
+album	record album	studio album	medium	singer-songwriter	musical work	audio signal	songwriter	songster	singer	vocalist	musician	person	work of art	signal	storage	lyrist	lyricist	composer	electrical energy	function	writer	poet	poetess
+pop musician	pop music	pop	musical style	music genre	popular music	popular music genre
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra	person
+musical composition	piece of music	opus	composition	musical work	work of art
+live show	performance	public presentation	concert	show	group event
+noise	sound
+opera	musical work	musical theater	drama	dramatic play	performing arts	classical	classical music	serious music	art music	work of art	theater	theatre	dramatics	dramaturgy	dramatic art	musical style	music genre	fine arts
+country	country music	country-western music	country and western	musical style	music genre	traditional music	folk	folkie	folk music	ethnic music	tune	pop musician	pop music	pop	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+music genre
+dance	dance music	dancing	social dance	ballroom dance	ballroom	social dancing	musical work	performing arts	flick	picture	movie	pic	picture show	film	motion picture	work of art	show	social event
+album	record album	studio album	medium	band	musical group	musical organization	music group	folk rock	folk-rock	bandmember	rock group	rock band	team	musical work	audio signal	traditional music	folk	folkie	folk music	ethnic music	tune	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	dance band	dance orchestra	work of art	signal	storage	popular music	popular music genre	musical composition	piece of music	opus	composition	electrical energy	function
+singer	guitarist	person	album	record album	studio album	songwriter	songster	guitar player	musical work	audio signal	medium	lyrist	lyricist	composer	musician	work of art	signal	writer	poetess	storage
+music genre	musical style
+excerpt	selection	extract
+popular music	popular music genre	musical style	music genre
+band	musical group	musical organization	music group	rock group	rock band	team	gospel	music genre	musical style
+hymn	anthem	musical composition	piece of music	opus	composition	national symbol	religious song	vocal	song	track	human voice	musical work	church music	religious music	work of art	christian music	musical style	music genre
+latin music	music genre
+theme	melodic theme	musical theme	air	strain	melodic line	melodic phrase	melody	tune	musical work	line of succession	work of art
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre	alternative rock
+musical notation	music notation	musical composition	piece of music	opus	composition	musical work	work of art
+music genre	musical style	pop	movement	cultural movement	alternative rock
+pop	music genre	musical style
+instrument	musical instrument
+musical composition	piece of music	opus	composition	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	musical work	dance band	dance orchestra	work of art
+pop	music genre	musical style
+drum	membranophone	percussion	percussive instrument	percussion instrument	instrument	musical instrument
+introduction	musical work	work of art	performance	audio signal	medium
+musical style	music genre
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	album	record album	studio album	solo album	single	medium	vocal	song	track	human voice	dance band	dance orchestra	musical work	audio signal	release	musical composition	piece of music	opus	composition	channel	storage	memory	work of art	signal	artifact	transmission	hardware	fine art	sound	sound wave	entertainment	amusement	communicating	undulation	wave	portion
+classical	music genre	musical style
+rock	music genre	musical style
+classical	music genre
+medium	single	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	storage	musical work	work of art
+musical work	musical composition	piece of music	opus	composition	work of art
+musical work	work of art	performance	audio signal	medium	vocal
+air	strain	melodic line	melodic phrase	melody	tune	musical work	line of succession	work of art
+popular music	popular music genre	musical style	music genre
+traditional music	folk	folkie	folk music	ethnic music	tune	pop musician	pop music	pop	musical style	music genre	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+recording	live show	performance	concert	public presentation	show	group event
+excerpt	selection	extract
+composer	person	musician
+band	musical group	musical organization	music group	rock group	rock band	team	album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage
+traditional music	folk	folkie	folk music	ethnic music	tune	baroque dance	dance	dance music	folk dance	folk dancing	popular music	popular music genre	musical style	music genre	musical composition	piece of music	opus	composition	dancing	social dance	ballroom dance	ballroom	social dancing	musical work	performing arts	flick	work of art	show	classical
+classical	classical music	serious music	art music	musical composition	piece of music	opus	composition	musical style	music genre	musical work	work of art
+single	vocal	song	track	human voice	release	musical composition	piece of music	opus	composition	musical work	work of art
+idiophone	instrument	musical instrument
+jazz	popular music	popular music genre	musical style	music genre
+euro pop	pop	music genre
+classical	music genre
+chamber music	classical	music genre	musical style
+pop	music genre
+stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+church music	religious music	book	christian music	musical style	music genre	medium	opera	piece of work	storage
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	alternative rock	dance band	dance orchestra	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre
+instrument	musical instrument	aerophone
+drum	membranophone	percussion	percussive instrument	percussion instrument	instrument	musical instrument
+musician	person
+country	music genre
+singer-songwriter	songwriter	songster	singer	vocalist	musician	person	lyrist	lyricist	composer	writer	poet
+instrument	musical instrument
+dance	dance music
+album	record album	studio album	medium	single	vocal	song	track	human voice	record label	recording label	label	record company	musical theatre	musical	musical theater	musical comedy	jukebox musical	musical work	audio signal	release	musical composition	piece of music	opus	composition	division	branch	trademark	trade name	brand name	brand	marque	name brand	firm	corporation	company	partnership	venture	enterprise	concern	flick	theater	theatre	dramatics	dramatic art	musical film	film genre	work of art	signal	storage	marking	mark	sign	signaling	legal name	show	fine arts	exclusive right	prerogative	depiction	portrayal	depicting
+music genre
+musical style	music genre
+jazz	music genre
+idiophone	instrument	musical instrument
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	popular music	popular music genre	musical style	music genre
+proficiency	technique	musical technique	series	work of art	state	specifications
+musical composition	piece of music	opus	composition	musical work	work of art
+blues	music genre	musical style
+single	vocal	song	track	human voice	album	record album	studio album	medium	release	musical composition	piece of music	opus	composition	musical work	audio signal	work of art	signal	storage	electrical energy	function
+band	musical group	musical organization	music group	musical composition	piece of music	opus	composition	musical work	work of art
+popular music	popular music genre	musical style	african-american music	black music	music genre
+lute	stringed instrument	string instrument	guitar	plucked instrument	plucked string instrument	instrument	musical instrument
+musical work	line of succession	work of art
+hymn	anthem	vocalizing	singer	singing	vocalist	vocal	song	track	human voice	religious song	vocal music	musical performance	musical composition	piece of music	opus	composition	church music	religious music	speech	spoken language	language	performance	performing arts	musical work	christian music	musical style	music genre	human language	demonstration	presentation	work of art	show
+jazz	bandleader	clarinettist	clarinetist	popular music	popular music genre	musical style	music genre	music director	conductor	musician	person	organist	boss	chief	leader	conducting	administration	direction	management
+stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+air	strain	melodic line	melodic phrase	melody	tune	musical composition	piece of music	opus	composition	musical work	work of art
+cornetist	trumpeter	musician	person
+classical	music genre
+popular music	popular music genre	musical style	music genre
+popular music	popular music genre	radio format	musical style	music genre	pop
+musical style	music genre	sound	sound wave	entertainment	amusement	undulation	wave	vibration	oscillation	motion	movement	alternative rock
+musical passage	passage	musical composition	piece of music	opus	composition	musical work	work of art
+soundtrack	album	record album	studio album	musical work	audio recording	sound recording	audio	flick	audio signal	medium	work of art	recording	show	signal	storage
+ballad	lay	verse	verse line	musical style	music genre	vocal	song	track	human voice	musical composition	piece of music	opus	composition	text	musical work	work of art
+musical composition	piece of music	opus	composition	band	musical group	musical organization	music group	musical work	work of art
+cornetist	trumpeter	musician	person
+alternative rock	rock	pop	music genre	musical style
+expression	ebullience	exuberance	enthusiasm	musicality
+singer-songwriter	release	album	record album	studio album	medium	songwriter	songster	singer	vocalist	musician	person	musical work	audio signal	lyrist	lyricist	composer	work of art	signal	storage	writer	poet	poetess	electrical energy	function
+album	record album	studio album	medium	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	musical work	audio signal	dance band	dance orchestra	work of art	signal	storage	electrical energy	function
+male voice	singing voice	voice	singer	person
+military march	martial music	military music	musical style	music genre	marching music	march	musical work	musical composition	piece of music	opus	composition	work of art
+verse	verse line	musical style	music genre	vocal	song	track	human voice	musical composition	piece of music	opus	composition	text	musical work	work of art
+idiophone	instrument	musical instrument
+traditional music	folk	folkie	folk music	ethnic music	tune	pop musician	pop music	pop	musical style	music genre	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+harmony	musical harmony	head voice	male voice	human voice	head register	moan	groan	vocalism	phonation	vocalization	vocalisation	voice quality	voice	vox	vocal	song	track	chord	register	utterance	musical composition	piece of music	opus	composition	note	tone	musical note	ambit	reach	orbit	range	compass	scope	tessitura	timbre	timber	musical work	musical notation	music notation	extent	work of art	magnitude
+musical composition	piece of music	opus	composition	band	musical group	musical organization	music group	musical work	work of art
+instrument	musical instrument
+musical style	music genre
+pop	music genre
+popular music	popular music genre	musical style	music genre
+folk song	folk ballad	folksong	musical style	music genre	traditional music	folk	folkie	folk music	ethnic music	tune	vocal	song	track	human voice	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+latin music	music genre
+alternative rock	music genre
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	vocal	song	track	human voice	album	record album	studio album	medium	single	dance band	dance orchestra	musical composition	piece of music	opus	composition	musical work	audio signal	release	work of art	signal	storage	electrical energy	function
+vocalizing	singer	singing	vocalist	recitative	vocal music	musical performance	musical passage	passage	speech	spoken language	language	performance	performing arts	musical composition	piece of music	opus	composition	human language	demonstration	presentation	musical work	show	work of art
+brass	brass instrument	wind	wind instrument	bass instrument	bass	instrument	musical instrument	aerophone
+classical	music genre
+musical work	line of succession	musical perception	work of art	psychoacoustics	auditory perception	psychology	perception	methodology	method	way
+single	medium	vocal	song	track	human voice	album	record album	studio album	release	musical composition	piece of music	opus	composition	musical work	audio signal	storage	work of art	signal
+musical style	music genre
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre	progressive
+instrument	musical instrument	aerophone
+guitar	stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+popular music	popular music genre	musical style	music genre
+hand drum	dance	dance music	drum	membranophone	percussion	percussive instrument	percussion instrument	instrument	musical instrument
+opera	musical work	musical theater	drama	dramatic play	performing arts	classical	classical music	serious music	art music	work of art	theater	theatre	dramatics	dramaturgy	dramatic art	musical style	music genre	fine arts
+album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage	electrical energy	function
+music genre
+country	country music	country-western music	country and western	american folk music	musical style	music genre	traditional music	folk	folkie	folk music	ethnic music	tune	pop musician	pop music	pop	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+instrument	musical instrument
+traditional music	folk	folkie	folk music	ethnic music	tune	vocal	song	track	human voice	popular music	popular music genre	musical style	music genre	musical composition	piece of music	opus	composition	musical work	work of art
+psychedelic folk	person	psychedelic music	musical style	music genre
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra	person
+musical group	music group	hip hop music	hip hop	rap	rap music	hip-hop	popular music	african-american music	black music
+part music
+instrument	musical instrument	brass	brass instrument	wind	wind instrument	aerophone
+dance	dance music	square dance	square dancing	dancing	contra dance	contredanse	country dance	contradance	musical work	performing arts	flick	folk dance	folk dancing	work of art	show	social dance	ballroom dance	ballroom	social dancing
+musical work	musical composition	piece of music	opus	composition	work of art
+musician	record producer	person	boss	chief	leader	administration	direction	management	corporate executive	business executive	executive	executive director	title	firm	corporation	company	partnership	venture	enterprise	concern	administrator	honorific
+jazz	musical style	music genre	popular music	popular music genre
+music genre	musical style
+blues	music genre
+stick
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	heavy metal music	heavy metal	album	record album	studio album	medium	dance band	dance orchestra	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	musical work	audio signal	popular music	popular music genre	work of art	signal	storage	electrical energy	function
+saxist	saxophonist	wind	wind instrument	saxophone	sax	musician	instrument	musical instrument	aerophone	wood	woodwind instrument	woodwind	reed	reed instrument	person
+condiment	seasoning	flavoring	flavouring	latin music	music genre
+sound	sensation	perception	reggae	music genre	musical style
+air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+instrument	musical instrument	double reed	wood	woodwind instrument	woodwind	reed	reed instrument	wind	wind instrument	aerophone
+guitar player	guitarist	film director	singer-songwriter	composer	record producer	musician	film producer	film production	filmmaker	film making	film maker	movie maker	songwriter	songster	singer	vocalist	person	boss	chief	leader	cinematography	filming	manufacture	television producer	producer	lyrist	lyricist	administration	direction	management	corporate executive	business executive	photography	visual arts	visual art	writer	poet	poetess	executive	executive director	title	firm	corporation	company	partnership	venture	enterprise	concern	task	picturing	administrator	honorific
+musical composition	piece of music	opus	composition	musical work	work of art
+air	strain	melodic line	melodic phrase	melody	tune	musical work	line of succession	work of art
+swing jazz	jazz	music genre
+alternative rock	music genre
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra
+musical composition	piece of music	opus	composition	musical work	work of art
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre	alternative rock
+teen	teenager	adolescent	subculture	youth subculture	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	juvenile	youth culture	popular music	popular music genre	person	generation	contemporary	contemporaries	alternative rock
+musical style	music genre
+introduction
+latin music	music genre	musical style
+album	record album	studio album	band	musical group	musical organization	music group	rock group	rock band	team	single	medium	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition	work of art	signal	storage
+speech	spoken language	language	human language
+regional blues	blues	music genre
+medium	album	record album	studio album	single	vocal	song	track	human voice	compilation album	musical work	audio signal	release	musical composition	piece of music	opus	composition	storage	work of art	signal	electrical energy	function
+drum	membranophone	percussion	percussive instrument	percussion instrument	instrument	musical instrument
+race	swim	swimming	contestant	competitor	competition	contest	track and field	group event	social event	music genre
+medium	single	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	storage	musical work	work of art
+classical	music genre
+stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+band	musical group	musical organization	music group	rock group	rock band	team	heavy metal music	heavy metal	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre
+guitar	stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+instrument	musical instrument	aerophone
+musician	person
+flute	pipe	instrument	musical instrument	wood	woodwind instrument	woodwind	wind	wind instrument	aerophone
+musical work	work of art
+musical notation	music notation	pitch	voice	instrument	musical instrument	singer	vocalist	singing voice	voice type	head voice	male voice	human voice	head register	vocalism	phonation	vocalization	vocalisation	voice quality	vox	vocal	song	track	air	strain	melodic line	melodic phrase	melody	tune	musician	register	musical composition	piece of music	opus	composition	musical work	ambit	range	compass	scope	tessitura	timbre	tone	timber	work of art	extent	specifications	person	magnitude	music genre	musical style
+musical passage	passage	musical composition	piece of music	opus	composition	tempo	pacing	musical work	musical time	work of art	specifications
+traditional music	folk	folkie	folk music	ethnic music	tune	musical style	music genre	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+music genre	musical style
+country	music genre
+serialism	serial music	proficiency	technique	musical technique	series	work of art	state
+classical	music genre
+introduction
+album	record album	studio album	extended play	vocal	song	track	human voice	musical theatre	musical	musical theater	musical comedy	musical work	audio signal	medium	audio recording	sound recording	audio	sound reproduction	sound system	audio system	musical composition	piece of music	opus	composition	flick	theater	theatre	dramatics	dramatic art	work of art	signal	recording	reproduction	show	fine arts	storage	repeating	repetition
+religious song	vocal	song	track	human voice	church music	religious music	musical composition	piece of music	opus	composition	christian music	musical style	music genre	musical work	work of art
+musical style	music genre	soul music	african-american music	black music	gospel singing	gospel	gospel music	traditional music	folk	folkie	folk music	ethnic music	tune	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work
+air	strain	melodic line	melodic phrase	melody	tune	musical composition	piece of music	opus	composition	musical work	line of succession	work of art
+guitar	stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+popular music	popular music genre	musical style	music genre	musical composition	piece of music	opus	composition	musical work	work of art
+viola da gamba	viol	bass viol	bowed string instrument	string	bowed instrument	bass instrument	bass	stringed instrument	string instrument	instrument	musical instrument
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre
+album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage	electrical energy	function
+band	musical group	musical organization	music group	rock group	rock band	team	dance band	dance orchestra
+album	record album	studio album	medium	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	music chart	record chart	measure	single	musical work	audio signal	dance band	dance orchestra	social norm	metric	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	work of art	signal	storage	standing	electrical energy	function	state
+idiophone	instrument	musical instrument
+percussion	percussive instrument	percussion instrument	instrument	musical instrument	idiophone
+band	musical group	musical organization	music group	rock group	rock band	team	medium	storage
+vocal	song	track	human voice	pop musician	pop music	pop	medium	single	album	record album	studio album	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	girl group	musical composition	piece of music	opus	composition	popular music	popular music genre	musical style	music genre	release	musical work	audio signal	dance band	dance orchestra	storage	work of art	signal	electrical energy	function
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra	person
+music genre
+verse	poetry	poesy	music genre
+album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage	electrical energy	function
+musical style	music genre	popular music	popular music genre
+idiophone	instrument	musical instrument
+percussion	percussive instrument	percussion instrument	idiophone	instrument	musical instrument
+music genre
+musician	record producer	person	boss	chief	leader	administration	direction	management	executive	executive director	title
+excerpt	selection	extract
+album	record album	studio album	person	rock star	thespian	actor	musical work	audio signal	medium	rocker	singer	vocalist	work of art	signal	musician	electrical energy	function	storage
+bowed string instrument	string	bowed instrument	stringed instrument	string instrument	plucked instrument	plucked string instrument	harp	instrument	musical instrument
+dance	dancing	dance music	musical style	music genre	musical work	performing arts	flick	work of art	show	latin music
+air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+vocalizing	singer	singing	vocalist	vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show
+person
+music genre
+single	medium	vocal	song	track	human voice	crooner	balladeer	thespian	actor	release	musical composition	piece of music	opus	composition	person	moniker	nickname	epithet	sobriquet	singer	vocalist	musical work	storage	given name	forename	musician	work of art	personal name	full name	proper name
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+musical composition	piece of music	opus	composition	musical work	work of art
+album	record album	studio album	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	single	medium	vocal	song	track	human voice	solo album	musical work	audio signal	dance band	dance orchestra	release	musical composition	piece of music	opus	composition	work of art	signal	storage	person	electrical energy	function
+classical	classical music	serious music	art music	musical composition	piece of music	opus	composition	musical style	music genre	musical work	work of art
+album	record album	studio album	medium	solo album	single	vocal	song	track	human voice	musical theatre	musical	musical theater	musical comedy	musical work	audio signal	release	musical composition	piece of music	opus	composition	flick	picture	movie	pic	picture show	film	motion picture	theater	theatre	dramatics	dramaturgy	dramatic art	work of art	signal	storage	show	fine arts	electrical energy	function	social event
+popular music	popular music genre	musical style	music genre
+proficiency	technique	musical technique	vocalizing	singer	singing	vocalist	musical notation	music notation	vocal music	musical performance	state	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	specifications	show
+folk	music genre	musical style
+album	record album	studio album	solo album	person	musical work	audio signal	medium	work of art	signal	storage
+vocalizing	singer	singing	vocalist	sound	sound wave	noise	vocal music	musical performance	undulation	wave	speech	spoken language	language	performance	performing arts	vibration	oscillation	motion	movement	human language	demonstration	presentation	show
+quote	citation	quotation
+musical style	music genre	rock
+vocalizing	singer	singing	vocalist	vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+songwriter	songster	person	thespian	actor	lyrist	lyricist	composer	writer	poetess	musician
+alternative rock	music genre
+rock	latin music	music genre	musical style
+independent music	album	record album	studio album	diy ethic	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra	person
+music genre	musical style
+record producer	person	boss	chief	leader	administration	direction	management	corporate executive	business executive	executive	executive director	title	firm	corporation	company	partnership	venture	enterprise	concern	administrator	honorific
+euro pop	pop	music genre
+popular music	popular music genre	musical style	music genre
+musical style	music genre	pop
+folk	music genre	musical style
+album	record album	studio album	medium	extended play	band	musical group	musical organization	music group	rock group	rock band	team	musical work	audio signal	audio recording	sound recording	audio	sound reproduction	sound system	audio system	work of art	signal	storage	recording	reproduction	person	repeating	repetition
+popular music	popular music genre	musical style	music genre
+record label	recording label	label	record company	division	branch	trademark	trade name	brand name	brand	marque	name brand	firm	corporation	company	partnership	venture	enterprise	concern	marking	mark	signal	sign	signaling	legal name	exclusive right	prerogative	depiction	portrayal	depicting
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+instrument	membranophone	musical instrument
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	popular music	popular music genre	musical style	music genre
+musical work	work of art
+reggae	music genre	musical style
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	album	record album	studio album	medium	dance band	dance orchestra	musical work	audio signal	person	work of art	signal	storage	electrical energy	function
+percussion	percussive instrument	percussion instrument	instrument	musical instrument	membranophone
+band	musical group	musical organization	music group	rock group	rock band	team	album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage
+album	record album	studio album	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	heavy metal music	heavy metal	musical work	audio signal	medium	dance band	dance orchestra	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	work of art	signal	popular music	popular music genre	electrical energy	function	storage
+musical notation	music notation	sheet music	musical composition	piece of music	opus	composition	musical work	work of art
+idiophone	instrument	musical instrument
+jazz	note	tone	musical note	blues	rhythm	beat	beat level	musical rhythm	popular music	popular music genre	musical style	music genre	musical notation	music notation	african-american music	black music	folk song	folk ballad	folksong	musical time	traditional music	folk	folkie	folk music	ethnic music	tune	vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	specifications
+musical work	musical composition	piece of music	opus	composition	hymn	anthem	soulfulness	vocal	song	track	human voice	work of art	religious ceremony	religious ritual	cult	religious song	psyche	mind	nous	ceremony	organized religion	religion	church music	religious music	christian music	musical style	music genre
+regional blues	blues	music genre
+musical work	classical	classical music	serious music	art music	work of art	musical style	music genre
+band	musical group	musical organization	music group	rock group	rock band	team	album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage
+jazz	note	tone	musical note	blues	rhythm	beat	beat level	musical rhythm	popular music	popular music genre	musical style	music genre	musical notation	music notation	african-american music	black music	folk song	folk ballad	folksong	musical time	traditional music	folk	folkie	folk music	ethnic music	tune	vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	specifications
+recording	musical composition	piece of music	opus	composition	musical work	work of art	new age	country	gospel	music genre	musical style
+album	record album	studio album	single	medium	vocal	song	track	human voice	musical work	audio signal	release	musical composition	piece of music	opus	composition	work of art	signal	storage	electrical energy	function
+rhythm	beat	beat level	musical rhythm	musical composition	piece of music	opus	composition	musical time	musical work	work of art	specifications
+electronic music	musical style	music genre	music technology
+musical work	hymn	anthem	work of art	religious song	vocal	song	track	human voice	church music	religious music	musical composition	piece of music	opus	composition	christian music	musical style	music genre
+single	medium	vocal	song	track	human voice	release	musical composition	piece of music	opus	composition	musical work	storage	work of art
+band	musical group	musical organization	music group	rock group	rock band	team
+music genre	musical style
+medium	single	album	record album	studio album	vocal	song	track	human voice	extended play	band	musical group	musical organization	music group	rock group	rock band	team	release	musical composition	piece of music	opus	composition	musical work	audio signal	audio recording	sound recording	audio	sound reproduction	sound system	audio system	storage	work of art	signal	recording	reproduction	repeating	repetition
+music genre
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+idiophone	instrument	musical instrument
+singer-songwriter	songwriter	songster	singer	vocalist	musician	person	lyrist	lyricist	composer	writer	poet
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre
+percussion	percussive instrument	percussion instrument	instrument	musical instrument	idiophone
+religious song	vocalizing	singer	singing	vocalist	church music	religious music	vocal	song	track	human voice	vocal music	musical performance	christian music	musical style	music genre	musical composition	piece of music	opus	composition	speech	spoken language	language	performance	performing arts	musical work	human language	demonstration	presentation	work of art	show
+improvisation	extemporization	musical style	music genre	jazz	performance	popular music	popular music genre	demonstration	presentation	show	entertainment	amusement
+folk	music genre
+wind	wind instrument	instrument	musical instrument	aerophone
+wood	woodwind instrument	woodwind	instrument	musical instrument	wind	wind instrument	aerophone	artifact
+band	musical group	musical organization	music group	rock group	rock band	dance band	dance orchestra
+book	medium	opera	piece of work	storage
+cymbal	percussion	percussive instrument	percussion instrument	idiophone	instrument	musical instrument
+composing	composition
+pop	music genre	musical style
+vocal	song	track	human voice	strain	musical composition	piece of music	opus	composition	vocal music	musical work	speech	spoken language	language	work of art	human language
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage
+album	record album	studio album	medium	musician	singer-songwriter	songwriter	songster	singer	vocalist	musical work	audio signal	person	lyrist	lyricist	composer	work of art	signal	storage	writer	poet
+work song	vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+dance	dance music	music genre	musical style
+album	record album	studio album	live album	festival	rock festival	musical work	audio signal	medium	time period	period of time	live show	performance	concert	music festival	work of art	signal	public presentation	fete	festivity	fête	storage	show	group event	party	celebration	social	occasion
+classical	music genre
+polyphonic music	polyphony	texture	musicality
+musical style	music genre
+pianist	piano player	jazzman	jazz musician	composer	bandleader	musician	person	music director	conductor	organist	boss	chief	leader	film director	conducting	administration	direction	management	corporate executive	business executive	film producer	film production	filmmaker	film making	film maker	movie maker
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	popular music	popular music genre	musical style	music genre
+hip hop music	hip hop	rap	rap music	hip-hop	band	musical group	musical organization	music group	rock group	rock band	team	album	record album	studio album	medium	popular music	popular music genre	musical style	african-american music	black music	music genre	musical work	audio signal	person	work of art	signal	storage
+instrument	musical instrument	clarinet	wood	woodwind instrument	woodwind	reed	reed instrument	wind	wind instrument	aerophone
+jazz	vocalizing	singer	singing	vocalist	musical improvisation	improvisation	popular music	popular music genre	musical style	music genre	vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show
+musician	band	musical group	musical organization	music group	person
+vocal music	instrumental music
+jazz	music genre
+alternative rock	music genre
+work song	vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+wind	wind instrument	free reed	instrument	musical instrument	aerophone
+music genre
+oldies	pop	music genre
+electronic equipment	electronic device	equipment
+medium	single	vocal	song	track	human voice	release	musical composition	piece of music	opus	composition	storage	musical work	work of art
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+album	record album	studio album	single	medium	vocal	song	track	human voice	cut	solo album	musical work	audio signal	release	musical composition	piece of music	opus	composition	work of art	signal	storage	passage
+musical composition	piece of music	opus	composition	musical work	work of art
+guitar	stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+bandmember	rock group	rock band	band	team	musical group	musical organization	music group	dvd	medium	album	record album	studio album	music video	dance band	dance orchestra	musical work	audio signal	visual arts	visual art	video	video recording	short film	storage	work of art	signal	electronic media	recording	feature film	film genre	flick	picture	movie	pic	picture show	film	motion picture	electrical energy	function	show	task	social event
+dance	dance music	popular music	popular music genre	musical style	vocal	song	track	human voice	ballroom dancing	social dance	ballroom dance	ballroom	music genre	musical composition	piece of music	opus	composition	dancing	partner dance	social dancing	musical work	performing arts	flick	work of art	show
+latin music	music genre	musical style
+album	record album	studio album	medium	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	musical work	audio signal	dance band	dance orchestra	work of art	signal	storage	person	electrical energy	function
+single	medium	vocal	song	track	human voice	album	record album	studio album	rock musical	musical theatre	musical	musical theater	musical comedy	band	musical group	musical organization	music group	rock group	rock band	team	release	musical composition	piece of music	opus	composition	musical work	audio signal	flick	theater	theatre	dramatics	dramatic art	storage	work of art	signal	show	fine arts
+lute	instrument	musical instrument	plucked instrument	plucked string instrument	stringed instrument	string instrument
+music genre
+singer	vocalist	singer-songwriter	songwriter	person
+single	medium	vocal	song	track	human voice	album	record album	studio album	band	musical group	musical organization	music group	rock group	rock band	team	release	musical composition	piece of music	opus	composition	musical work	audio signal	storage	work of art	signal
+dance	dance music
+alternative rock	punk rock	punk	rock	pop	music genre	musical style
+single	vocal	song	track	human voice	writer	singer	vocalist	thespian	actor	singer-songwriter	release	musical composition	piece of music	opus	composition	person	musician	songwriter	songster	catalogue	musical work	lyrist	lyricist	composer	list	work of art	poet
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre
+enthusiast	devotee	aficionado	fan	lover	buff	follower	person
+record producer	disc jockey	disk jockey	dj	commentator	journalist	presenter	person	boss	chief	leader	writer	administration	direction	management	corporate executive	business executive	executive	executive director	title	firm	corporation	company	partnership	venture	enterprise	concern	administrator	honorific
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	album	record album	studio album	medium	vocal	song	track	human voice	dance band	dance orchestra	musical work	audio signal	musical composition	piece of music	opus	composition	work of art	signal	storage	electrical energy	function
+band	musical group	musical organization	music group	rock group	rock band	team
+electronic music	trance	trance music	musical style	music genre	music technology	electronic dance music	dance	dance music
+proficiency	technique	musical technique	series	work of art	state	specifications
+guitar player	guitarist	musician	person
+composer	person	musician
+musical instrument	instrument
+voice	air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+musical composition	piece of music	opus	composition	14th century	choir	chorus	vocal	song	track	human voice	musical work	work of art
+single	medium	vocal	song	track	human voice	release	musical composition	piece of music	opus	composition	musical work	storage	work of art
+album	record album	studio album	band	musical group	musical organization	music group	rock group	rock band	team	musical work	audio signal	medium	dance band	dance orchestra	work of art	signal	storage
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+musical composition	piece of music	opus	composition	musical work	work of art
+musical arrangement	arrangement	instrument	musical instrument	arranging	transcription	musical composition	piece of music	opus	composition	composing	musical work	work of art
+blues	music genre	musical style
+wood	woodwind instrument	woodwind	instrument	musical instrument	reed	reed instrument	wind	wind instrument	aerophone
+single	medium	vocal	song	track	human voice	album	record album	studio album	musician	release	musical composition	piece of music	opus	composition	musical work	audio signal	person	storage	work of art	signal
+electronic instrument	electronic musical instrument	instrument	musical instrument
+brass	brass instrument	french horn	horn	instrument	musical instrument	wind	wind instrument	aerophone
+record producer	person	boss	chief	leader	administration	direction	management	corporate executive	business executive	executive	executive director	title	firm	corporation	company	partnership	venture	enterprise	concern	administrator	honorific
+alternative rock	music genre
+music genre	musical style
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+musical work	work of art
+percussion	percussive instrument	percussion instrument	drum	membranophone	instrument	musical instrument
+african-american music	black music	folk song	folk ballad	folksong	musical style	music genre	traditional music	folk	folkie	folk music	ethnic music	tune	vocal	song	track	human voice	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+passage
+band	musical group	musical organization	music group	rock group	rock band	album	record album	studio album	dance band	dance orchestra	musical work	audio signal	medium	work of art	signal	storage
+vocalizing	singer	singing	vocalist	vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show
+idiophone	instrument	musical instrument
+musical group	musical organization
+songster	singer	vocalist	musician
+musical style	music genre	alternative rock
+blues	music genre	musical style
+single	medium	vocal	song	track	human voice	album	record album	studio album	band	musical group	musical organization	music group	rock group	rock band	team	release	musical composition	piece of music	opus	composition	musical work	audio signal	storage	work of art	signal
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+dance	dancing	song and dance	dance music	rhythm	beat	beat level	musical rhythm	musical work	performing arts	flick	musical theatre	musical	musical theater	musical comedy	musical time	work of art	show	theater	theatre	dramatics	dramatic art	fine arts	specifications
+instrument	musical instrument	present day	plucked instrument	plucked string instrument	stringed instrument	string instrument
+dance	dance music	musical style	music genre
+musical passage	passage	musical composition	piece of music	opus	composition	musical work	work of art
+vocal	song	track	human voice	album	record album	studio album	medium	songwriter	songster	musician	thespian	actor	musical composition	piece of music	opus	composition	musical work	audio signal	lyrist	lyricist	composer	person	work of art	signal	storage	writer	poet	poetess	electrical energy	function
+jazz	popular music	popular music genre	musical style	music genre
+album	record album	studio album	medium	solo album	musical work	audio signal	work of art	signal	storage
+classical	music genre	musical style
+musical composition	piece of music	opus	composition	musical work	work of art
+responsory	church music	religious music	chant	christian music	musical style	music genre	religious song	vocalizing	singer	singing	vocalist	vocal	song	track	human voice	vocal music	musical performance	musical composition	piece of music	opus	composition	speech	spoken language	language	performance	performing arts
+plucked instrument	plucked string instrument	stringed instrument	string instrument	instrument	musical instrument
+album	record album	studio album	extended play	musical work	audio signal	medium	audio recording	sound recording	audio	sound reproduction	sound system	audio system	work of art	signal	recording	reproduction	storage	repeating	repetition
+medium	single	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	storage	musical work	work of art
+musical style	music genre	latin music
+band	musical group	musical organization	music group	voice	bandmember	rock group	rock band	team	air	strain	melodic line	melodic phrase	melody	tune	dance band	dance orchestra	musical work	line of succession	work of art
+musical style	music genre	rock
+musical style	music genre
+alternative rock	music genre
+instrument	membranophone	musical instrument
+theme	melodic theme	musical theme	air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+single	medium	vocal	song	track	human voice	release	musical composition	piece of music	opus	composition	musical work	storage	work of art
+percussion	percussive instrument	percussion instrument	instrument	musical instrument	idiophone
+bass part	bass	voice	air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+instrument	musical instrument	aerophone
+instrument	musical instrument	transverse flute	flute	pipe	wood	woodwind instrument	woodwind	wind	wind instrument	aerophone
+musician	person
+musician	pianist	drummer	composer	person	conductor
+instrument	musical instrument	aerophone
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+hymn	anthem
+percussion
+album	record album	studio album	medium	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	musical work	audio signal	dance band	dance orchestra	work of art	signal	storage	electrical energy	function
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra
+backup band	musical accompaniment	support	accompaniment	backup	band	musical group	musical organization	music group	voice	bandmember	rock group	rock band	team	air	strain	melodic line	melodic phrase	melody	tune	dance band	dance orchestra	musical work	line of succession	work of art
+radio format	music genre	musical style
+traditional music	folk	folkie	folk music	ethnic music	tune	ensemble	popular music	popular music genre	musical style	music genre	musical composition	piece of music	opus	composition	band	musical group	musical organization	music group	musical work	work of art	latin music
+composing	composition	musical composition	piece of music	opus	musical work	work of art
+musical work	hip hop music	hip hop	rap	rap music	hip-hop	band	musical group	musical organization	music group	rock group	rock band	team	musical composition	piece of music	opus	composition	work of art	popular music	popular music genre	musical style	african-american music	black music	music genre	dance band	dance orchestra
+saxist	saxophonist	wind	wind instrument	saxophone	sax	musician	instrument	musical instrument	aerophone	wood	woodwind instrument	woodwind	reed	reed instrument	person
+double reed	wood	woodwind instrument	woodwind	reed	reed instrument	instrument	musical instrument	wind	wind instrument	aerophone
+instrument	musical instrument
+dance	dancing	musical work	performing arts	flick	work of art	show	classical	music genre	musical style
+lecture	speech	talk	musician	person	hymn	anthem
+popular music	popular music genre	musical style	music genre
+blues	regional blues	music genre	musical style
+album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage
+sonata	musical work	classical	classical music	serious music	art music	work of art	musical style	music genre
+dance	dance music	folk dance	folk dancing	dancing	social dance	ballroom dance	ballroom	social dancing	musical work	performing arts	flick	work of art	show
+singer-songwriter	composer	thespian	songwriter	songster	singer	vocalist	musician	person	lyrist	lyricist	entertainer	writer	poet	poetess
+chant	choral	chorale	religious song	vocalizing	singing	musical work	hymn	anthem	church music	religious music	vocal	song	track	human voice	vocal music	musical performance	work of art	christian music	musical style	music genre	musical composition	piece of music	opus	composition	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation
+music theory	variation	theme	melodic theme	musical theme	air	strain	melodic line	melodic phrase	melody	tune	musical work	line of succession	work of art
+music genre
+instrument	musical instrument	transverse flute	flute	pipe	wood	woodwind instrument	woodwind	wind	wind instrument	aerophone
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+harmony	musical harmony	backup band	musical accompaniment	support	accompaniment	backup	vocalizing	singer	singing	vocalist	chord	band	musical group	musical organization	music group	voice	bandmember	rock group	rock band	team	vocal music	musical performance	note	tone	musical note	air	strain	melodic line	melodic phrase	melody	tune	dance band	dance orchestra	speech	spoken language	language	performance	performing arts	musical notation	music notation	musical work	line of succession	human language	demonstration	presentation	work of art	show
+form	musical form	shape	architecture	musical composition	piece of music	opus	composition	figure	musical work	decoration	ornamentation	turn	work of art	sound	sound wave	entertainment	amusement	artifact	fine art	undulation	wave	scalar	vibration	oscillation	motion	movement
+country	music genre
+medium	single	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	storage	musical work	work of art
+african-american music	black music	gospel singing	gospel	gospel music	musical style	music genre	traditional music	folk	folkie	folk music	ethnic music	tune	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+plate	black and white	idiophone	instrument	musical instrument
+album	record album	studio album	extended play	musical work	audio signal	medium	audio recording	sound recording	audio	sound reproduction	sound system	audio system	work of art	signal	recording	reproduction	storage	repeating	repetition
+dance	dancing	dance music	musical style	music genre	musical work	performing arts	flick	picture	movie	pic	picture show	film	motion picture	work of art	show	social event	latin music
+instrument	musical instrument	drum	membranophone	percussion	percussive instrument	percussion instrument
+voice	air	strain	melodic line	melodic phrase	melody	tune	musical work	line of succession	work of art
+album	record album	studio album	double album	medium	band	musical group	musical organization	music group	rock group	rock band	team	extended play	musical work	audio signal	audio recording	sound recording	audio	sound reproduction	sound system	audio system	work of art	signal	storage	person	recording	reproduction	repeating	repetition
+popular music	popular music genre	musical style	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	music genre
+instrument	musical instrument	frame drum	drum	membranophone	percussion	percussive instrument	percussion instrument
+album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage
+classic rock	rock	music genre	musical style
+musical composition	piece of music	opus	composition	musical work	work of art
+band	musical group	musical organization	music group	rock group	rock band	team
+album	record album	studio album	presenter	musical work	audio signal	medium	person	work of art	signal	storage
+pop	music genre	musical style
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre
+chamber music	classical	music genre	musical style
+quote	citation	quotation	extract	selection	excerpt	text	passage
+musical work	musical composition	piece of music	opus	composition	work of art
+music genre
+church music	religious music	vocal	song	track	human voice	christian music	musical style	music genre	musical composition	piece of music	opus	composition	musical work	work of art
+musical work	work of art
+religious song	vocal	song	track	human voice	church music	religious music	musical composition	piece of music	opus	composition	christian music	musical style	music genre	musical work	work of art
+ostinato	phrase	musical phrase	motif	musical passage	passage	theme	melodic theme	musical theme	musical composition	piece of music	opus	composition	air	strain	melodic line	melodic phrase	melody	tune	musical work
+singer-songwriter	guitar player	guitarist	musician	songwriter	songster	singer	vocalist	person	lyrist	lyricist	composer	writer	poet
+band	musical group	musical organization	music group	rock group	rock band	team	punk rock	punk music	punk	punk rocker
+musical work	classical	classical music	serious music	art music	musical composition	piece of music	opus	composition	work of art	musical style	music genre
+voice	air	strain	melodic line	melodic phrase	melody	tune	musical work	line of succession	work of art
+musical style	music genre
+chant	choral	chorale	religious song	vocalizing	singer	singing	vocalist	musical work	hymn	anthem	church music	religious music	vocal	song	track	human voice	vocal music	musical performance	work of art	christian music	musical style	music genre	musical composition	piece of music	opus	composition	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation
+free reed	instrument	musical instrument	wind	wind instrument	aerophone
+single	vocal	song	track	human voice	album	record album	studio album	live album	release	musical composition	piece of music	opus	composition	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+musical work	work of art
+musical style	music genre
+bowed string instrument	string	bowed instrument	stringed instrument	string instrument	instrument	musical instrument
+record label	recording label	label	record company	division	branch	trademark	trade name	brand name	brand	marque	name brand	firm	corporation	company	partnership	venture	enterprise	concern	marking	mark	signal	sign	signaling	legal name	exclusive right	prerogative	depiction	portrayal	depicting
+article	clause
+singer	musician	person
+band	musical group	musical organization	music group	voice	bandmember	rock group	rock band	team	air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+guitar	stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument
+music video game	video game
+close	closing	conclusion	end	ending
+music genre	musical style
+alternative rock	musical style	music genre	heavy metal music	heavy metal	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	popular music	popular music genre	metal
+music genre
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+singer-songwriter	record producer	songwriter	songster	singer	vocalist	musician	person	boss	chief	leader	lyrist	lyricist	composer	administration	direction	management	writer	poetess	executive	executive director	title
+rock	progressive	music genre	musical style
+musical work	sonata	musical composition	piece of music	opus	composition	work of art	classical	classical music	serious music	art music	musical style	music genre
+musical passage	passage	musical composition	piece of music	opus	composition	musical work	work of art
+album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage
+excerpt	selection	extract
+jazz	musical style	music genre	popular music	popular music genre
+musical style	music genre	rock
+musical style	music genre
+classical	music genre
+musical composition	piece of music	opus	composition	musical work	work of art
+vocalizing	singer	singing	vocalist	vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show
+record player	media player
+extract	selection	excerpt	musical composition	piece of music	opus	composition	passage	musical work	work of art
+alternative rock	music genre
+texture	musicality
+person	mononym	singer	vocalist	single	album	record album	studio album	extended play	musician	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	audio signal	medium	audio recording	sound recording	audio	sound reproduction	sound system	audio system	work of art	signal	recording	reproduction	storage	repeating	repetition
+violinist	fiddler	person	musician
+pop	oldies	music genre	musical style
+extended play	audio recording	sound recording	audio	sound reproduction	sound system	audio system	album	record album	studio album	recording	reproduction	disc jockey	disk jockey	dj	electronic equipment	musical work	audio signal	medium	work of art	signal	task	repeating	repetition	electrical energy	function	storage
+album	record album	studio album	medium	band	musical group	musical organization	music group	bandmember	rock group	rock band	team	heavy metal music	heavy metal	musical work	audio signal	dance band	dance orchestra	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	work of art	signal	storage	popular music	popular music genre	electrical energy	function
+stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+composer	musician	person
+bowed string instrument	string	bowed instrument	stringed instrument	string instrument	instrument	musical instrument
+proficiency	technique	musical technique	vocalizing	singer	singing	vocalist	vocal music	musical performance	state	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	specifications	show
+jazz	popular music	popular music genre	musical style	music genre
+dance	dance music	music genre	musical style
+latin music	music genre

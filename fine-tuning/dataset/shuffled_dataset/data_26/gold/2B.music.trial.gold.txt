@@ -1,0 +1,15 @@
+alternative rock	music genre
+dance	dance music	music genre	musical style
+music genre
+instrument	musical instrument	double reed	wood	woodwind instrument	woodwind	reed	reed instrument	wind	wind instrument	aerophone
+alternative rock	music genre
+harmony	musical harmony	head voice	male voice	human voice	head register	moan	groan	vocalism	phonation	vocalization	vocalisation	voice quality	voice	vox	vocal	song	track	chord	register	utterance	musical composition	piece of music	opus	composition	note	tone	musical note	ambit	reach	orbit	range	compass	scope	tessitura	timbre	timber	musical work	musical notation	music notation	extent	work of art	magnitude
+pop musician	pop music	pop	musical style	music genre	popular music	popular music genre
+air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+jazz	vocalizing	singer	singing	vocalist	musical improvisation	improvisation	popular music	popular music genre	musical style	music genre	vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show
+lecture	speech	talk	musician	person	hymn	anthem
+work song	vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+band	musical group	musical organization	music group	rock group	rock band	team	album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+record label	recording label	label	record company	division	branch	trademark	trade name	brand name	brand	marque	name brand	firm	corporation	company	partnership	venture	enterprise	concern	marking	mark	signal	sign	signaling	legal name	exclusive right	prerogative	depiction	portrayal	depicting
+idiophone	instrument	musical instrument
+chant	hymn	anthem	antiphony	antiphon	religious song	vocalizing	singer	singing	vocalist	vocal	song	track	human voice	responsory	church music	religious music	vocal music	musical performance	musical composition	piece of music	opus	composition	christian music	musical style	music genre	speech	spoken language	language	performance	performing arts	musical work	human language	demonstration	presentation	work of art

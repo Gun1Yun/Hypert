@@ -1,0 +1,15 @@
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	popular music	popular music genre	musical style	music genre
+idiophone	instrument	musical instrument
+band	musical group	musical organization	music group	vocal	song	track	human voice	bandmember	rock group	rock band	team	troupe	company	musical composition	piece of music	opus	composition	dance band	dance orchestra	musical work	work of art
+musical work	musical composition	piece of music	opus	composition	hymn	anthem	soulfulness	vocal	song	track	human voice	work of art	religious ceremony	religious ritual	cult	religious song	psyche	mind	nous	ceremony	organized religion	religion	church music	religious music	christian music	musical style	music genre
+musical style	music genre	rock	progressive
+idiophone	instrument	musical instrument
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+musical work	musical composition	piece of music	opus	composition	work of art
+popular music	popular music genre	musical style	music genre	dance	dance music
+musical work	series	musical composition	piece of music	opus	composition	work of art	fine art	sound	sound wave	entertainment	amusement	ordering	ordination	undulation	wave	artifact	scalar	placement	arrangement	vibration	oscillation	motion	movement
+hymn	anthem
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+music group	rock band	band
+alternative rock	music genre
+person

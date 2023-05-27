@@ -1,0 +1,1500 @@
+payoff	Concept
+word	Concept
+station	Concept
+health economics	Concept
+Nohar	Entity
+shock	Concept
+Maryland	Entity
+Inland Revenue	Concept
+Washburn High School	Entity
+Tang Xianzu	Entity
+Emmeline Pankhurst	Entity
+commodity	Concept
+gate	Concept
+stonecutter	Concept
+moderator	Concept
+stage	Concept
+spinneret	Concept
+gateway	Concept
+curiosa	Concept
+stairway	Concept
+vice president	Concept
+farming	Concept
+Chromosome 9	Entity
+Ludwig Boltzmann	Entity
+BLAST	Entity
+logotype	Concept
+rotter	Concept
+pungency	Concept
+click	Concept
+pedagogue	Concept
+lift	Concept
+terawatt	Concept
+Amis	Concept
+innovation	Concept
+Pinot blanc	Concept
+Ronald Bunting	Entity
+sodium borohydride	Concept
+school year	Concept
+freight	Concept
+stucco	Concept
+Sherlock Holmes	Entity
+real estate	Concept
+court	Concept
+chestnut	Concept
+footman	Concept
+Niels Bohr	Entity
+General Intelligence Directorate	Entity
+Tufts University	Entity
+color constancy	Concept
+dentist	Concept
+market research	Concept
+downlight	Concept
+Modest Mouse	Entity
+patrician	Concept
+Brown	Entity
+yardage	Concept
+Bomberman	Entity
+Xpdf	Entity
+Martinair	Entity
+deregulating	Concept
+immunologist	Concept
+Morris Carnovsky	Entity
+casino	Concept
+spaceport	Concept
+angular momentum	Concept
+felicity	Concept
+Kingdom Hospital	Entity
+proton pump	Concept
+human rights	Concept
+tadpole	Concept
+prepositional phrase	Concept
+Dennis Lillee	Entity
+organ donor	Concept
+putter	Concept
+Scott City	Entity
+Allakhazam	Entity
+accessibility	Concept
+airlock	Concept
+George Lamming	Entity
+Hotel Europe	Entity
+Valetta	Entity
+urus	Concept
+Jonathan Freedland	Entity
+Margot Fonteyn	Entity
+dirt	Concept
+university	Concept
+progeria	Concept
+discharge	Concept
+Keshu	Entity
+jug	Concept
+Creative	Entity
+white coat	Concept
+Robert Boyle	Entity
+northeaster	Concept
+Rome	Entity
+glutton	Concept
+molecule	Concept
+retainer	Concept
+Dustin Hoffman	Entity
+Samuel Johnson	Entity
+nuclear medicine	Concept
+breve	Concept
+viceroy	Concept
+imposture	Concept
+accounting	Concept
+Greccio	Entity
+Under the Moon	Entity
+bondman	Concept
+Czestochowa	Entity
+marketing research	Concept
+lie detector	Concept
+Catholic	Concept
+Lancashire	Entity
+workstation	Concept
+botany	Concept
+stymy	Concept
+couture	Concept
+Susannah Heschel	Entity
+blame	Concept
+Hill cipher	Concept
+cyclic guanosine monophosphate	Concept
+William Corson	Entity
+wage	Concept
+Nubian	Concept
+open proxy server	Concept
+Introducing	Entity
+questionnaire	Concept
+RTLinux	Entity
+savoy	Concept
+arm	Concept
+southwestward	Concept
+HandBrake	Entity
+Monaco	Entity
+reactionary	Concept
+hearsay rule	Concept
+scrutiny	Concept
+brittle	Concept
+mischance	Concept
+AAC	Entity
+Chris McKenna	Entity
+suite	Concept
+staginess	Concept
+Jean Coralli	Entity
+pigweed	Concept
+chest of drawers	Concept
+ley	Concept
+parkway	Concept
+shoe	Concept
+status epilepticus	Concept
+guest house	Concept
+artemisia	Concept
+Cooperation and Development	Entity
+Wisconsin	Entity
+Nyahururu	Entity
+nonreader	Concept
+handshake	Concept
+milkwort	Concept
+shooter	Concept
+Russell Shorto	Entity
+pollock	Concept
+dress	Concept
+follow-on	Concept
+mugwump	Concept
+modeling	Concept
+stilt	Concept
+Post	Entity
+Boulder Creek	Entity
+microprocessor	Concept
+great-grandfather	Concept
+complaint	Concept
+Alpha Omega Epsilon	Entity
+D'Arcy Wentworth	Entity
+magazine	Concept
+John Franks	Entity
+learner	Concept
+lanugo	Concept
+whiteness	Concept
+cricopharyngeus	Concept
+elimination	Concept
+open-source software development	Concept
+camellia	Concept
+Anna Lindh	Entity
+stability	Concept
+hypertext markup language	Concept
+bioenergy	Concept
+Ian Bell	Entity
+Voyager 1	Entity
+leopard cat	Concept
+phase	Concept
+witch-hunt	Concept
+subsoil	Concept
+Roos	Entity
+impression	Concept
+cast	Concept
+online shopping	Concept
+asterism	Concept
+appearing	Concept
+steeper	Concept
+anapsid	Concept
+September	Entity
+Fruitlands	Entity
+battle of Leuctra	Entity
+Tomb Raider	Entity
+admittance	Concept
+Andrew Anderson	Entity
+MathWorks	Entity
+Deutschland	Entity
+economic growth	Concept
+austral	Concept
+guerilla	Concept
+gradation	Concept
+O'Connor	Entity
+crusade	Concept
+Beowulf	Entity
+licentiate	Concept
+Callender	Entity
+spondee	Concept
+staphylococci	Concept
+environment	Concept
+theme	Concept
+label	Concept
+Typhoon Muifa	Entity
+army	Concept
+blueness	Concept
+bartlett	Concept
+wood	Concept
+spokesman	Concept
+John Heydon	Entity
+Beatties	Entity
+Funen	Entity
+Transantarctic Mountains	Entity
+ground level	Concept
+mother	Concept
+specialist	Concept
+Don McKellar	Entity
+local government	Concept
+Roald Amundsen	Entity
+power point	Concept
+card index	Concept
+city state	Concept
+sea	Concept
+anal sex	Concept
+outlaw	Concept
+spectroscope	Concept
+PlayStation Portable	Entity
+Verlot	Entity
+viola	Concept
+disk	Concept
+Test Site	Entity
+field hospital	Concept
+Essex	Entity
+synchronizer	Concept
+referee	Concept
+keyboardist	Concept
+Slax	Entity
+florin	Concept
+Leonidas	Entity
+grounds	Concept
+Mohammad Yousuf	Entity
+Busta Rhymes	Entity
+flyswatter	Concept
+policy	Concept
+pet shop	Concept
+Hugoton	Entity
+gelatin	Concept
+cyclicity	Concept
+spell-checker	Concept
+documentary	Concept
+complement	Concept
+relative humidity	Concept
+property owner	Concept
+clopidogrel bisulfate	Concept
+Ramesh Powar	Entity
+Syria	Entity
+classifier	Concept
+Vat Phou	Entity
+aileron	Concept
+Campo San Polo	Entity
+Merriam-Webster	Entity
+Laksar	Entity
+Hurrican	Entity
+Europe	Entity
+Margaret Robinson	Entity
+Bob Broeg	Entity
+swashbuckler	Concept
+instrumental	Concept
+report	Concept
+shift	Concept
+boundary	Concept
+Joe Price	Entity
+steenbok	Concept
+IBC	Entity
+festivity	Concept
+line of duty	Concept
+roomette	Concept
+wetsuit	Concept
+triple	Concept
+Mollie Katzen	Entity
+thermoregulation	Concept
+Georgian era	Concept
+jockey	Concept
+share	Concept
+grass	Concept
+anticyclone	Concept
+narcolepsy	Concept
+epistemology	Concept
+carbon dioxide	Concept
+Mare Island	Entity
+tau neutrino	Concept
+balsam	Concept
+escudo	Concept
+habit	Concept
+geosphere	Concept
+hosiery	Concept
+chrysoberyl	Concept
+desiccation	Concept
+Azua	Entity
+Tulsa	Entity
+coiner	Concept
+driving	Concept
+scallywag	Concept
+police	Concept
+gift shop	Concept
+diabetic nephropathy	Concept
+rotunda	Concept
+synapse	Concept
+prison	Concept
+solfege	Concept
+Hadrian	Entity
+height	Concept
+Kansas	Entity
+minke whale	Concept
+shelter	Concept
+attorney	Concept
+paragraph	Concept
+Brasilia	Entity
+softball	Concept
+baronet	Concept
+apparition	Concept
+monzonite	Concept
+malfeasance	Concept
+Herman Melville	Entity
+Riverboat Discovery	Entity
+nomination	Concept
+watercraft	Concept
+fence	Concept
+Landscape Arch	Entity
+Johan Remkes	Entity
+Crowds and Power	Entity
+Olga Lengyel	Entity
+camelpox	Concept
+Nina Pacari	Entity
+plumbing fixtures	Concept
+penal colony	Concept
+subpoena	Concept
+woofer	Concept
+stratum	Concept
+blackface	Concept
+Hadronyche	Concept
+sovereign	Concept
+Brassica napus	Concept
+Dhiren Barot	Entity
+judge	Concept
+headquarters	Concept
+particle physics	Concept
+engine	Concept
+Belfast Lough	Entity
+Nahum Sonenberg	Entity
+wave	Concept
+Coinage Act	Entity
+Deep learning	Concept
+cancer	Concept
+referral	Concept
+revetment	Concept
+Bobby Williams	Entity
+corneum	Concept
+corporation	Concept
+counterclaim	Concept
+franchise	Concept
+starling	Concept
+Richard Kuklinski	Entity
+econometrics	Concept
+Bealeton	Entity
+Salang Tunnel	Entity
+tetramethylammonium hydroxide	Concept
+violet	Concept
+management	Concept
+macadam	Concept
+cascade	Concept
+straw man	Concept
+British Home Stores	Entity
+Bislama	Entity
+run batted in	Concept
+Misti	Entity
+Soul Train	Entity
+Adams Express Company	Entity
+pusher	Concept
+website	Concept
+Francisco Pizarro	Entity
+praetor	Concept
+Halevi	Entity
+dirham	Concept
+adventure	Concept
+Bill Douglass	Entity
+spot price	Concept
+acquittance	Concept
+Sigrid Nunez	Entity
+Three Graces	Entity
+Fort Meade	Entity
+Plymouth	Entity
+megabyte	Concept
+Carlos Tosca	Entity
+beer	Concept
+switcher	Concept
+Leon Festinger	Entity
+honorable discharge	Concept
+disservice	Concept
+Myrdal	Entity
+Lyon	Entity
+empennage	Concept
+plastic	Concept
+cornstarch	Concept
+North Carolina	Entity
+senior	Concept
+Bryher	Entity
+patient	Concept
+rollercoaster	Concept
+plantation	Concept
+workforce	Concept
+Richard Rathbun	Entity
+New Zealand	Entity
+fading	Concept
+Amelia Earhart	Entity
+earphones	Concept
+religiosity	Concept
+Novi Vinodolski	Entity
+ideal gas	Concept
+lordship	Concept
+bird sanctuary	Concept
+linkage	Concept
+children	Concept
+sport	Concept
+cookhouse	Concept
+needle	Concept
+diathermy	Concept
+David Ball	Entity
+Aryabhata	Entity
+weekend	Concept
+OpenOffice	Entity
+grenade	Concept
+macedonia	Concept
+killer	Concept
+CISC	Concept
+electron microscopy	Concept
+Robert Trivers	Entity
+Edmund Burke	Entity
+baptismal font	Concept
+stack	Concept
+authoress	Concept
+triskelion	Concept
+IBM	Entity
+Michael Costa	Entity
+vulcanite	Concept
+risotto	Concept
+nuclear power plant	Concept
+gluon	Concept
+brain	Concept
+pin money	Concept
+Burnaby	Entity
+bladder cancer	Concept
+strappado	Concept
+cat	Concept
+Cecilia	Entity
+Rell Sunn	Entity
+cribbage	Concept
+waiver	Concept
+ecology	Concept
+HMAS Perth	Entity
+rheumatism	Concept
+Wernher von Braun	Entity
+swamp gum	Concept
+flooring	Concept
+reflex response	Concept
+wildlife	Concept
+subject	Concept
+sociology department	Concept
+grid	Concept
+owner-occupier	Concept
+knight-errant	Concept
+Paul Bremer	Entity
+dance	Concept
+restitution	Concept
+purplish-red	Concept
+Old Oaken Bucket	Entity
+stetson	Concept
+dulcimer	Concept
+horseshoer	Concept
+cumulus	Concept
+malediction	Concept
+editor in chief	Concept
+parameter	Concept
+sustainable tourism	Concept
+blastomere	Concept
+gigahertz	Concept
+Unix shell	Concept
+Rockwell Kent	Entity
+MS	Entity
+militarization	Concept
+Dominique Voynet	Entity
+mountain	Concept
+Howard Davis	Entity
+jade	Concept
+psychokinesis	Concept
+foreclosure	Concept
+Virtual Console	Entity
+SIMION	Entity
+buckler	Concept
+Younger Dryas	Entity
+reporter	Concept
+ammonium	Concept
+trust	Concept
+interior decoration	Concept
+outfielder	Concept
+banyan	Concept
+praise	Concept
+cabin	Concept
+Greek	Entity
+flip-flops	Concept
+computer industry	Concept
+binge	Concept
+camera	Concept
+Craig Anderson	Entity
+cusp	Concept
+insight	Concept
+rebel	Concept
+space	Concept
+covering	Concept
+money	Concept
+Photek	Entity
+timepiece	Concept
+Planck	Entity
+oratory	Concept
+alluvium	Concept
+Ridge Racer	Entity
+flare	Concept
+standard	Concept
+program	Concept
+Richard Starkey	Entity
+groceries	Concept
+marriage	Concept
+Biebrza National Park	Entity
+sarcophagus	Concept
+professional designation	Concept
+price of admission	Concept
+Jeremy Nathans	Entity
+precognition	Concept
+Kew Palace	Entity
+Lautrec	Entity
+Hillbrow	Entity
+Haven	Entity
+bomber	Concept
+pontiff	Concept
+workhouse	Concept
+Saqqaq	Entity
+lens	Concept
+Kathryn Werdegar	Entity
+Scott White	Entity
+Dance Mix	Entity
+studbook	Concept
+mortar	Concept
+La	Concept
+bachelor	Concept
+Forest Way	Entity
+beacon	Concept
+Karl Friedrich Gauss	Entity
+blackfly	Concept
+annual report	Concept
+hedonism	Concept
+retrieval	Concept
+John Talbot	Entity
+business concern	Concept
+Transportation	Entity
+warming	Concept
+Dublin Bus	Entity
+redundancy check	Concept
+Achille	Entity
+Tupelo Press	Entity
+viscometry	Concept
+endarteritis	Concept
+weather forecasting	Concept
+Circle Jerks	Entity
+sonogram	Concept
+Apiaceae	Concept
+The Washington Post	Entity
+behaviourism	Concept
+hockey	Concept
+leishmaniasis	Concept
+veranda	Concept
+planetary science	Concept
+disciple	Concept
+Comfortably Numb	Entity
+Winston S. Churchill	Entity
+spelt	Concept
+light pollution	Concept
+Ohio	Entity
+relay	Concept
+crossover	Concept
+plasma	Concept
+distribution	Concept
+offense	Concept
+colonial	Concept
+electorate	Concept
+gorget	Concept
+The Internet	Entity
+Dorset	Entity
+respiratory disease	Concept
+library	Concept
+supernaturalism	Concept
+deposit	Concept
+Fuzion Frenzy 2	Entity
+Martin State Airport	Entity
+9mm	Entity
+dragonfly	Concept
+satoyama	Concept
+Semipalatinsk Test Site	Entity
+powerhouse	Concept
+shed	Concept
+Volkswagen	Entity
+East Capitol Street	Entity
+Prentice Hall	Entity
+pedestrian	Concept
+Pacaya	Entity
+flowage	Concept
+pocketbook	Concept
+racoon	Concept
+Joseph Rodman Drake	Entity
+diadem	Concept
+visibility	Concept
+Madia	Concept
+German mark	Concept
+taka	Concept
+Vernon Jarrett	Entity
+lysine	Concept
+Chuck Schumer	Entity
+flow	Concept
+laurel	Concept
+Laurel Touby	Entity
+corpus delicti	Concept
+AT&T	Entity
+edger	Concept
+abhorrence	Concept
+breechcloth	Concept
+disincentive	Concept
+henbit	Concept
+perfidiousness	Concept
+general	Concept
+wicketkeeper	Concept
+die	Concept
+Springboro	Entity
+road rage	Concept
+headshot	Concept
+font	Concept
+Mohammed	Entity
+passage	Concept
+scouter	Concept
+demonstration	Concept
+brownie	Concept
+emperor	Concept
+sorcerer	Concept
+smew	Concept
+net	Concept
+biosatellite	Concept
+junkware	Concept
+poet	Concept
+outflow	Concept
+clipping	Concept
+diffusor	Concept
+negritude	Concept
+tank	Concept
+Goonellabah	Entity
+San Andreas	Entity
+Lido	Entity
+lost cause	Concept
+John Fitzgerald Kennedy	Entity
+pervert	Concept
+nutrient	Concept
+Talim	Entity
+reliability	Concept
+maverick	Concept
+Aramaic	Entity
+tenement	Concept
+carting	Concept
+pafuramidine	Concept
+dejection	Concept
+republic	Concept
+Bill Clinton	Entity
+polysemy	Concept
+Sathyan	Entity
+validity	Concept
+device	Concept
+frogmouth	Concept
+diploma	Concept
+Olivia de Havilland	Entity
+regiment	Concept
+far left	Concept
+bramble	Concept
+University of California	Entity
+cent	Concept
+Archaean	Entity
+wood nymph	Concept
+volcanology	Concept
+salamander	Concept
+Catherine Morland	Entity
+Reuel Marc Gerecht	Entity
+plume	Concept
+in-joke	Concept
+record label	Concept
+Tobaiwa Mudede	Entity
+waviness	Concept
+Kenai Peninsula	Entity
+megathrust earthquake	Concept
+masquerade ball	Concept
+regulating	Concept
+Konstantin Tsiolkovsky	Entity
+Himalaya	Entity
+City of London	Entity
+equitation	Concept
+kink	Concept
+explosion	Concept
+terminology	Concept
+Danish Kaneria	Entity
+calumniation	Concept
+shepherd	Concept
+Green	Concept
+horse	Concept
+Caligula	Entity
+Brookline	Entity
+inclemency	Concept
+coxswain	Concept
+Carlo Levi	Entity
+Visual FoxPro	Entity
+smuggler	Concept
+Africa	Entity
+street	Concept
+Sonoma State University	Entity
+Pink Dot	Entity
+Grimm	Entity
+pane	Concept
+FutureGen	Entity
+newsprint	Concept
+Castlereagh River	Entity
+Israel	Entity
+Precambrian	Entity
+timber	Concept
+Antichrist	Entity
+emulator	Concept
+price reduction	Concept
+male	Concept
+battle of Plataea	Entity
+rappel	Concept
+pilot	Concept
+inquisitor	Concept
+sculpture	Concept
+heaven	Concept
+axile placentation	Concept
+script	Concept
+Drawing Restraint 9	Entity
+Hamilton Airport	Entity
+hornist	Concept
+color	Concept
+catchment area	Concept
+macroeconomics	Concept
+window	Concept
+Josef Gingold	Entity
+Malcolm Wallop	Entity
+Kaweah River	Entity
+Quercus ilex	Concept
+insignia	Concept
+credit	Concept
+Jurmo	Entity
+organdy	Concept
+dinky	Concept
+Kingdom	Concept
+footway	Concept
+The Infinite Mind	Entity
+tacking	Concept
+world	Concept
+vehicle	Concept
+groundwater	Concept
+Tonto Creek	Entity
+viper	Concept
+photograph	Concept
+Wang Xiaolong	Entity
+indisposition	Concept
+outreach	Concept
+preserve	Concept
+tonne	Concept
+Cyrus K. Holliday	Entity
+Flo Ziegfeld	Entity
+subsidy	Concept
+Audrey Hepburn	Entity
+diameter	Concept
+Monty Python	Entity
+Hansel	Entity
+Kohler	Entity
+attempt	Concept
+contrast agent	Concept
+eisteddfod	Concept
+coal	Concept
+rue	Concept
+developmental disability	Concept
+aflatoxin	Concept
+quoit	Concept
+Pauli	Entity
+Nonesuch Records	Entity
+Ph.D.	Concept
+glade	Concept
+picture	Concept
+precipitation	Concept
+mechanics	Concept
+spare	Concept
+ruling	Concept
+fasces	Concept
+sprain	Concept
+skeet shooting	Concept
+Java	Entity
+minute	Concept
+mask	Concept
+Tommy Gavin	Entity
+photomicrograph	Concept
+Woden	Entity
+Sigma Lambda Beta	Entity
+Joyce	Entity
+West Midlands	Entity
+grits	Concept
+coda	Concept
+Mason & Dixon	Entity
+Rigveda	Entity
+promulgation	Concept
+Aare	Entity
+wine	Concept
+I-20	Entity
+hand drill	Concept
+emery cloth	Concept
+hybrid	Concept
+quietness	Concept
+passing	Concept
+Malvolio	Entity
+tempestuousness	Concept
+Minnamurra	Entity
+skepticism	Concept
+Patrizia Ciofi	Entity
+hustler	Concept
+valedictorian	Concept
+oil well	Concept
+True Life	Entity
+Wild Kingdom	Entity
+note	Concept
+dean	Concept
+breakfast	Concept
+pennon	Concept
+single tax	Concept
+snowplow	Concept
+groundnut	Concept
+darkey	Concept
+magnet school	Concept
+etymologizing	Concept
+air mass	Concept
+rowlock	Concept
+fess	Concept
+precision	Concept
+quickening	Concept
+Otto Lilienthal	Entity
+Emmett Tyrrell	Entity
+sial	Concept
+Reconnaissance Battalion	Entity
+currency	Concept
+giantess	Concept
+Hannity	Entity
+backwash	Concept
+distributer	Concept
+About.com	Entity
+recycling	Concept
+umber	Concept
+Iran-Iraq War	Entity
+excitement	Concept
+Korea	Entity
+Epistles	Entity
+Marisa Tomei	Entity
+grit	Concept
+Gitta Sereny	Entity
+argument	Concept
+shell	Concept
+Jerry Aldridge	Entity
+coast	Concept
+certificate	Concept
+staff	Concept
+provision	Concept
+dhole	Concept
+inherited disease	Concept
+Ilex cassine	Concept
+kerchief	Concept
+plate	Concept
+Bernard Laporte	Entity
+flooding	Concept
+Jack Trout	Entity
+emptiness	Concept
+warfare	Concept
+crooner	Concept
+oculist	Concept
+Ubu Roi	Entity
+glycogen synthase	Concept
+hunting	Concept
+charcoal	Concept
+miscreant	Concept
+stepper	Concept
+emerald	Concept
+consultant	Concept
+coma	Concept
+Ronald Cass	Entity
+Sachs Harbour	Entity
+vision	Concept
+Helene Deutsch	Entity
+gold coin	Concept
+épée	Concept
+Joan Silber	Entity
+Tectonic	Entity
+Robert Adams	Entity
+balsa raft	Concept
+Collin Peterson	Entity
+Date Night	Entity
+resonance	Concept
+Karl Sax	Entity
+tipper	Concept
+malware	Concept
+pud	Concept
+aftermath	Concept
+victimization	Concept
+Bradgate Park	Entity
+Scott Styris	Entity
+storehouse	Concept
+bookkeeping	Concept
+bulk	Concept
+house	Concept
+photographer	Concept
+Andrew McCormick	Entity
+open source	Concept
+brachydactyly	Concept
+multistage rocket	Concept
+Phoebe Buffay	Entity
+selection	Concept
+St. Edward	Entity
+schoolwork	Concept
+slicker	Concept
+impromptu	Concept
+lynching	Concept
+whoredom	Concept
+Robert Pozen	Entity
+detour	Concept
+naturalist	Concept
+autograph	Concept
+Turkey	Entity
+top side	Concept
+Juan Cole	Entity
+Tarawa	Entity
+Indians	Entity
+supervolcano	Concept
+Marienkirche	Entity
+USS Shiloh	Entity
+cap	Concept
+differential	Concept
+noun	Concept
+Mixtec	Entity
+tussle	Concept
+quote	Concept
+lion	Concept
+Finding Forrester	Entity
+Belarus	Entity
+general contractor	Concept
+close combat	Concept
+Half-Life 2	Entity
+unification	Concept
+Altai Mountains	Entity
+mods	Concept
+Prionotus	Concept
+singlet	Concept
+rookery	Concept
+Port Huron	Entity
+steward	Concept
+magnetic dipole	Concept
+disobedience	Concept
+Gunther Gebel-Williams	Entity
+Intelligence Bureau	Entity
+grave	Concept
+airport	Concept
+sacrifice	Concept
+greywacke	Concept
+puzzler	Concept
+Half-Life	Entity
+doldrums	Concept
+independent	Concept
+growth	Concept
+Fahrenheit	Entity
+compiler	Concept
+heartburn	Concept
+Thanatos	Entity
+HP	Entity
+front	Concept
+Ronas Hill	Entity
+vigabatrin	Concept
+magnetometer	Concept
+Typhoon Saomai	Entity
+restriction fragment	Concept
+Turtle Mountains	Entity
+photojournalism	Concept
+Grosgrain	Concept
+defiance	Concept
+mug	Concept
+Simon Upton	Entity
+Bingley	Entity
+iota	Concept
+serfdom	Concept
+John Flamsteed	Entity
+Willamette University	Entity
+disposition	Concept
+nail	Concept
+Beatrice	Entity
+telecommunications	Concept
+Jon Clardy	Entity
+Macklin	Entity
+hill	Concept
+studio	Concept
+Huey Lewis	Entity
+Taco Cabana	Entity
+vigour	Concept
+streptomyces	Concept
+attic	Concept
+chowder	Concept
+Figurines	Entity
+kidney transplantation	Concept
+Barney Bigard	Entity
+magnetic storage	Concept
+earthquake	Concept
+pressing	Concept
+Bill Wise	Entity
+Valley Girls	Entity
+cox	Concept
+Paul Mellars	Entity
+liberalism	Concept
+agitation	Concept
+lobbyist	Concept
+dungeon	Concept
+chronic	Concept
+software suite	Concept
+matador	Concept
+quinine	Concept
+boatlift	Concept
+dub	Concept
+casserole	Concept
+FOTS	Concept
+fiber	Concept
+par	Concept
+Ron Donagi	Entity
+sugar-cane	Concept
+continuum	Concept
+Adam Crosthwaite	Entity
+coordinator	Concept
+newsagent	Concept
+mayweed	Concept
+government	Concept
+administrator	Concept
+herb tea	Concept
+pastry cook	Concept
+Mota	Entity
+Dorothea Puente	Entity
+marquee	Concept
+Orange	Entity
+classification	Concept
+natural gas	Concept
+WITI	Entity
+Nadezhda von Meck	Entity
+Quantum mechanics	Concept
+bean	Concept
+Swarthmore	Entity
+shoal	Concept
+shogunate	Concept
+mallet	Concept
+carbon	Concept
+Dale	Entity
+Nikon F5	Entity
+skin	Concept
+Malta	Entity
+colostrum	Concept
+sapota	Concept
+Eilean Donan	Entity
+RVF	Concept
+podcast	Concept
+flocculation	Concept
+Itsu	Entity
+galoshes	Concept
+liquidation	Concept
+sloop	Concept
+palomino	Concept
+interleaf	Concept
+tectonics	Concept
+scrolling shooter	Concept
+Erika Nordby	Entity
+Turrican	Entity
+Cyclone Gafilo	Entity
+hyperlink	Concept
+enrollee	Concept
+Bergen	Entity
+hydrosphere	Concept
+decomposition	Concept
+chateau	Concept
+manufacturing	Concept
+John Romer	Entity
+product	Concept
+Jane Elliott	Entity
+commoner	Concept
+spelunker	Concept
+scoutmaster	Concept
+militia	Concept
+Breidenbach	Entity
+ineptitude	Concept
+Pure Pinball	Entity
+suer	Concept
+HDP	Entity
+Sire Records	Entity
+closeness	Concept
+Philip Durell	Entity
+Mike Breen	Entity
+journalism	Concept
+Valeria Golino	Entity
+Maginot	Entity
+crab	Concept
+Erna Brodber	Entity
+Los Angeles	Entity
+Poland	Entity
+mackerel	Concept
+minister	Concept
+pons	Concept
+twinjet	Concept
+topping	Concept
+Touch and Go	Entity
+intramuscular injection	Concept
+placoderm	Concept
+Stephanian	Entity
+weather	Concept
+editorial	Concept
+Z1	Entity
+soul mate	Concept
+pottery	Concept
+lipogram	Concept
+Fourth World	Entity
+baby tears	Concept
+urolith	Concept
+Battersea Arts Centre	Entity
+village hall	Concept
+Malmo	Entity
+Keats House	Entity
+harasser	Concept
+L.A. Confidential	Entity
+wrongness	Concept
+cooking ingredient	Concept
+denial-of-service attack	Concept
+Lucrezia Borgia	Entity
+doodlebug	Concept
+Hugh Capet	Entity
+Robert De Niro	Entity
+capital	Concept
+Mariamman	Entity
+Tasman Glacier	Entity
+plumbing	Concept
+chromatography	Concept
+fault	Concept
+territory	Concept
+shambles	Concept
+machine	Concept
+baker	Concept
+high commissioner	Concept
+leaf curl	Concept
+wallop	Concept
+exculpation	Concept
+Tarleton	Entity
+Milton Shapp	Entity
+James Sallis	Entity
+A1 motorway	Entity
+bloodguilt	Concept
+decal	Concept
+Dunbar	Entity
+melanocyte	Concept
+tartar	Concept
+sucker	Concept
+Neumont University	Entity
+WSRP	Entity
+Saadia Gaon	Entity
+suspension	Concept
+South Kensington	Entity
+Turistas	Entity
+California State University	Entity
+engram	Concept
+global warming	Concept
+alumnus	Concept
+turn	Concept
+mercer	Concept
+candy	Concept
+pension fund	Concept
+quo warranto	Concept
+proposal	Concept
+Oklahoma Corporation Commission	Entity
+real world	Concept
+Robert Frost	Entity
+Sino-Japanese War	Entity
+Norfolk	Entity
+Frederick Sanger	Entity
+Pinball	Entity
+Parveen Babi	Entity
+autonomous region	Concept
+links	Concept
+writing	Concept
+sixpence	Concept
+downfall	Concept
+Don Baldwin	Entity
+Ada Comstock	Entity
+bearing	Concept
+broiler chicken	Concept
+seafloor	Concept
+eschaton	Concept
+Jack Lengyel	Entity
+viniculture	Concept
+rabble-rouser	Concept
+burr oak	Concept
+country	Concept
+bayan	Concept
+emblem	Concept
+Abutilon theophrasti	Concept
+serpent	Concept
+Walter Boyce	Entity
+quarry	Concept
+confederation	Concept
+tutsan	Concept
+Blindsight	Entity
+Pope Pius X	Entity
+hound	Concept
+hardpan	Concept
+summerhouse	Concept
+King	Entity
+netherworld	Concept
+Mister Johnson	Entity
+Borregaard	Entity
+light	Concept
+sodium nitrite	Concept
+Michael Slote	Entity
+Ape Escape	Entity
+Highlander	Entity
+euphemism	Concept
+accelerator	Concept
+petty officer	Concept
+retirement benefit	Concept
+hakim	Concept
+Talcott Parsons	Entity
+Windows	Entity
+flag	Concept
+ostracism	Concept
+Sandy Mitchell	Entity
+Edward Weston	Entity
+vivisection	Concept
+Queen Elizabeth	Entity
+hurt	Concept
+time	Concept
+Gene DeWeese	Entity
+Carly Fiorina	Entity
+Phil Silvers	Entity
+bottled water	Concept
+lag	Concept
+page	Concept
+loser	Concept
+atmosphere	Concept
+Paul Lafargue	Entity
+chips	Concept
+natural resources	Concept
+Dionysia	Concept
+ironing	Concept
+release notes	Concept
+Rod Laver	Entity
+endocarditis	Concept
+availability	Concept
+rat-catcher	Concept
+beneficiary	Concept
+valuation	Concept
+clopyralid	Concept
+Jackson Zoo	Entity
+Skara Brae	Entity
+academician	Concept
+official	Concept
+shamrock	Concept
+sliminess	Concept
+cricketer	Concept
+isolationism	Concept
+consigner	Concept
+Pindar	Entity
+small cap	Concept
+French	Entity
+copper	Concept
+Pakistan	Entity
+Saint Anna	Entity
+river	Concept
+ensign	Concept
+Cocina	Entity
+The New Republic	Entity
+infrastructure	Concept
+Amoy	Concept
+index	Concept
+tomato soup	Concept
+bar	Concept
+derogation	Concept
+Preston Manning	Entity
+Otto von Habsburg	Entity
+Point Lillias	Entity
+fire	Concept
+tax haven	Concept
+tundra swan	Concept
+Dallas Cowboys Cheerleaders	Entity
+aridity	Concept
+arboriculture	Concept
+subtropics	Concept
+truth	Concept
+autocracy	Concept
+greensand	Concept
+Fayette County	Entity
+Evgeny Kissin	Entity
+lustiness	Concept
+aqueduct	Concept
+zero	Concept
+Ben Gardner	Entity
+Visalia	Entity
+telemovie	Concept
+doeskin	Concept
+blank	Concept
+Johnny Ramone	Entity
+Rheal Cormier	Entity
+hard worker	Concept
+Hipparcos	Entity
+poundage	Concept
+loaf	Concept
+turnpike	Concept
+ecclesiastic	Concept
+relative price	Concept
+haloalkane	Concept
+tragedy	Concept
+gray	Concept
+waistcoat	Concept
+annals	Concept
+Paris	Entity
+quincunx	Concept
+power	Concept
+Washington	Entity
+teleportation	Concept
+temperament	Concept
+slump	Concept
+Sajid Mahmood	Entity
+conversion	Concept
+patent	Concept
+Maximian	Entity
+John Pankow	Entity
+Riptide	Entity
+Daniel Bernard Roumain	Entity
+boar	Concept
+collegian	Concept
+chopper	Concept
+Galeras	Entity
+collector	Concept
+basin	Concept
+bend	Concept
+paprika	Concept
+Hypnerotomachia Poliphili	Entity
+Alec Stewart	Entity
+Sylvette	Entity
+Swing music	Concept
+antenna	Concept
+Stanford	Entity
+eudaimonia	Concept
+vegetarian	Concept
+pulse	Concept
+matchlock	Concept
+diversity	Concept
+minors	Concept
+kaon	Concept
+silver	Concept
+award	Concept
+collage	Concept
+Matthew Flinders	Entity
+festival	Concept
+gatekeeper	Concept
+cell death	Concept
+generation	Concept
+prototype	Concept
+Iran	Entity
+retribution	Concept
+shawl	Concept
+fresco	Concept
+James Nash	Entity
+fund	Concept
+misfire	Concept
+Federal Records	Entity
+William S. Harney	Entity
+Wolfe	Entity
+stakes	Concept
+Zhao Ziyang	Entity
+roe	Concept
+Tennessee	Entity
+madam	Concept
+Lisa See	Entity
+Cromford Canal	Entity
+fellah	Concept
+Angostura Reservoir	Entity
+President Lyndon Johnson	Entity
+Carlos Frenk	Entity
+Richard Posner	Entity
+disengagement	Concept
+ringtone	Concept
+clerid	Concept
+phonetic transcription	Concept
+dormouse	Concept
+Julius Stone	Entity
+multimeter	Concept
+Hero of Alexandria	Entity
+facilitator	Concept
+lappet	Concept
+futurist	Concept
+Scleranthus	Concept
+larder	Concept
+jeopardy	Concept
+cutoff	Concept
+Capcom	Entity
+Nuptse	Entity
+sand verbena	Concept
+Universidad	Entity
+True Grit	Entity
+successor	Concept
+neurohypophysis	Concept
+condition	Concept
+kingdom	Concept
+gabardine	Concept
+child care	Concept
+cesarean delivery	Concept
+tableware	Concept
+Hurricane Iniki	Entity
+foster-child	Concept
+benefaction	Concept
+overpass	Concept
+belt	Concept
+filial piety	Concept
+feudatory	Concept
+tortilla	Concept
+Jerry Oltion	Entity
+teacher	Concept
+perdition	Concept
+cowpox	Concept
+seignior	Concept
+Mary McCarthy	Entity
+aerodrome	Concept
+Tulsa World	Entity
+fine	Concept
+failure rate	Concept
+debt	Concept
+Caddoan	Concept
+jerky	Concept
+calcium	Concept
+agogo	Concept
+bowsprit	Concept
+Bowhead whale	Concept
+David T. Ellwood	Entity
+Sam Browne	Entity
+liberty	Concept
+webmail	Concept
+Franck Goddio	Entity
+hooded cloak	Concept
+Aaron Copland	Entity
+unintelligibility	Concept
+chauvinism	Concept
+binder	Concept
+Kristin Luker	Entity
+Leon Battista Alberti	Entity
+American Stock Exchange	Entity
+Red Planet	Entity
+apple pie	Concept
+El Mercurio	Entity
+diffraction	Concept
+limousine	Concept
+mould	Concept
+Battlestar Galactica	Entity
+check-in	Concept
+Leonardo da Vinci	Entity
+H-Net	Entity
+Nancy	Entity
+assignment	Concept
+yawl	Concept
+BioCryst Pharmaceuticals	Entity

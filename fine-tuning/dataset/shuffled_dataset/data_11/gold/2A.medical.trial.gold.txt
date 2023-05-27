@@ -1,0 +1,15 @@
+genotype	typing	biological group
+clinical finding	mental disorder	disease	dependence
+neurological lesion	clinical finding	congenital malformation	disease	body structure	heterotopia
+neurosis	psychoneurosis	neuroticism	disturbance	psychological disorder	psychiatric condition	folie	mental disturbance	mental illness	mental disorder	malady	illness	sickness	disorder	disease	anxiety	clinical finding	anxiety state
+clinical finding	hyperthermia	fever
+antiarrhythmic drug	amine	vasoconstrictive	medicine	vasoconstrictor	antihypertensive agent	blocking agent	beta-blocking agent	pharmaceutical drug	blocker	pressor	medicament	beta-adrenergic blocker	antiarrhythmic agent	drug	beta blocker
+clinical finding	weakness
+neuropathy	clinical finding	diabetic neuropathy	disease	peripheral nerve disease	peripheral neuropathy
+clinical finding	disease	disorder
+cell	blood cell	corpuscle	somatic cell
+colour
+clinical finding	disease	neuropathy
+pain	clinical finding	craniofacial pain	neurological finding	headache
+inflammation
+malady	lymphoproliferative disorder	intracranial mass	malignant lymphoma	disease	disorder	illness	brain mass	clinical finding	sickness	malignant tumor	pathological state	intracranial tumor	neurological lesion	lymphoma	pathology

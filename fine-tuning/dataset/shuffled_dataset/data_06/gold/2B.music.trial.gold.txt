@@ -1,0 +1,15 @@
+musical arrangement	arrangement	instrument	musical instrument	arranging	transcription	musical composition	piece of music	opus	composition	composing	musical work	work of art
+idiophone	instrument	musical instrument
+music genre
+person	ballplayer
+single	medium	vocal	song	track	human voice	album	record album	studio album	band	musical group	musical organization	music group	rock group	rock band	team	release	musical composition	piece of music	opus	composition	musical work	audio signal	storage	work of art	signal
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+musical work	line of succession	work of art
+pop	music genre	musical style
+blues	music genre
+classical	music genre
+guitar player	guitarist	musician	person
+hymn	anthem
+chord	note	tone	musical note	musical notation	music notation
+euro pop	pop	music genre

@@ -1,0 +1,50 @@
+Wolfe	Entity
+business	Concept
+nursery rhyme	Concept
+schoolwork	Concept
+livery	Concept
+consultant	Concept
+Shahid Afridi	Entity
+Sathyan	Entity
+Oor Wullie	Entity
+Hill cipher	Concept
+warfare	Concept
+Ron Donagi	Entity
+horseshoer	Concept
+Ivete Sangalo	Entity
+Cori	Entity
+general contractor	Concept
+Haven	Entity
+cosmic dust	Concept
+interception	Concept
+deposit	Concept
+powerhouse	Concept
+wine	Concept
+Mota	Entity
+Deep learning	Concept
+weather	Concept
+frame	Concept
+glottal stop	Concept
+Mary McCarthy	Entity
+Nina Pacari	Entity
+Bill Koski	Entity
+streptomyces	Concept
+parkway	Concept
+retail	Concept
+Tomb Raider	Entity
+interface	Concept
+Amoy	Concept
+curriculum	Concept
+republic	Concept
+hit	Concept
+Leon Festinger	Entity
+jerkin	Concept
+Marisa Tomei	Entity
+sand verbena	Concept
+azathioprine	Concept
+innovation	Concept
+fiber	Concept
+Typhoon Saomai	Entity
+working capital	Concept
+counterpane	Concept
+van	Concept

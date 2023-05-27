@@ -1,0 +1,15 @@
+cardiac finding	renal impairment	cardiopathy	clinical finding	heart failure	disease	kidney disease
+malady	hypoventilation	disorder	clinical finding	sickness	pathology	illness	pathological state	sleep disorder	disease
+infectious agent	microorganism	pathogenic organism	micro-organism	pathogen	infective agent	virus
+speciality	specialty	specialisation	medical specialty	specialism	specialization	career	medicine	medical science	practice of medicine
+clinical finding	metabolic disease	disease	respiratory acidosis	acidosis
+manipulation	procedure	massage	stimulation
+adenocarcinoma	cancer	carcinoma	tumor	neoplasm	malignant neoplasm	malignant tumor	metastasis	secondary tumor	metastatic tumor	malady	illness	sickness	disorder	disease	growth	anatomical pathology	malignancy	pathology	medical diagnosis	clinical diagnosis
+fatness	malady	illness	sickness	disorder	disease	pathological state	clinical finding	adiposity	obesity
+clotting	blood coagulation	coagulation	procoagulant
+sickness	psychological disorder	pathological state	disease	malady	mania	mental disorder	manic disorder	mental disturbance	syndrome	emotional disorder	mood disorder	clinical symptom	mental illness	folie	affective disorder	illness	disturbance	psychiatric condition	organic mental disorder	confusional state	emotional disturbance	clinical finding	pathology	disorder	major affective disorder
+medicine	medical specialty	medical science
+malady	kidney disease	failure	disease	disorder	clinical finding	sickness	hypertensive renal disease	pathology	illness	pathological state	renal failure
+dosage
+respiratory disorder	respiratory disease	pulmonary disease	respiratory illness	malady	illness	sickness	disorder	disease	pathological state	disease of lung	clinical finding	inflammatory disorder	pneumonitis	occupational lung disease
+clinical evaluation	laboratory procedure	procedure	screening	urinalysis	test	laboratory test

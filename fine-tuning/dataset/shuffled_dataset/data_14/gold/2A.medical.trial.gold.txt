@@ -1,0 +1,15 @@
+surgical material	flap
+ontogenesis	ontogeny	maturation	growth	growing
+drug-induced akathisia	movement disorder	akathisia	clinical finding	disease
+cellulitis	inflammation	body structure	inflammatory lesion
+temporal bone	os	bone	connective tissue	conjunctive tissue	organ	animal tissue
+alloy	mixture	metal	atom	metallic element	solution	molecular entity
+malady	cough	respiratory disorder	disorder	clinical finding	persistent cough	sickness	pathology	illness	pathological state	disease
+body structure	anatomical structure	tissue	connective tissue
+movement	physical force
+clinical finding	anxiety disorder	mental disorder	disease	neurosis
+gastrointestinal cancer	liver disease	carcinoma	cancer	malady	illness	sickness	disorder	disease	neoplasm	malignant neoplasm	malignant tumor	metastasis	secondary tumor	metastatic tumor	growth	anatomical pathology	malignancy	pathology	pathological state	medical research	medical diagnosis	clinical diagnosis
+malady	hypertension	high blood pressure	disease	disorder	illness	clinical finding	sickness	cardiopathy	pathology	cardiovascular disease	pathological state	cardiac finding	heart disease
+clinical finding	congenital malformation	multiple congenital anomalies	disease	syndrome
+malady	unease	disease	disorder	uneasiness	clinical finding	sickness	pathology	unconsciousness	illness	pathological state	malaise
+malady	illness	sickness	disorder	disease

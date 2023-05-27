@@ -1,0 +1,15 @@
+type of vessel	anatomical structure	body structure	chest	cardiovascular structure	body region	soft tissues	branch
+neuropathy	clinical finding	disease	peripheral nerve disease
+operative site	body structure	site
+cell	constituent
+disease of lung	lung consolidation	clinical finding	inflammatory disorder	disease	pneumonia	pneumonitis
+drug	medicine
+clinical finding	tension
+vascular disease	clinical finding	disease	respiratory disorder	pulmonary hypertension	hypertension
+procedure	clinical evaluation	fluoroscopy	cardiovascular investigation	carotid imaging	angiography	carotid angiogram	imaging	arteriography
+clinical finding	mental disorder
+amine	radical	hydrocarbon	bond	building block	atom	polyamine	functional group	attraction	chemical series	paraffin	chemical bond	moiety	molecular entity
+drug-induced akathisia	movement disorder	akathisia	clinical finding	disease
+head structure	anatomical structure	nervous system structure	body region
+beta-adrenergic blocker	antihypertensive agent	beta-blocking agent	pharmaceutical drug	receptor antagonist	blocking agent	beta blocker	antagonist	medicament	blocker	ligand	amine	drug
+introduction	repair	shunt	procedure	implantation	surgical repair	surgery	operative procedure

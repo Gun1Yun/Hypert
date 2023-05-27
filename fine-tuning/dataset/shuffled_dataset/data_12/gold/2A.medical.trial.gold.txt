@@ -1,0 +1,15 @@
+cane	canopy	stalk
+proliferation	clinical finding	disease	lump	body structure	nerve sheath tumor	neoplasm	malady	illness	growth	sickness	tumor	disorder	pathology	anatomical pathology
+nurse	caregiver	health professional	primary care provider	pcp
+rheumatology
+malady	kidney disease	disorder	clinical finding	rejection	sickness	pathology	illness	pathological state	disease
+fluid	fuel	hydrocarbon	oil
+connective tissue	conjunctive tissue	animal tissue	body structure	anatomical structure	marrow
+recurrent event	physiological process	cardiovascular function	beat	heartbeat	pulsation	cardiac function	pulse
+proliferation	odontogenic neoplasm	body structure	lump	tumor
+neural structure	anatomical structure	body structure
+clinical finding	tension
+malady	clinical symptom	body structure	hydrops	disease	disorder	illness	swelling	clinical finding	sickness	pathology	puffiness	pathological state	oedema	enlargement	edema
+cardiac finding	cardiopathy	disease	clinical finding	cardiomyopathy
+function	nervous system function
+respiratory disorder	respiratory disease	pulmonary disease	respiratory illness	malady	illness	sickness	disorder	disease	pathological state	disease of lung	clinical finding	emphysema

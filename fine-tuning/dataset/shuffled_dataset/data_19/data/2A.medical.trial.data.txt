@@ -1,0 +1,15 @@
+pharmacy	Concept
+pulmonary actinomycosis	Concept
+aortic valve calcification	Concept
+paraneoplastic peripheral neuropathy	Concept
+vasculitic neuropathy	Concept
+interpersonal psychotherapy	Concept
+chronic post-traumatic headache	Concept
+blood group antigen	Concept
+lymphocytic choriomeningitis virus	Concept
+abscess	Concept
+delirium	Concept
+lithium therapy	Concept
+mastitis	Concept
+blood vessel	Concept
+neuropathic bladder	Concept

@@ -1,0 +1,15 @@
+prostate specific antigen	Concept
+audiometry	Concept
+nonspecific interstitial pneumonia	Concept
+familial prostate cancer	Concept
+3beta-hydroxysteroid dehydrogenase	Concept
+brain tumor	Concept
+odontoma	Concept
+empyema	Concept
+psychomotor epilepsy	Concept
+fracture of bone	Concept
+single lung transplant	Concept
+bone grafting	Concept
+right ventricular failure	Concept
+connexon	Concept
+pediatric otolaryngology	Concept

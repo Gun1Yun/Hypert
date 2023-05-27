@@ -1,0 +1,15 @@
+healthcare professional	medical practitioner	surgeon
+medical test	surgery	biopsy	surgical action	medical examination	test
+malady	illness	sickness	disorder	disease	cephalalgia	headache	ache	aching	nervous disorder	painful sensation	pain	pain sensation	hurting	clinical symptom	sentience	sense	sensation	somatic sensation	somatosensory system	pathological state	state	headache disorder	vascular disease	clinical finding
+malady	primary cardiomyopathy	disorder	illness	cardiomyopathy	clinical finding	sickness	cardiopathy	pathology	pathological state	cardiac finding	disease
+surgical material	flap
+benzodiazepine	medicine	psychoactive substance	anticonvulsant	sedative	psychotropic agent	psychotherapeutic agent	anxiolytic	anxiolytic agent	hypnotic agent	drug
+medical test	procedure	biopsy	removal	needle biopsy
+malady	biliary cirrhosis	hepatic fibrosis	cirrhosis	autoimmune disorder	disorder	liver disease	cirrhosis of liver	illness	autoimmune liver disease	liver regeneration	clinical finding	autoimmune disease	sickness	pathology	pathological state	disease
+cellular division	gene function	cell division	division
+service	surgical service
+clinical finding	mental disorder
+cardiopulmonary bypass circuit	oxygenator	device system	perfusion pump
+os	bone	feature	caput	connective tissue	conjunctive tissue	organ	body part
+tumor staging	staging
+antigen

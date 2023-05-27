@@ -1,0 +1,15 @@
+vocal music	musical performance	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	show	entertainment	amusement
+musical composition	piece of music	opus	composition	musical work	work of art
+backup band	musical accompaniment	support	accompaniment	backup	band	musical group	musical organization	music group	voice	bandmember	rock group	rock band	team	air	strain	melodic line	melodic phrase	melody	tune	dance band	dance orchestra	musical work	line of succession	work of art
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+jazz	music genre
+passage	musical work	work of art	performance	audio signal	medium
+instrument	musical instrument	drum	membranophone	percussion	percussive instrument	percussion instrument
+jazz	swing jazz	music genre
+extract	selection	excerpt	musical composition	piece of music	opus	composition	passage	musical work	work of art
+musical style	music genre	rock
+classical	music genre
+country	country music	country-western music	country and western	musical style	music genre	traditional music	folk	folkie	folk music	ethnic music	tune	pop musician	pop music	pop	popular music	popular music genre	musical composition	piece of music	opus	composition	musical work	work of art
+musical work	work of art
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+cornetist	trumpeter	musician	person

@@ -1,0 +1,15 @@
+instrumentation	Concept
+güiro	Concept
+voices	Concept
+Mike Hickey	Entity
+Peace of Mind	Entity
+Yessongs	Entity
+Whiskey Tango Ghosts	Entity
+melodic line	Concept
+oldies	Concept
+contemporary blues	Concept
+fugues	Concept
+Robert Cray	Entity
+recessional	Concept
+harmony	Concept
+italian pop	Concept

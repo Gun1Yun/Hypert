@@ -1,0 +1,15 @@
+popular music	popular music genre	musical style	music genre
+blues	music genre	musical style
+music genre
+folk	music genre
+latin music	music genre
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra
+show	entertainment	amusement	musical style	music genre
+musical passage	passage	musical composition	piece of music	opus	composition	musical work	work of art
+album	record album	studio album	medium	musical work	audio signal	work of art	signal	storage
+musical composition	piece of music	opus	composition	composing	musical work	work of art
+christian	music genre
+short forms	classical	music genre
+album	record album	studio album	extended play	musical work	audio signal	medium	audio recording	sound recording	audio	sound reproduction	sound system	audio system	work of art	signal	recording	reproduction	storage	repeating	repetition
+popular music	popular music genre	african-american music	black music	musical style	music genre
+drumstick	stick	implement

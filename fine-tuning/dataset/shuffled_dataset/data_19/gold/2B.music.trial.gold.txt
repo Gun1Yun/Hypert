@@ -1,0 +1,15 @@
+album	record album	studio album	medium	single	musical work	audio signal	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	work of art	signal	storage
+vocal	song	track	human voice	album	record album	studio album	concept album	musical composition	piece of music	opus	composition	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+drum	membranophone	percussion	percussive instrument	percussion instrument	instrument	musical instrument
+classical	music genre
+jazz	musical style	music genre	popular music	popular music genre
+singing voice	voice type	soprano	vocalism	phonation	human voice	vocalization	vocalisation	voice quality	voice	vox	singer	vocalist	musician	person
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	electrical energy	function	storage
+dance	dance music
+album	record album	studio album	musical work	audio signal	medium	work of art	signal	storage
+work song	vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+percussion	percussive instrument	percussion instrument	instrument	musical instrument	idiophone
+singer	tenor	person
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+songwriter	songster	lyrist	lyricist	composer	person	writer	poet	musician
+rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	popular music	popular music genre

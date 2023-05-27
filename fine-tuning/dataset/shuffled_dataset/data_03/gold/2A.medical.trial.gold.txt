@@ -1,0 +1,15 @@
+syndrome	malady	organ dysfunction syndrome	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+anaesthesia	anesthesia	regional anaesthesia	regional anesthesia
+amine	radical	hydrocarbon	bond	building block	atom	polyamine	functional group	attraction	chemical series	paraffin	chemical bond	moiety	molecular entity
+familial disease	clinical finding	neurocutaneous syndrome	congenital malformation	disease	hereditary disease	congenital disease	syndrome
+function	nervous system function
+craniofacial pain	clinical finding	ache	neurological finding	pain
+body structure	anatomical structure	cell structure	anatomy	anatomist
+excision	trephination	removal	procedure	surgical removal
+bacteria	bacterium	microorganism
+cancer	lump	neoplasm	carcinoma	proliferation	epithelial neoplasm
+antiarrhythmic drug	pharmaceutical drug	antimalarial agent	antimalarial drug	antiprotozoal	antimalarial	medicament	alkaloid	drug
+artery	arteria	blood circulation	blood supply	vasculature	bloodstream	cardiovascular system	vessel	vas	vascular system	tube	anatomical structure
+vasculature	vessel	vas	tube	anatomical structure	body structure
+therapy	procedure	functional skills training	therapeutic procedure	skills training	rehabilitation
+person	health care provider	health professional	medical practitioner	caregiver	primary care provider	physician	healthcare professional

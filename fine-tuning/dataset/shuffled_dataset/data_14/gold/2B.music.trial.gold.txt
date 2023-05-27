@@ -1,0 +1,15 @@
+alternative rock	rock	music genre	musical style
+stringed instrument	string instrument	plucked instrument	plucked string instrument	instrument	musical instrument
+album	record album	studio album	single	medium	vocal	song	track	human voice	cut	solo album	musical work	audio signal	release	musical composition	piece of music	opus	composition	work of art	signal	storage	passage
+wind	wind instrument	instrument	musical instrument	aerophone
+jazz	popular music	popular music genre	musical style	music genre
+alternative rock	rock	music genre	musical style
+dance	dance music
+popular music	popular music genre	musical style	music genre
+lead vocalist	person
+jazz	music genre
+speech	spoken language	language	human language
+album	record album	studio album	person	rock star	thespian	actor	musical work	audio signal	medium	rocker	singer	vocalist	work of art	signal	musician	electrical energy	function	storage
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+popular music	popular music genre	african-american music	black music	musical style	music genre
+wind	wind instrument	instrument	musical instrument	aerophone

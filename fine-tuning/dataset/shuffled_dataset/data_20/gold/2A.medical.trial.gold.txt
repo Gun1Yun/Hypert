@@ -1,0 +1,15 @@
+drug	medicine
+medicine	enzyme	drug
+hamartoma	soft tissue lesion	skin lesion	disease	clinical finding	soft tissue mass
+roentgenogram	clinical evaluation	x-ray	image	drawing	skiagram	pic	angiography	icon	exposure	radiograph	radiogram	photograph	photo	procedure	x ray	illustration	figure	imaging	map	x-ray picture	picture
+neuropathy	clinical finding	metabolic disease	disease	peripheral nerve disease	polyneuropathy
+hematologic function	oxygen saturation	saturation
+alkaloid	controlled substance	tropane	narcotic	medicine	psychoactive drug	psychoactive substance	ester	stimulant	anesthetic	psychotropic agent	local anesthetic	psychostimulant	drug
+testing	test	procedure
+clinical finding	weakness
+clotting	blood coagulation	coagulation	procoagulant
+drug-induced akathisia	movement disorder	akathisia	clinical finding	disease
+malady	clinical symptom	hurting	disorder	clinical finding	painfulness	sickness	pathology	pain	illness	pathological state	disease
+nervous system	nerve cell	neuron	neurone	cell	somatic cell
+malady	clinical symptom	inflammatory disorder	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+function	nervous system function

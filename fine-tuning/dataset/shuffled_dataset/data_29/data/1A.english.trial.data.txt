@@ -1,0 +1,50 @@
+Aksu	Entity
+Leon Festinger	Entity
+BLAST	Entity
+Kralendijk	Entity
+watercraft	Concept
+dungeon	Concept
+selective mutism	Concept
+flattop	Concept
+Hannity	Entity
+intramuscular injection	Concept
+availability	Concept
+Adobe Flash Lite	Entity
+wind	Concept
+austral	Concept
+Bradgate Park	Entity
+yesterday	Concept
+Bob Broeg	Entity
+cooking ingredient	Concept
+delicacy	Concept
+calumniation	Concept
+horseman	Concept
+Asia	Entity
+Agrippina	Entity
+Finding Forrester	Entity
+festivity	Concept
+flashlight	Concept
+pollution	Concept
+immurement	Concept
+militia	Concept
+navigator	Concept
+lyceum	Concept
+supervolcano	Concept
+avenue	Concept
+Russell Shorto	Entity
+selector	Concept
+boson	Concept
+candy	Concept
+stater	Concept
+knight-errant	Concept
+balsa raft	Concept
+Deputy	Concept
+sustainable tourism	Concept
+Transportation	Entity
+Merovingian	Entity
+flocculation	Concept
+Fyodor Dostoyevsky	Entity
+warlord	Concept
+smoke	Concept
+coxswain	Concept
+workforce	Concept

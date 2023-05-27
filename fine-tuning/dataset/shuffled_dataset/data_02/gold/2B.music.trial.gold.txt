@@ -1,0 +1,15 @@
+duette	duet	duo	musical composition	piece of music	opus	composition	person	musical work	work of art
+air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+popular music	popular music genre	musical style	music genre
+wind	wind instrument	free reed	instrument	musical instrument	aerophone
+speech	spoken language	language	human language
+folk	music genre
+church music	religious music	book	christian music	musical style	music genre	medium	opera	piece of work	storage
+musical style	music genre
+music genre	musical style
+musical work	hymn	anthem	work of art	religious song	vocal	song	track	human voice	church music	religious music	musical composition	piece of music	opus	composition	christian music	musical style	music genre
+musical arrangement	arrangement	instrument	musical instrument	arranging	transcription	musical composition	piece of music	opus	composition	composing	musical work	work of art
+sound	sensation	perception
+medium	single	release	vocal	song	track	human voice	musical composition	piece of music	opus	composition	storage	musical work	work of art
+singing voice	voice type	soprano	vocalism	phonation	human voice	vocalization	vocalisation	voice quality	voice	vox	singer	vocalist	musician	person
+composing	composition

@@ -1,0 +1,15 @@
+malady	illness	sickness	disorder	disease
+coumarin	anticoagulant	medicine	drug	warfarin
+malady	mood disorder	mental disorder	disease	major depression	disorder	recurrent depression	illness	chronic disease	depressive disorder	chronic mental disorder	clinical finding	sickness	depression	pathological state	pathology
+proliferation	odontogenic neoplasm	body structure	lump	neoplasm	fibroma
+surgical adhesive	surgical material
+malady	neurological disorder	mental disorder	neurodevelopmental disorder	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+congenital disorder	congenital heart disease	sickness	congenital anomaly	cardiopathy	pathological state	disease	malady	congenital abnormality	congenital disease	cardiac finding	anomaly	chd	syndrome	clinical symptom	septal defect	congenital heart defect	illness	congenital malformation	birth defect	defect	imperfection	clinical finding	congenital defect	pathology	disorder
+clinical finding	myokymia
+otology	medicine	medical specialty	medical science	practice of medicine
+clinical finding	disease
+oxide
+procedure	clinical evaluation	fluoroscopy	cardiovascular investigation	carotid imaging	angiography	carotid angiogram	imaging	arteriography
+disease of lung	degenerative disorder	clinical finding	disease	respiratory disorder	metabolic disease
+clinical finding	poisoning	toxicity
+bone formation	musculoskeletal function	function

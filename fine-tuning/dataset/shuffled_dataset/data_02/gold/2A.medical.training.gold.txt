@@ -1,0 +1,500 @@
+drug	medicine
+malady	illness	sickness	disorder	disease	pathological state
+protein	peptide	octapeptide	undecapeptide	nonapeptide	hexapeptide	decapeptide	biopolymer	macromolecule	polymer	amide	biomolecule	functional group	chemical series	radical	moiety	chemical bond	bond	building block	atom	attraction
+malady	neurological disorder	speech disorder	neurological disease	disorder	clinical finding	sickness	communication disorder	pathology	illness	pathological state	nervous disorder	disease
+disease	illness	empyema	sickness	malady
+rheumatology
+malady	person	clinical diagnosis	disorder	narrowing	illness	obstruction	diagnosis	obstructive lesion	sickness	pathology	medical diagnosis	pathological state	disease
+malady	abdominal mass	disease	disorder	bladder cancer	cancer	illness	pelvic mass	clinical finding	sickness	malignant tumor	pathological state	pathology
+flushing	rubor	inflammation	redness	clinical symptom	malady	illness	sickness	disorder	disease	state	pathological state	disease of lung	clinical finding	inflammatory disorder	respiratory disorder
+procedure	removal	surgical removal	excision	operative procedure
+cerebration	mentation	ache	aching	neurological disorder	neurological disease	nervous disorder	painful sensation	pain	pain sensation	higher cognitive process	stimulation	hurting	malady	illness	sickness	disorder	disease	clinical symptom	sentience	sense	sensation	somatic sensation	pathological state	clinical finding	craniofacial pain
+complication	clinical finding	disease	infection
+curette	surgical instrument	instrument
+cardiovascular function	vascular function
+ache	neurological finding	painful joint	clinical finding	musculoskeletal pain	aching	pain
+type of vessel	anatomical structure	body structure	chest	cardiovascular structure	body region	soft tissues	branch
+malady	hypertension	high blood pressure	disease	disorder	illness	clinical finding	sickness	cardiopathy	pathology	cardiovascular disease	pathological state	cardiac finding	heart disease
+specialty	dentistry	dental medicine	medicine	medical specialty	medical science	practice of medicine
+specialization	medical science	specialism	medical specialty	life science	specialty	career	speciality	surgical specialty	bioscience	branch of science	specialisation
+malady	primary cardiomyopathy	disorder	illness	cardiomyopathy	clinical finding	sickness	cardiopathy	pathology	pathological state	cardiac finding	disease
+malady	illness	sickness	disorder	disease	pathological state	proliferation	clinical finding	lump	body structure	malignant tumor	neoplasm
+psychoactive substance	drug	cannabinoid	medicine
+clinical finding	lung mass	single lesion	nodule
+malady	brain disease	neurological disorder	encephalopathy	neurological disease	disorder	illness	clinical finding	brain disorder	sickness	pathology	pathological state	nervous disorder	disease
+antiarrhythmic drug	amine	vasoconstrictive	medicine	vasoconstrictor	antihypertensive agent	blocking agent	beta-blocking agent	pharmaceutical drug	blocker	pressor	medicament	beta-adrenergic blocker	antiarrhythmic agent	drug	beta blocker
+clinical finding	constipation	disorder	pathological state	pathology
+vascular disease	respiratory disorder	soft tissue lesion	clinical finding	angiomatosis	disease	precapillary pulmonary hypertension	pulmonary hypertension
+protein	enzyme	oxidoreductase	oxidase
+morphine	opiate
+malady	disorder	rupture	clinical finding	sickness	pathology	illness	pathological state	disease
+medicine	interferon	cytokine	immunotherapeutic agent	antineoplastic agent	drug	protein	immunomodulator
+surgical repair	procedure	repair
+malady	disease of bone	disorder	clinical finding	excess	sickness	pathology	illness	pathological state	disease
+psychiatry
+fluid	fuel	hydrocarbon	oil
+malady	clinical symptom	hurting	disorder	clinical finding	sickness	neurological finding	pathology	pain	illness	pathological state	disease
+blood disorder	malady	autoimmune thrombocytopenia	bleeding	dyscrasia	autoimmune disorder	disease	purpura	disorder	blood dyscrasia	platelet disorder	illness	clinical finding	autoimmune disease	sickness	pathology	immune thrombocytopenia	pathological state	blood disease	idiopathic disease	thrombocytopenic purpura
+mineral deficiency	undernutrition	nutritional disorder	disorder	metabolic disease	clinical finding	sickness	pathology	pathological state	nutritional deficiency
+malady	neurological disorder	mental disorder	neurodevelopmental disorder	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+shunt	hole	passage
+cephalalgia	headache	ache	aching	neurological disorder	neurological disease	nervous disorder	painful sensation	pain	pain sensation	hurting	malady	illness	sickness	disorder	disease	clinical symptom	sentience	sense	sensation	somatic sensation	somatosensory system	headache disorder	clinical finding
+malady	neurological disorder	impairment	disorder	clinical finding	sickness	pathology	cognitive disorder	illness	pathological state	disease
+fatness	malady	illness	sickness	disorder	disease	pathological state	clinical finding	adiposity	obesity
+drug-induced akathisia	movement disorder	akathisia	clinical finding	disease
+clinical finding	disease	inflammatory disorder	prostatitis
+biomolecule	macromolecule	activator	enzyme	catalyst	oxidoreductase	accelerator	biopolymer	protein	polymer	peroxidase
+malady	disorder	hearing impairment	clinical finding	trauma	sickness	ear lesion	pathology	illness	pathological state	hearing loss	injury	disease
+malady	glomerulonephritis	inflammatory disorder	kidney disease	disorder	glomerular disease	clinical finding	sickness	pathology	illness	pathological state	disease
+disease of lung	clinical finding	congenital malformation	disease	respiratory disorder
+infectious agent	microorganism	pathogenic organism	micro-organism	pathogen	infective agent	virus
+malady	disorder	malfunction	clinical finding	sickness	pathology	illness	pathological state	disease
+medicine	enzyme	drug
+respiratory function	pulmonary function
+analyte	pharmaceutical drug	carbohydrate	anticoagulant	sugar	medicine	saccharide	polysaccharide	glycan	macromolecule	mucopolysaccharide	protein	glycosaminoglycan	medicament	anticoagulant medication	drug
+psychotherapy	therapy	medical care	medical aid	treatment	intervention	aid	attention	health care	care	therapeutic procedure
+clinical evaluation	microbial culture	laboratory procedure	laboratory test	culture
+medicine	peptide	hormone	drug
+neurological lesion	neuropathy	clinical finding	nerve damage	disease	trauma	optic neuropathy
+malady	illness	sickness	disorder	disease	congenital defect	congenital disorder	birth defect	congenital abnormality	congenital anomaly	defect	anomaly	imperfection	clinical symptom	pathological state	state
+clinical finding	complication
+social disease	dose	vd	herpes simplex	viral infection	sickness	pathological state	disease	malady	venereal disease	herpes	sexually transmitted disease	clinical finding	std	communicable disease	illness	contagion	infectious disease	infection	contagious disease	virus infection	viral disease	pathology	disorder	soft tissue infection
+administration of substance	introduction	intravenous sedation	administration of medication	sedation
+awareness
+malady	illness	sickness	disorder	disease	cancer	tumor	neoplasm	malignant neoplasm	malignant tumor	metastasis	secondary tumor	metastatic tumor	growth	anatomical pathology	malignancy	pathological state	pathology	medical diagnosis	clinical diagnosis	clinical finding	respiratory disorder	neuroendocrine neoplasm	proliferation	body structure	lump	neuroendocrine tumor
+neurological finding	deficit
+medicine	medical science	practice of medicine
+transferase inhibitor	medicine	enzyme inhibitor	protein kinase inhibitor	drug
+malady	clinical symptom	inflammatory disorder	disease of bone	disorder	clinical finding	sickness	pathology	illness	pathological state	inflammation	disease
+clinical finding	nocturnal enuresis	enuresis
+recurrent event	physiological process	cardiovascular function	beat	heartbeat	pulsation	cardiac function	pulse
+malady	spirochetal infection	infectious disease	venereal disease	contagion	social disease	dose	disorder	vd	infection	contagious disease	clinical finding	std	communicable disease	sickness	pathology	sexually transmitted disease	illness	pathological state	disease
+antigen
+malady	infarction	complication	postoperative complication	disorder	myocardial lesion	illness	clinical finding	sickness	cardiopathy	pathology	myocardial infarction	pathological state	cardiac finding	injury	myocardial necrosis	disease
+tumor	neoplasm	malady	illness	sickness	disorder	disease	growth	anatomical pathology	pathology	medical diagnosis	clinical diagnosis	pathological state	diagnosing	diagnosis	nerve sheath tumor	lump	body structure	clinical finding
+therapy	therapeutic procedure	psychotherapy
+donation	procedure
+analyte	protein	enzyme	oxidoreductase	dehydrogenase
+route of administration	parenteral
+removal	biopsy	procedure
+head structure	anatomical structure	nervous system structure	body region
+person	health care provider	health professional	medical practitioner	caregiver	primary care provider	physician	healthcare professional
+breathing	respiration	ventilation	emergency procedure	metabolic process	metabolization	metabolism	bodily function	chemical reaction	reaction	reaction mixture	chemical change	natural process	procedure	assisted breathing
+intervention	participation	clinical evaluation	cardiovascular investigation	procedure
+monitoring procedure	procedure	surveillance
+volatile oil	diagnostic aid	oil	medicine	phytochemical	plant material	biomolecule	terpene	drug	hydrocarbon
+malignant tumor	abdominal mass	clinical finding	pelvic mass	disease	cancer of prostate	cancer
+alkaloid	crystal	analyte	medicine	alkali	salt	drug
+vascular disease	vasculitis	clinical finding	inflammatory disorder	disease	capillaritis
+amine	radical	hydrocarbon	bond	building block	atom	polyamine	functional group	attraction	chemical series	paraffin	chemical bond	moiety	molecular entity
+surgical operation	surgical procedure	surgery	surgical process	speciality	specialty	specialisation	medical specialty	specialism	specialization	medical procedure	medicine	medical science	practice of medicine	career	surgical specialty
+healthcare professional	worker	social scientist
+introduction	repair	shunt	procedure	implantation	surgical repair	surgery	operative procedure
+upper limb	anatomical structure	skeletal muscle structure	body structure	body region	soft tissue
+clinical finding	somatic sensation	perception
+clinical finding	respiratory disorder	obstruction
+oral lesion	soft tissue lesion	clinical finding	periodontal disease	disease
+pharmaceutical drug	medicine	antidiabetic	hypoglycaemic agent	hypoglycemic agent	enzyme inhibitor	hydrolase inhibitor	antidiabetic agent	medicament	antidiabetic drug	drug
+tissue	conjunctive tissue	animal tissue	connective tissue	cartilage	articular cartilage
+electrode
+person	blood donor	donor
+proliferation	odontogenic neoplasm	body structure	lump	tumor
+body structure	neoplasm	lump	proliferation	epithelial neoplasm
+antigen
+medicine	medical specialty	medical science
+lymphoid neoplasm	malady	lymphoproliferative disorder	malignant lymphoma	disease	disorder	t-cell lymphoma	cancer	illness	body structure	neoplasm	clinical finding	malignant tumor	proliferation	sickness	pathological state	lump	blood cancer	lymphoma	pathology
+malady	clinical symptom	disorder	pathology	clinical finding	sickness	dyspnoea	illness	pathological state	dyspnea	shortness of breath	disease
+dopa	medicine	amino acid	drug
+maturity	age
+bacteria	bacterium	microorganism
+sleep disorder	insomnia	dyssomnia	disease
+malady	heart failure	disorder	illness	clinical finding	sickness	cardiopathy	pathology	pathological state	cardiac finding	disease
+medicine	antihistamine	drug
+body structure	cell organelle	cavum	anatomical structure	body part	organ	organelle	accumulation of fluid	sac	cavity
+coumarin	anticoagulant	medicine	drug	warfarin
+skills training	procedure
+malady	body structure	disease	vascular disease	disorder	illness	clinical finding	sickness	cardiopathy	pathology	cardiovascular disease	pathological state	enlargement	dilatation	heart disease
+malady	softness	debility	vulnerability	clinical symptom	debilitation	disease	disorder	clinical finding	unfitness	infirmity	fatigue	sickness	pathology	illness	pathological state	frailty	frailty syndrome
+body structure	anatomical structure	cell structure	fibre	processor	nerve fibre	fiber	nerve fiber	cell
+body structure	anatomical structure	cell structure	germ cell	gamete	cell
+radical prostatectomy	surgical removal	radical cystectomy	removal	operative procedure	prostatectomy	excision	procedure
+respiratory distress	distress	clinical finding	difficulty breathing
+service
+malady	respiratory disorder	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+clinical finding	poisoning	toxicity
+body region	anatomical structure	body structure
+cancer	lump	neoplasm	carcinoma	proliferation	epithelial neoplasm
+neurosis	psychoneurosis	neuroticism	disturbance	psychological disorder	psychiatric condition	folie	mental disturbance	mental illness	mental disorder	malady	illness	sickness	disorder	disease	anxiety	clinical finding	anxiety state
+body structure
+clinical finding	disease	depression	decrease
+healthcare professional	physician	medical doctor	worker	medical practitioner	pediatrician	oncologist
+malady	illness	sickness	disorder	disease
+malady	clinical symptom	disorder	clinical finding	sickness	pathology	illness	pathological state	shortness of breath	disease
+therapy	procedure	administration of medication	medication therapy	antidepressant therapy	administration of substance	therapeutic procedure
+disease of lung	renal impairment	clinical finding	respiratory disorder	acute respiratory disease	kidney disease	disease	syndrome
+healthcare professional	physician	specialized physician	worker	medical practitioner	medical doctor
+malady	biliary cirrhosis	hepatic fibrosis	cirrhosis	autoimmune disorder	disorder	liver disease	cirrhosis of liver	illness	autoimmune liver disease	liver regeneration	clinical finding	autoimmune disease	sickness	pathology	pathological state	disease
+clinical finding	disorder	pathological state	harm	pathology
+neurological lesion	soft tissue lesion	clinical finding	neuropathy	disease	peripheral nerve disease	neurilemoma	soft tissue mass	neuroma
+hospital	site of care
+clinical finding	craniofacial pain	pain	headache
+medicine	biological agent	complex	drug
+neuropathy	clinical finding	disease	peripheral nerve disease
+malady	kidney disease	failure	disease	disorder	clinical finding	sickness	hypertensive renal disease	pathology	illness	pathological state	renal failure
+diphosphonate	pharmaceutical drug	acid	medicine	medicament	ibandronate	organophosphate	drug	biphosphonate
+endocrine	hormone	signaling molecule	cell signaling	secretion	biofluid	body fluid
+malady	adenopathy	hilar lymphadenopathy	thoracic lymphadenopathy	lymphadenopathy	disorder	illness	clinical finding	sickness	pathology	pathological state	disease
+impulse generator
+hematologic function	oxygen saturation	saturation
+clinical finding	deformity
+function	renal function	blood flow	flow
+physical activity
+higher cognitive process
+malady	toxaemia	complication	disease	disorder	gestation	clinical finding	toxemia	sickness	pathology	illness	pathological state	gravidity
+plant material	antigen	allergen
+paraneoplastic neuropathy	neuropathy	clinical finding	disease	peripheral nerve disease	peripheral neuropathy
+malady	mood disorder	postpartum depression	mental disorder	complication	disorder	clinical finding	depressive disorder	perinatal depression	sickness	pathology	illness	pathological state	disease
+excision	procedure	prostatectomy	removal	open prostatectomy	surgical removal	perineal prostatectomy
+memory	ltm	long-term memory
+assessment scales	scale
+neuropathy	clinical finding	disease	optic neuropathy
+intervention	tending	medical aid	aid	health care	procedure	care	treatment	medical care	remediation	therapeutic procedure
+pump	bypass
+medicine	medical specialty	medical science	practice of medicine	branch of science
+body structure	anatomical structure	mesoderm
+isolation procedure	procedure
+procedure	embolization procedure
+clinical evaluation	removal	monitoring procedure	monitoring of patient	sampling
+neuropathy	clinical finding	disease	peripheral nerve disease	polyneuropathy
+clinical finding	respiratory failure	disease	respiratory disorder	arrest
+alkaloid	pharmaceutical drug	opiate	painkiller	medicine	psychoactive drug	psychoactive substance	narcotic	analgesic	medicament	drug
+prenatal diagnosis	diagnosis
+psychotherapy	therapy	medical care	medical aid	treatment	intervention	aid	attention	health care	care	therapeutic procedure
+care	palliative care service	palliative care
+hydrocarbon
+antibiotic	beta-lactam antibiotic	medicine	third generation cephalosporin	antibacterial	amide	lactam	drug
+thoracic compliance	compliance
+neurological lesion	clinical finding	congenital malformation	disease	body structure	heterotopia
+hospital environment	hospital department	environment	department
+clinical finding	periodontal disease	periodontitis	disease
+disease of lung	clinical finding	inflammatory disorder	disease	respiratory disorder	sarcoidosis	pulmonary granuloma	lung mass
+malady	disorder	clinical finding	sickness	dyssomnia	pathology	insomnia	illness	pathological state	sleep disorder	disease
+patient	person	recipient
+inflammatory disorder	viral infection	sickness	pulmonary disease	pathological state	disease	viral respiratory infection	malady	disease of lung	pneumonitis	respiratory disease	clinical finding	respiratory disorder	communicable disease	illness	lung consolidation	contagion	infectious disease	infection	pneumonia	respiratory tract infection	virus infection	viral disease	respiratory illness	pathology	disorder
+person
+glycoside	drug	inotropic agent	digoxin
+clinical finding
+malady	benign tumour	medical diagnosis	clinical diagnosis	anatomical pathology	growth	pathological state	diagnosis	neoplasm	clinical finding	sickness	illness	disorder	benign tumor	pathology	tumor	disease
+medicine	medical science	practice of medicine
+vascular disease	thromboembolic disease	embolism	thrombosis	acute pulmonary embolism	pulmonary thromboembolism	soft tissue lesion	clinical finding	pulmonary embolism	respiratory disorder	acute disease	acute respiratory disease	arterial thrombosis	disease	pulmonary thrombosis	thromboembolism
+malady	rash	disease	disorder	clinical finding	urticaria	sickness	pathology	illness	pathological state	edema
+malady	illness	sickness	disorder	disease	pathological state	clinical finding
+worm	animal
+clinical finding	bone injury	disease	trauma	injury	fracture
+enzyme	hydrolase	protein
+disease	clinical finding
+disease of lung	lung consolidation	idiopathic interstitial pneumonia	clinical finding	inflammatory disorder	disease	respiratory disorder	interstitial pneumonia	pneumonia	pneumonitis
+clinical finding	disease	respiratory disorder	respiratory insufficiency
+clinical finding	deformity
+dental material	dressing
+blood count	blood test	count	reckoning	counting	tally	list	enumeration	biopsy	diagnostic test	diagnostic assay	medical test	assay	intervention	medical procedure	test	trial	participation	clinical evaluation	measurement procedure	cell count	blood cell count
+body structure	bone	anatomical structure	type of bone	skeletal structure	body part	conjunctive tissue	bone structure	organ	connective tissue	os	animal tissue	body region
+disease of lung	degenerative disorder	clinical finding	disease	respiratory disorder	metabolic disease
+body structure	vessel	arteria	mediastinal structure	anatomical structure	vascular system	vasculature	vas	cardiovascular structure	tube	artery	body region	soft tissue	aorta
+eukaryotes
+contagion	infectious disease	infection	communicable diseases	pathological state	clinical finding	mycosis
+clinical finding	neurological finding
+malady	disturbance of consciousness	disorder	clinical finding	sickness	pathology	unconsciousness	illness	pathological state	disease
+halogen	medicine	antineoplastic agent	hydrocarbon	drug
+malady	mood disorder	mental disorder	disease	major depression	disorder	recurrent depression	illness	chronic disease	depressive disorder	chronic mental disorder	clinical finding	sickness	depression	pathological state	pathology
+metal	heavy metal
+protein	biopolymer	macromolecule	biomolecule
+alloy	mixture	metal	atom	metallic element	solution	molecular entity
+headache disorder	clinical finding	disease	headache
+implantation	bone graft	grafting procedure	introduction	procedure
+head structure	body structure	auditory structure	brainstem structure	brain structure	anatomical structure	nervous system structure	auditory pathway	head part	brain part	body region
+clinical evaluation	procedure	test
+malady	illness	sickness	disorder	disease	cancer	tumor	neoplasm	malignant neoplasm	malignant tumor	metastasis	secondary tumor	metastatic tumor	growth	anatomical pathology	malignancy	pathological state	medicine	medical science	practice of medicine	pathology	medical diagnosis	clinical diagnosis
+malady	abdominal mass	disorder	neoplasia	illness	pelvic mass	clinical finding	sickness	pathology	pathological state	disease
+liver structure	anatomical structure	body structure	body region
+cellulitis	inflammation	body structure	inflammatory lesion
+malady	congenital heart disease	congenital disease	disorder	pathology	illness	clinical finding	sickness	cardiopathy	pathological state	congenital malformation	cardiac finding	disease
+disease of lung	clinical finding	inflammatory disorder	disease	respiratory disorder	pneumonitis	pneumonia
+alloy	mixture	metal	atom	metallic element	molecular entity	physical system	solution	environment
+malady	benign adenoma	disorder	growth	pathological state	clinical finding	anatomical pathology	neoplasm	sickness	illness	adenoma	benign tumor	pathology	tumor	disease
+cardiovascular function	functions	vascular function
+clinical finding	hyperthermia	fever
+gene	nucleic acid sequence	suppressor	biological sequence
+os	bone	connective tissue	conjunctive tissue	organ	animal tissue	body part	bone structure	body structure	anatomical structure	structure of bone	entire bone
+body structure	anatomical structure	cell structure	protoplasm	array	blood cell	somatic cell	cell
+medical science	surgical procedure	procedure	surgical operation	surgery	intervention	surgical process	operative procedure	endoscopic procedure	medical procedure
+organ	internal organ	viscus
+intervention	medical procedure	participation	procedure
+blanket
+head structure	body structure	supratentorial brain	anatomical structure	brain structure	nervous system structure	nucleus of thalamus	head part	brain part	body region	cerebral structure	nucleus
+malady	autoimmune disorder	disorder	soft tissue lesion	skin lesion	illness	scleroderma	clinical finding	autoimmune disease	sickness	pathology	pathological state	disease
+malignant tumor	abdominal mass	clinical finding	disease	gastric cancer	cancer
+procedure	excision	surgery	surgical removal	removal	operative procedure
+acid	organophosphate	insecticide
+pharmaceutical drug	medicine	antineoplastic agent	antimitotic agent	medicament	microtubule inhibitor	drug
+guardian	guard	protector	defender	person	worker
+malady	disorder	ataxia	illness	clinical finding	sickness	hereditary disease	pathology	cerebellar ataxia	pathological state	disease
+malady	ventricular tachycardia	disorder	illness	clinical finding	sickness	cardiopathy	pathology	pathological state	cardiac finding	tachycardia	disease
+clinical symptom	malady	illness	sickness	disorder	disease	pathological state	body structure	pathological process
+healthcare professional	medical practitioner	clinical oncologist	oncologist
+malignant tumor	abdominal mass	clinical finding	pelvic mass	carcinoma	disease	cancer of prostate
+malady	clinical diagnosis	disorder	disfunction	dysfunction	illness	palsy	diagnosis	clinical finding	paralysis	pathology	sickness	medical diagnosis	pathological state	disease
+surgical material	flap	bone	portion
+headache disorder	clinical finding	disease
+protein antigen	mucin	tumor-associated antigen	analyte	antigen	protein
+removal	procedure	surgical removal	excision	pneumonectomy
+inflammatory disorder	colitis	inflammatory bowel disease	disorder	clinical finding	sickness	pathology	ulcerative colitis	pathological state	disease
+disease of lung	lung consolidation	clinical finding	inflammatory disorder	disease	interstitial pneumonia	pneumonia	pneumonitis	respiratory disorder	interstitial lung disease
+biological agent	collagen	drug	medicine
+helminth infection	disease of lung	clinical finding	pneumonitis	respiratory disorder	infectious disease	inflammatory disorder	nematode infection	eosinophilia
+introduction	procedure	nerve injection
+biologist	naturalist	historian	scholar	student	intellect	intellectual	worker
+malignant tumor	familial disease	abdominal mass	clinical finding	pelvic mass	disease	cancer of prostate	prostate cancer	cancer
+auditory structure	anatomical structure	head structure	head part	ear structure	body region
+biofluid	fluid	secretion	body fluid
+clinical finding	neurosis	dissociative disorder	disease	amnesia
+protein
+acute respiratory disease	malady	respiratory disorder	disorder	respiratory insufficiency	illness	respiratory failure	clinical finding	sickness	pathology	acute disease	pathological state	disease
+arterial blood	blood	body fluid
+cardiovascular function	blood flow	functions	vascular function
+pneumothorax	spontaneous pneumothorax	clinical finding	disease
+cardiopulmonary bypass circuit	oxygenator	device system	perfusion pump
+opening	body structure	anatomical structure
+instrument	endoscope
+malady	precocious puberty	puberty	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+malady	inflammatory disorder	disorder	clinical finding	sickness	pathology	illness	pathological state	panniculitis	disease
+clinical finding	intake
+clinical finding	mental disorder	disease	dependence
+procedure	test	evaluation
+clinical finding	elation	elevated mood	mood
+cardiac finding	cardiopathy	disease	clinical finding	cardiomyopathy
+drug	benzamide	medicine
+pharmaceutical drug	medicine	alternative medicine	traditional medicine	medicament	drug
+disease of lung	clinical finding	interstitial lung disease	respiratory disorder	microlithiasis	lithiasis
+malady	clinical diagnosis	disease	nutritional disorder	disorder	metabolic disease	illness	clinical finding	sickness	pathology	medical diagnosis	pathological state	iron overload	haemochromatosis	hemochromatosis
+fatness	malady	illness	sickness	disorder	disease	pathological state
+appliance
+clinical evaluation	imaging of head	imaging
+pain	clinical finding	craniofacial pain	medication overuse headache	neurological finding	headache disorder	headache
+melanin	protein	pigment
+syndrome	malady	organ dysfunction syndrome	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+liver disease	malady	illness	sickness	disorder	disease
+malady	illness	sickness	disorder	disease	neurological disorder	neurological disease	nervous disorder	state	neuropathy	clinical finding	peripheral nerve disease
+surgical adhesive	surgical material
+medicine	lipoprotein	protein	surfactant	drug
+clinical evaluation	procedure	measurement procedure	analysis
+drug	zinc
+malady	respiratory disorder	disorder	inflammatory disease	clinical finding	pulmonary disease	sickness	respiratory illness	pathology	illness	pathological state	respiratory disease	disease
+procedure	removal	draw
+procedure	clinical evaluation	cardiovascular investigation	angiography	imaging	arteriography
+carrier	carrier protein	protein	biopolymer	macromolecule	biomolecule
+malady	illness	sickness	disorder	disease
+clinical finding	mental disorder	reactive psychoses	disease	psychosis
+clinical finding	tension
+disturbance	psychological disorder	psychiatric condition	folie	mental disturbance	mental illness	mental disorder	sickness	disorder	disease	pathological state
+carboxylic acid	amino acid
+neural structure	anatomical structure	body structure
+antibiotic	antibacterial	medicine	rifamycin	bactericide	micro-organism	pharmaceutical drug	antituberculous drugs	medicament	drug	microorganism
+worker	intellectual	person	scholar	naturalist
+healthcare professional	physician	worker	medical practitioner
+pupil	enrollee	student	person
+disease of lung	degenerative disorder	clinical finding	metabolic disease	disease	respiratory disorder	amyloidosis
+clinical finding	disease	anemia
+clinical finding	mental distress	mental disorder
+displacement	defect	body structure	fracture	damage	fragment
+technique
+hamartoma	malady	illness	sickness	disorder	disease	growth	congenital defect	congenital disorder	birth defect	congenital abnormality	congenital anomaly	defect	anomaly	imperfection	clinical symptom	pathological state	state
+medicine	medical specialty	medical science	branch of science	site of care
+clinical finding	genetic finding
+medicine	insulin	hormone	protein	pancreatic hormone	short-acting insulin	drug
+malady	neuropathy	disorder	clinical finding	sickness	pathology	illness	pathological state	optic neuropathy	disease
+medicine	sedative-hypnotic	downer	anti-psychotic agent	drug	pharmaceutical drug	tranquillizer	antipsychotic drug	sedative	psychotropic agent	tranquilizer	antipsychotic	antipsychotic agent	psychiatric medication	benzimidazole	sedative drug	psychotherapeutic agent	neuroleptic agent	depressant	psychoactive drug	psychoactive substance	neuroleptic drug	medicament	neuroleptic
+implantation	grafting procedure	introduction	transplantation	procedure	solid organ transplant	transplant
+roentgenogram	clinical evaluation	x-ray	image	drawing	skiagram	pic	angiography	icon	exposure	radiograph	radiogram	photograph	photo	procedure	x ray	illustration	figure	imaging	map	x-ray picture	picture
+colour
+malady	illness	sickness	disorder	disease	pathological state	neurological lesion	intracranial injury	clinical finding	trauma	injury	brain injury
+malady	lymphoproliferative disorder	intracranial mass	malignant lymphoma	disease	disorder	illness	brain mass	clinical finding	sickness	malignant tumor	pathological state	intracranial tumor	neurological lesion	lymphoma	pathology
+neurological lesion	soft tissue lesion	clinical finding	neuropathy	disease	peripheral nerve disease	injury
+aspiration	removal	extraction	procedure
+pharmaceutical drug	antihypertensive agent	medicine	medicament	drug	vasodilator
+therapy	therapeutic procedure	rehabilitation
+fraction	blood	cardiac function	cardiovascular function
+procedure	protocol	plan
+malady	illness	sickness	disorder	disease	kidney failure	renal failure	nephrosis	renal disorder	nephropathy	kidney disease	failure	urologic disease	uropathy	pathological state	pathology	medical diagnosis	clinical diagnosis
+malady	psychiatric condition	mental illness	disturbance	mental disorder	mental disease	disorder	clinical finding	mental disturbance	psychosis	psychological disorder	sickness	pathology	illness	pathological state	psychopathy	disease
+alkaloid	active ingredient	controlled substance	recreational drug use	acid	medicine	psychoactive drug	psychoactive substance	substance of abuse	psychedelic drug	hallucinogenic	hallucinogenic drug	drug of abuse	psychedelic	psychotropic agent	ergoline derivative	street drug	hallucinogen	drug
+surgery	procedure	operative procedure	surgical repair
+incision	surgical procedure	procedure	surgical operation	surgery	intervention	surgical process	operative procedure	medical procedure
+clinical finding	metabolic disease	disease	hypophosphatasia	hereditary disease
+corrective	prosthesis	dental appliance	restorative	prosthetic device
+nerve cell	neuron	neurone	cell	somatic cell
+vaccine	vaccination
+neurological lesion	neuropathy	clinical finding	disease	nerve damage	body structure	damage	injury
+repetition	malady	repeating	speech disorder	speech	voice communication	disorder	clinical finding	continuance	sickness	pathology	illness	pathological state	continuation	disease
+counseling
+malady	impairment	disorder	visual impairment	clinical finding	sickness	pathology	illness	pathological state	visual disturbance	disease
+biomolecule	medicine	macromolecule	antidote	biopolymer	protein	polymer	drug
+fastening	connection	cord	joining	procedure	yarn	attachment	armamentarium	connexion	ligature	thread	operative procedure
+biomolecule	macromolecule	activator	enzyme	accelerator	protein	biopolymer	polymer	hydrolase	catalyst
+vertebra	spine	vertebral column	backbone	os	bone	skeletal structure	conjunctive tissue	organ	anatomical structure	body structure	animal tissue	body part	infrastructure	base
+congenital disorder	congenital heart disease	sickness	congenital anomaly	cardiopathy	pathological state	disease	malady	congenital abnormality	congenital disease	cardiac finding	anomaly	chd	syndrome	clinical symptom	septal defect	congenital heart defect	illness	congenital malformation	birth defect	defect	imperfection	clinical finding	congenital defect	pathology	disorder
+clinical finding	periodontal disease	inflammatory disorder	disease	periodontitis
+accidental injury	injury	damage
+surgical material	bone graft material	body material	transplantation	autograft	transplant
+malady	clinical symptom	body structure	hydrops	disease	disorder	illness	swelling	clinical finding	sickness	pathology	puffiness	pathological state	oedema	enlargement	edema
+transferase inhibitor	immunosuppressant	medicine	enzyme inhibitor	macrolide	lactone	protein kinase inhibitor	drug
+excision	trephination	removal	procedure	surgical removal
+clinical finding
+benzodiazepine	medicine	psychoactive substance	anticonvulsant	sedative	psychotropic agent	psychotherapeutic agent	anxiolytic	anxiolytic agent	hypnotic agent	drug
+patient	person	recipient
+therapy	procedure	functional skills training	therapeutic procedure	skills training	rehabilitation
+nutritional supplement	trace element	medicine	mixture	metal	physical system	atom	metallic element	heavy metal	solution	alloy	drug	molecular entity
+clinical finding	disease
+body structure	anatomical structure	cell structure	muscle cell	cell	myocyte
+imaging	evaluation
+worker	registrar
+headache disorder	clinical finding	disease	headache
+gas pressure	pressure
+valve	ball valve
+excision	prostatectomy	removal	procedure	surgical removal
+malady	disorder	cardiac finding	illness	angina	clinical finding	cardiopathy	pathology	sickness	pathological state	injury	disease
+malady	disorder	bladder outflow obstruction	illness	obstruction	clinical finding	urinary tract obstruction	sickness	pathology	pathological state	disease
+malady	hemorrhage	intracranial hemorrhage	bleeding	disorder	illness	clinical finding	sickness	subarachnoid hemorrhage	pathology	pathological state	disease
+retroperitoneal mass	abdominal mass	clinical finding	congenital malformation	kidney disease	kidney lesion	disease	renal cyst	cyst	renal mass
+clinical symptom	disorder	lack of energy	clinical finding	pathology	weakness	pathological state
+neurochemical
+renal replacement	introduction	solid organ transplant	procedure	transplant	grafting procedure	implantation	transplantation	kidney transplantation	operative procedure
+vascular disease	clinical finding	disease	precapillary pulmonary hypertension
+temporal bone	os	bone	connective tissue	conjunctive tissue	organ	animal tissue
+animal	echinoderm	division
+clinical finding	neuropathy	disease	axonal neuropathy
+pharmaceutical drug	medicine	medicament	glutamate receptor antagonist	drug
+joint	articulation
+fall
+malady	developmental delay	delay	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+headache disorder	clinical finding	disease	trigeminal autonomic cephalalgia	cluster headache	headache
+disease of lung	clinical finding	disease	respiratory disorder	infectious disease	actinomycosis
+clinical finding	disease
+diagnostic aid	medicine	radiopharmaceutical agent	contrast medium	radiopaque agent	radiographic contrast media	iodinated contrast media	contrast material	contrast agent	contrast media	drug
+contractor	organ
+artery	arteria	blood circulation	blood supply	vasculature	bloodstream	cardiovascular system	vessel	vas	vascular system	tube	anatomical structure
+beet	plant	vegetable
+bone tumor	body structure	lump	neoplasm	proliferation	fibroma
+procedure	clinical evaluation	fluoroscopy	cardiovascular investigation	carotid imaging	angiography	carotid angiogram	imaging	arteriography
+antiarrhythmic drug	pharmaceutical drug	antimalarial agent	antimalarial drug	antiprotozoal	antimalarial	medicament	alkaloid	drug
+malady	clinical symptom	hurting	disorder	clinical finding	painfulness	sickness	pathology	pain	illness	pathological state	disease
+clinical finding	inflammatory disorder	keratitis	degenerative disorder	disease
+function	nervous system function
+antipsychotic agent	medicine	psychoactive drug	psychoactive substance	psychotropic agent	psychotherapeutic agent	antipsychotic	drug
+body region	body structure	anatomical structure	human skeleton	animal tissue	frame	cranium	connective tissue	tissue	morphology	skeleton	skeletal system	skull	organ	body part	conjunctive tissue	os	bone
+malady	congenital vascular anomaly	disease	congenital disease	vascular disease	disorder	cerebrovascular disease	illness	clinical finding	sickness	pathological state	congenital malformation	malformation	pathology
+monocarboxylate	salt
+monoacid	acid	metal oxide	tricarboxylic acid	carboxylic acid	carboxyl group	oxide	organic acid	carboxy
+diagnostic aid	medicine	biopolymer	polymer	drug
+clinical evaluation	physical examination
+malady	kidney disease	disorder	clinical finding	rejection	sickness	pathology	illness	pathological state	disease
+head part	head structure	body region	soft tissues
+adenocarcinoma	cancer	carcinoma	tumor	neoplasm	malignant neoplasm	malignant tumor	metastasis	secondary tumor	metastatic tumor	malady	illness	sickness	disorder	disease	growth	anatomical pathology	malignancy	pathology	medical diagnosis	clinical diagnosis
+biological agent
+clinical finding	disease	liver disease
+healthcare professional	physician	medical practitioner
+arterial bypass graft	procedure	surgical repair	surgery	arterioplasty	arterial anastomosis
+clinical finding	disease
+malady	disease	disorder	soft tissue lesion	skin disease	skin lesion	clinical finding	sickness	cutaneous disease	skin disorder	illness	pathological state	pathology
+functions	inhibition	metabolism
+clinical finding	infectious disease	disease	infection
+metal	heavy metal
+clinical finding
+flat bone	os	bone	connective tissue	conjunctive tissue	organ	animal tissue
+implantation	grafting procedure	introduction	transplantation	procedure	lung transplant	transplant
+brain	encephalon	neural structure	organ	anatomical structure	body structure
+malady	dental plaque	disease	oral lesion	disorder	biofilm	crust	bacterial plaque	illness	clinical finding	sickness	encrustation	pathology	pathological state	foreign body
+pain	clinical finding	craniofacial pain	neurological finding	headache
+incoherence	disconnection	disjunction	disconnectedness	separation
+psychotherapeutics	psychotherapy	mental hygiene	psychiatry	psychopathology	psychological medicine	medical research	speciality	specialty	specialisation	medical specialty	specialism	specialization	medicine	research	career	medical science	practice of medicine	therapy	therapeutic procedure
+procedure	clinical evaluation
+malady	inflammatory disorder	respiratory disorder	chronic disease	allergic rhinitis	rhinitis	disorder	allergic condition	illness	irritation	clinical finding	sickness	pathology	pathological state	disease
+medical therapies	therapeutic procedure	procedure	therapy
+clinical finding	disease	metabolic disease	diabetes
+bioethics	neuroscience	neurobiology	philosophy	medical research
+medicine	medical specialty	internal medicine	general medicine	pediatrics	paediatrics	pediatric medicine	medical science	speciality	specialty	specialisation	specialization	practice of medicine	branch of science
+metal	heavy metal
+disease of lung	lung consolidation	clinical finding	inflammatory disorder	disease	pneumonia	pneumonitis
+body structure	anatomical structure	level	transverse plane	reference plane
+economics	political economy	interdisciplinary research	interdisciplinarity	neuroscience	neurobiology
+blood	biofluid	body fluid	fluid
+vital sign	rate	ratio	clinical symptom	physical property
+procedure	exercise therapy	movement therapy
+introduction	procedure
+anaesthesia	anesthesia	regional anaesthesia	regional anesthesia
+corticoid	medicine	endocrine	glucocorticoid	hormone	steroid hormone	steroidogenesis	corticosteroid	steroid	adrenal hormone	adrenal cortical hormone	glucocorticoid hormone	secretion	drug
+pharmaceutical drug	purgative	medicine	medicament	drug
+malady	mental illness	mental disorder	disorder	clinical finding	psychological disorder	sickness	pathology	paranoia	illness	pathological state	disease
+hospital environment	hospital department	environment
+benzodiazepine	medicine	psychoactive substance	anticonvulsant	sedative	psychotropic agent	psychotherapeutic agent	anxiolytic	anxiolytic agent	hypnotic agent	drug
+carbide	semiconductor
+malady	clinical symptom	disorder	clinical finding	sickness	pathology	illness	pathological state	medical diagnosis	disease
+acid	crystal	salt	carboxylic acid
+macromolecule	biomolecule	protein	biopolymer	polymer	transporter
+head structure	body structure	supratentorial brain	anatomical structure	brain structure	nervous system structure	head part	brain part	telencephalon	body region	cerebral structure
+infectious disease	clinical finding	disease	acute respiratory disease	respiratory disorder	acute infectious disease	respiratory tract infection	respiratory infection	infection
+artery	arteria	blood circulation	blood supply	vasculature	bloodstream	cardiovascular system	vessel	vas	vascular system	tube	anatomical structure
+malignant tumor	uterine cancer	abdominal mass	clinical finding	pelvic mass	uterine mass	disease	cervical cancer	cancer
+blood pressure	intracardiac pressure
+clinical evaluation	diagnostic ultrasonography	imaging of heart	echocardiography	cardiovascular investigation	imaging
+neuropathy	clinical finding	diabetic neuropathy	disease	peripheral nerve disease	peripheral neuropathy
+medicine	medical specialty	medical science	practice of medicine	branch of science
+body region	head part	anatomical structure	body structure	head structure
+service
+clinical evaluation	cardiovascular investigation	imaging of heart	echocardiography	diagnostic ultrasonography	procedure	imaging
+pharmaceutical drug	anesthetic agent	medicine	anaesthetic	anaesthetic agent	topical anesthetic	anesthetic	medicament	local anesthetic	local anaesthetic	drug
+service	mental health service
+malignant tumor	abdominal mass	clinical finding	pelvic mass	carcinoma of prostate	disease	cancer of prostate	carcinoma	adenocarcinoma
+proliferation	body structure	lump	neoplasm
+malady	disorder	degenerative disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+brain part	body structure	anatomical structure	nervous system structure	body region	head part
+cytotoxic drug	medicine	medicament	drug
+carpal	carpal bone	os	bone	connective tissue	conjunctive tissue	organ	animal tissue
+healthcare professional	nurse
+proliferation	odontogenic neoplasm	body structure	lump	neoplasm	fibroma
+malady	illness	sickness	disorder	disease	disturbance	psychological disorder	psychiatric condition	folie	mental disturbance	mental illness	mental disorder	pathological state
+malady	illness	sickness	disorder	disease	pathological state	clinical finding	neuroma
+biological agent	microbial agent	toxic substance	mycotoxin	toxin	drug
+hemithorax	anatomical structure	body region	lung structure	body structure
+assessment scales	scale
+healthcare professional	medical practitioner	surgeon
+healthcare professional	physician	medical doctor	worker	medical practitioner	pediatrician	neurologist
+clinical finding	disease	injury	necrosis
+firm	corporation	company	partnership	venture	enterprise
+elastomer	surgical material
+alkaloid	pharmaceutical drug	opiate	painkiller	medicine	psychoactive drug	narcotic	analgesic	medicament	antitussive	drug
+clinical finding	mental disorder	disorder
+antiviral agent	medicine	reverse transcriptase inhibitor	antiviral drug	pharmaceutical drug	medicament	antiviral	drug
+malady	infectious disease	measles	contagion	disorder	infection	contagious disease	clinical finding	communicable disease	sickness	viral disease	pathology	illness	pathological state	disease
+framework
+introduction	irrigation	procedure
+blood pressure	pressure	ventricular pressure	intracardiac pressure
+body structure	anatomical structure	cell structure	body part	organ	subunit
+clinical finding
+elevated mood	clinical finding	joy	lightness	elation	mood
+body structure	white blood cell	anatomical structure	cell structure	mononuclear cell	blood cell	cell	t cell
+services	healthcare services
+clotting	blood coagulation	coagulation	procoagulant
+malady	accident	disorder	damage	accidental injury	trouble	trauma	separation process	body structure	sickness	harm	pathology	hurt	illness	pathological state	injury
+clinical finding
+physical property	concentration	magnitude
+chemotherapeutic	therapy	alkylating agent	aid	medicine	antineoplastic agent	cancer drug	chemo	chemotherapy	chemotherapeutic agent	treatment	drug
+acid	medicine	nsaid	anti-inflammatory drug	analgesic	non-steroidal anti-inflammatory drug	anti-inflammatory	pharmaceutical drug	nonsteroidal anti-inflammatory drug	nonsteroidal anti-inflammatory	medicament	non-opioid analgesic	drug	non-opioid analgesics	antiinflammatory
+malady	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+body fluid	clinical symptom	malady	bleeding	biofluid	disorder	intumescence	illness	swelling	blood	body structure	fluid	clinical finding	pathology	sickness	pathological state	lump	enlargement	disease
+disease of lung	clinical finding	disease	respiratory disorder	respiratory tract infection	mycosis	allergic condition	infectious disease
+semilunar valve	cardiac valve	heart valve	valve	anatomical structure	body structure	control	controller	body part	slot	receptacle
+drug	antibiotic	medicine
+procedure	stimulation procedure	brain stimulation	stimulation
+protein	glycoprotein	biopolymer	macromolecule	biomolecule	polymer	enzyme	hydrolase	antigen
+headache disorder	clinical finding	disease	trigeminal autonomic cephalalgia

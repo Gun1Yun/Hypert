@@ -1,0 +1,50 @@
+porphyrin	Concept
+Shoot the Dog	Entity
+fence	Concept
+diner	Concept
+inclemency	Concept
+relief	Concept
+Test Site	Entity
+Bobby Williams	Entity
+colostrum	Concept
+Hill cipher	Concept
+packet filtering	Concept
+Half-Life	Entity
+Marienkirche	Entity
+paprika	Concept
+bibliographic database	Concept
+Liege	Entity
+Mohave Community College	Entity
+French	Entity
+monoclonal	Concept
+prince consort	Concept
+fils	Concept
+full-duplex	Concept
+fess	Concept
+Coliseum	Entity
+Lander University	Entity
+Nonesuch Records	Entity
+infatuation	Concept
+warlord	Concept
+cascade	Concept
+osteocyte	Concept
+Johnny Ramone	Entity
+hell	Concept
+annual general meeting	Concept
+Phil Silvers	Entity
+rubble	Concept
+Wiktionary	Entity
+draft	Concept
+woofer	Concept
+botany	Concept
+taxi	Concept
+ringtone	Concept
+Cymru	Entity
+Karl Sax	Entity
+dollar	Concept
+suffragette	Concept
+sister	Concept
+serial	Concept
+sugar-cane	Concept
+Hero	Entity
+buffer	Concept

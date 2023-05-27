@@ -1,0 +1,15 @@
+medicine	lipoprotein	protein	surfactant	drug
+health-related behavior
+blood pressure	intracardiac pressure
+hospital	site of care
+malady	idioventricular rhythm	disorder	cardiac arrhythmia	cardiac finding	illness	ventricular arrhythmia	clinical finding	sickness	cardiopathy	pathology	pathological state	disease
+function	renal function	blood flow	flow
+biomolecule	macromolecule	activator	enzyme	catalyst	oxidoreductase	accelerator	biopolymer	protein	polymer	peroxidase
+fibroblast	body structure	anatomical structure	cell structure
+disease of lung	renal impairment	clinical finding	respiratory disorder	acute respiratory disease	kidney disease	disease	syndrome
+malady	softness	debility	vulnerability	clinical symptom	debilitation	disease	disorder	clinical finding	unfitness	infirmity	sickness	pathology	illness	pathological state	frailty	weight loss	frailty syndrome
+implantation	bone graft	grafting procedure	introduction	procedure
+body structure	anatomical structure	cell structure	muscle cell	cell	myocyte
+disease	clinical finding
+worker	registrar
+operative site	body structure	site

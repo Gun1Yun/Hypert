@@ -1,0 +1,15 @@
+alkaloid	crystal	analyte	medicine	alkali	salt	drug
+appliance
+clinical finding	anxiety disorder	mental disorder	disease	neurosis
+pharmaceutical drug	purgative	medicine	medicament	drug
+removal	procedure	surgical removal	excision	pneumonectomy
+specialty	dentistry	dental medicine	medicine	medical specialty	medical science	practice of medicine
+respiratory disorder	respiratory disease	pulmonary disease	respiratory illness	malady	illness	sickness	disorder	disease	pathological state	disease of lung	clinical finding	emphysema
+clinical evaluation	physical assessment	procedure	assessment
+clinical finding	disease	injury	necrosis
+clinical finding	constipation	disorder	pathological state	pathology
+awareness
+os	bone	feature	caput	connective tissue	conjunctive tissue	organ	body part
+clinical finding	clinical symptom	pathological state	pathology
+clinical finding	aftereffect
+clinical finding	respiratory disorder	obstruction

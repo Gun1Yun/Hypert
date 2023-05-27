@@ -1,0 +1,50 @@
+farmer	Concept
+headmaster	Concept
+bank	Concept
+twopence	Concept
+stubble	Concept
+prefix	Concept
+harvesting	Concept
+prince consort	Concept
+Nuptse	Entity
+defeat	Concept
+coupling	Concept
+Jenny Oropeza	Entity
+Isle of Arran	Entity
+pseudogout	Concept
+space research	Concept
+nuclear power plant	Concept
+Nsanje	Entity
+Miller	Entity
+Durham	Entity
+John McPherson	Entity
+Willow Street	Entity
+railroad	Concept
+killer	Concept
+Mike Allen	Entity
+viniculture	Concept
+Wilma Vaught	Entity
+Richard Barnes Mason	Entity
+magnet	Concept
+savoy	Concept
+pecan	Concept
+website	Concept
+palette	Concept
+Hero	Entity
+green roof	Concept
+Matthew Flinders	Entity
+indisposition	Concept
+camelpox	Concept
+Half-Life	Entity
+ranch	Concept
+Lake District	Entity
+needle	Concept
+resonance	Concept
+gatekeeper	Concept
+real world	Concept
+viscometry	Concept
+pervert	Concept
+Goonellabah	Entity
+Capcom	Entity
+Robert Adams	Entity
+product	Concept

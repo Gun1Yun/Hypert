@@ -1,0 +1,15 @@
+single	medium	vocal	song	track	human voice	crooner	balladeer	thespian	actor	release	musical composition	piece of music	opus	composition	person	moniker	nickname	epithet	sobriquet	singer	vocalist	musical work	storage	given name	forename	musician	work of art	personal name	full name	proper name
+instrument	musical instrument	aerophone
+music genre	musical style
+bass part	bass	voice	air	strain	melodic line	melodic phrase	melody	tune	musical work	work of art
+instrument	musical instrument	brass	brass instrument	aerophone	wind	wind instrument
+musical style	music genre
+extended play	audio recording	sound recording	audio	sound reproduction	sound system	audio system	album	record album	studio album	recording	reproduction	disc jockey	disk jockey	dj	electronic equipment	musical work	audio signal	medium	work of art	signal	task	repeating	repetition	electrical energy	function	storage
+jazz	popular music	popular music genre	musical style	music genre
+music genre
+musical work	air	strain	melodic line	melodic phrase	melody	tune	work of art
+musical composition	piece of music	opus	composition	musical work	work of art
+composer	singer	musician	person
+band	musical group	musical organization	music group	bandmember	rock group	rock band	team	dance band	dance orchestra
+idiophone	instrument	musical instrument
+responsory	church music	religious music	chant	christian music	musical style	music genre	religious song	vocalizing	singer	singing	vocalist	vocal	song	track	human voice	vocal music	musical performance	musical composition	piece of music	opus	composition	speech	spoken language	language	performance	performing arts

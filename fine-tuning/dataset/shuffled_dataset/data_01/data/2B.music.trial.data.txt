@@ -1,0 +1,15 @@
+vocalizing	Concept
+musical arrangement	Concept
+descant	Concept
+Sky Blue Sky	Entity
+orchestral jazz	Concept
+excerpt	Concept
+snare drum	Concept
+classic big band	Concept
+track	Concept
+funk rock	Concept
+tone poems	Concept
+hillbilly music	Concept
+opus	Concept
+Your Favorite Weapon	Entity
+bugler	Concept

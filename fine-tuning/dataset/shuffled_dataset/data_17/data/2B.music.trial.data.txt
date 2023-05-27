@@ -1,0 +1,15 @@
+allegro	Concept
+serious music	Concept
+gregorian chant	Concept
+rider	Concept
+east coast	Concept
+musical phrase	Concept
+section	Concept
+rap rock	Concept
+plainsong	Concept
+vocal blues	Concept
+Kenny Loggins	Entity
+crwth	Concept
+dirge	Concept
+Johnny Cash	Entity
+cowboy	Concept

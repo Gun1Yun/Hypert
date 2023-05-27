@@ -1,0 +1,15 @@
+clinical finding	disease	lithiasis
+syndrome	clinical symptom	malady	disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+suspension	ending	termination	conclusion	drug suspension
+worker	registrar
+clinical finding	clinical symptom	pathological state	pathology
+hospital environment	surgical department	hospital department	department
+protein	enzyme
+disease of lung	clinical finding	interstitial lung disease	respiratory disorder	microlithiasis	lithiasis
+biofluid	fluid	secretion	body fluid
+medicine	trace element	metal	drug
+drug	benzamide	medicine
+malady	disorder	degenerative disorder	clinical finding	sickness	pathology	illness	pathological state	disease
+protein	enzyme	oxidoreductase	oxidase
+transferase inhibitor	medicine	enzyme inhibitor	protein kinase inhibitor	drug
+malady	illness	sickness	disorder	disease	pathological state	clinical finding	inflammatory disorder	sarcoidosis

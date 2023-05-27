@@ -1,0 +1,50 @@
+throw	Concept
+life history	Concept
+Umayyad Mosque	Entity
+Jon Cassar	Entity
+eternity	Concept
+noun	Concept
+Taiwan Relations Act	Entity
+Chef Menteur Pass	Entity
+spam	Concept
+warlord	Concept
+drinking	Concept
+flooring	Concept
+Bomberman	Entity
+Leonidas	Entity
+belt	Concept
+algebra	Concept
+linkage	Concept
+Michael Owen	Entity
+disc	Concept
+greensand	Concept
+VirtualDubMod	Entity
+money	Concept
+Alexandre Gustave Eiffel	Entity
+bartlett	Concept
+violin	Concept
+Kim Il-sung University	Entity
+Jack Trout	Entity
+I-20	Entity
+Martin State Airport	Entity
+adage	Concept
+backstay	Concept
+Fahrenheit	Entity
+sixpence	Concept
+Paul Mellars	Entity
+ammonium	Concept
+backwash	Concept
+vibe	Concept
+Winsor School	Entity
+bridge	Concept
+farming	Concept
+John Hodiak	Entity
+Date Night	Entity
+rhizome	Concept
+John Livingston	Entity
+jerky	Concept
+fish	Concept
+streetcar	Concept
+handshake	Concept
+conformist	Concept
+vegetarian	Concept

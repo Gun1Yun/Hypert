@@ -1,0 +1,15 @@
+brass	brass instrument	sousaphone	serpent	tuba	instrument	musical instrument	wind	wind instrument	bass instrument	bass	aerophone
+album	record album	studio album	medium	band	musical group	musical organization	music group	rock group	rock band	team	punk rock	punk music	punk	punk rocker	musical work	audio signal	rock and roll	rock music	rock-and-roll	rock	rock'n'roll	musical style	music genre	work of art	signal	storage	popular music	popular music genre
+idiophone	instrument	musical instrument
+folk	music genre
+dance	dance music	musical style	music genre
+dance	dancing	dance music	musical style	music genre	musical work	performing arts	flick	picture	movie	pic	picture show	film	motion picture	work of art	show	social event	latin music
+musical work	musical style	music genre	musical composition	piece of music	opus	composition	work of art
+musical composition	piece of music	opus	composition	musical work	work of art
+medium	single	vocal	song	track	human voice	release	musical composition	piece of music	opus	composition	storage	musical work	work of art
+music executive	record producer	person	boss	chief	leader	administration	direction	management	executive	executive director	title
+latin music	music genre	musical style
+blues	music genre
+band	musical group	musical organization	music group	rock group	rock band	team	medium	storage
+album	record album	studio album	medium	solo album	musical work	audio signal	work of art	signal	storage
+alternative rock	music genre

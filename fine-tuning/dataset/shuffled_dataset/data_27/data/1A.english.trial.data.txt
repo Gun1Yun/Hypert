@@ -1,0 +1,50 @@
+beef	Concept
+restriction fragment	Concept
+Dara Horn	Entity
+empire	Concept
+molecule	Concept
+Talim	Entity
+Qir	Entity
+vehicle	Concept
+Neon Genesis Evangelion	Entity
+Metal Gear Solid	Entity
+Mae West	Entity
+rheumatism	Concept
+rotter	Concept
+pontiff	Concept
+viniculture	Concept
+exposition	Concept
+Wisconsin	Entity
+white coat	Concept
+photographer	Concept
+pollock	Concept
+treasure map	Concept
+British Home Stores	Entity
+urus	Concept
+Robert Boyle	Entity
+nomination	Concept
+mangonel	Concept
+Three Graces	Entity
+Hero of Alexandria	Entity
+Wii	Entity
+Reckless Kelly	Entity
+consumption	Concept
+Mollie Katzen	Entity
+vegetarian	Concept
+Willow Street	Entity
+Helen of Troy	Entity
+Funen	Entity
+Magnificent Mile	Entity
+Sherlock Holmes	Entity
+round	Concept
+spelunker	Concept
+affectionateness	Concept
+flavour	Concept
+Jurmo	Entity
+door	Concept
+Eric Becklin	Entity
+Sigrid Nunez	Entity
+saprolite	Concept
+acre	Concept
+failure rate	Concept
+Winterthur	Entity

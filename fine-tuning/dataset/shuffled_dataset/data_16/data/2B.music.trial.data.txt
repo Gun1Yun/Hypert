@@ -1,0 +1,15 @@
+southern soul	Concept
+playback	Concept
+trad	Concept
+character piece	Concept
+british punk	Concept
+Jim O'Rourke	Entity
+Robert Cray	Entity
+pavane	Concept
+maracas	Concept
+outlaw country	Concept
+The Smiths	Entity
+kithara	Concept
+comedic music	Concept
+whistling	Concept
+electronic pop	Concept

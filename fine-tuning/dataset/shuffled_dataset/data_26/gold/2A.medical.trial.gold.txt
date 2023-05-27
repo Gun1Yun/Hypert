@@ -1,0 +1,15 @@
+movement	physical force
+chair	furniture
+nurse	caregiver	health professional	primary care provider	pcp
+maturity	age
+clinical finding
+clinical finding	periodontal disease	inflammatory disorder	disease	periodontitis
+transferase inhibitor	medicine	enzyme inhibitor	protein kinase inhibitor	drug
+malady	illness	sickness	disorder	disease
+medicine	analgesic	nsaid	anti-inflammatory drug	non-steroidal anti-inflammatory drug	anti-inflammatory	pharmaceutical drug	nonsteroidal anti-inflammatory drug	nonsteroidal anti-inflammatory	medicament	non-opioid analgesic	drug	antiinflammatory
+bacteria	bacterium	microorganism
+synthetic steroid	medicine	glucocorticoid	parenteral methylprednisolone	synthetic glucocorticoid	steroid	methylprednisolone	drug
+melanin	protein	pigment
+antiviral agent	medicine	immunotherapeutic agent	antineoplastic agent	drug	immunomodulator
+procedure	removal	draw
+pain	clinical finding	craniofacial pain	neurological finding	headache

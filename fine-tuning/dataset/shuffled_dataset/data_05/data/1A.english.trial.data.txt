@@ -1,0 +1,50 @@
+grad	Concept
+nude	Concept
+Liege	Entity
+sigma	Concept
+Nuptse	Entity
+neck	Concept
+bird	Concept
+pungency	Concept
+closeness	Concept
+camelpox	Concept
+Saint Anna	Entity
+far left	Concept
+Susanna Clarke	Entity
+lipogram	Concept
+abnegation	Concept
+card index	Concept
+representative	Concept
+suffragette	Concept
+blueness	Concept
+narcolepsy	Concept
+condition	Concept
+Ken Russell	Entity
+BattleTech	Entity
+Copernic	Entity
+subsidy	Concept
+Port Chester	Entity
+algebra	Concept
+circuit	Concept
+James Renwick	Entity
+sapota	Concept
+jerky	Concept
+oil pollution	Concept
+check-in	Concept
+Gagandeep Singh	Entity
+Yapese	Concept
+indisposition	Concept
+kid	Concept
+Norfolk	Entity
+sucker	Concept
+coxswain	Concept
+Showroom	Concept
+rotunda	Concept
+disk	Concept
+meningitis	Concept
+Joseph Rodman Drake	Entity
+malediction	Concept
+viscometry	Concept
+Deutschland	Entity
+White House	Entity
+microcontroller	Concept

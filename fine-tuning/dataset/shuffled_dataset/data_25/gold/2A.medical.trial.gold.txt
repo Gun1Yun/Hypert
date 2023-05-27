@@ -1,0 +1,15 @@
+head structure	body structure	anatomical structure	body region
+ache	neurological finding	chest pain	clinical finding	aching	pain
+clinical finding	infectious disease	disease	infection
+monoacid	acid	metal oxide	tricarboxylic acid	carboxylic acid	carboxyl group	oxide	organic acid	carboxy
+lesion
+body fluid	biomolecule	medicine	macromolecule	biofluid	endocrine	hormone	fluid	biopolymer	protein	polymer	drug	secretion
+nursery	chamber	bedroom
+nurse	caregiver	health professional	primary care provider	pcp
+drug	zinc
+neuropathy	clinical finding	disease
+antiarrhythmic drug	pharmaceutical drug	antimalarial agent	antimalarial drug	antiprotozoal	antimalarial	medicament	alkaloid	drug
+malady	clinical symptom	hurting	disorder	clinical finding	painfulness	sickness	pathology	pain	illness	pathological state	disease
+malady	illness	sickness	disorder	disease	pathological state	neurological lesion	intracranial injury	clinical finding	trauma	injury	brain injury
+nurse	caregiver	health professional	primary care provider	health care provider	healthcare professional	professional nurse	worker
+excision	trephination	removal	procedure	surgical removal

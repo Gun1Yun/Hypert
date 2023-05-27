@@ -1,0 +1,15 @@
+instrument	musical instrument	pipe	wind	wind instrument	aerophone
+proficiency	technique	musical technique	vocalizing	singer	singing	vocalist	vocal music	musical performance	state	speech	spoken language	language	performance	performing arts	human language	demonstration	presentation	specifications	show
+band	musical group	musical organization	music group	musical composition	piece of music	opus	composition	musical work	work of art
+cymbal	percussion	percussive instrument	percussion instrument	idiophone	instrument	musical instrument
+reggae	music genre	musical style
+dance	dance music	musical style	music genre
+musical style	music genre
+vocal	song	track	human voice	musical composition	piece of music	opus	composition	musical work	work of art
+flute	pipe	instrument	musical instrument	wood	woodwind instrument	woodwind	wind	wind instrument	aerophone
+oldies	pop	music genre
+instrument	musical instrument	keyboard instrument	keyboard	free reed	wind	wind instrument	aerophone
+recorder	wood	woodwind instrument	woodwind	transverse flute	flute	pipe	instrument	musical instrument	wind	wind instrument	aerophone
+musical passage	passage	musical composition	piece of music	opus	composition	musical work	work of art
+drum	membranophone	percussion	percussive instrument	percussion instrument	instrument	musical instrument
+band	musical group	musical organization	music group

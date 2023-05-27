@@ -1,0 +1,15 @@
+biotype	Concept
+psychoactive substance dependence	Concept
+neuronal heterotopia	Concept
+anxiety neurosis	Concept
+prolonged fever	Concept
+esmolol	Concept
+muscle weakness	Concept
+diabetic peripheral neuropathy	Concept
+neuromuscular junction disorder	Concept
+red blood cell	Concept
+pigment	Concept
+paraneoplastic neuropathy	Concept
+cervicogenic headache	Concept
+progressive inflammation	Concept
+primary cerebral lymphoma	Concept

@@ -1,0 +1,50 @@
+Harmonia axyridis	Concept
+Springboro	Entity
+label	Concept
+disc	Concept
+Burger King	Entity
+exercise	Concept
+magistrate	Concept
+felicity	Concept
+prototype	Concept
+spelt	Concept
+white water	Concept
+Voyager 1	Entity
+Minnamurra	Entity
+Phage	Entity
+dam	Concept
+Pinball	Entity
+medical care	Concept
+Michael Costa	Entity
+Roos	Entity
+Sylvette	Entity
+hostile fire	Concept
+Craig Anderson	Entity
+blind	Concept
+offensive	Concept
+Carly Fiorina	Entity
+navigator	Concept
+progressive	Concept
+Yahoo	Entity
+Monash Freeway	Entity
+banyan	Concept
+neck	Concept
+Lyon	Entity
+Cecilia	Entity
+Achille	Entity
+running	Concept
+director	Concept
+NGC 2264	Entity
+slicker	Concept
+makeover	Concept
+Lido	Entity
+James Mason	Entity
+Bryher	Entity
+ideal	Concept
+afterlife	Concept
+Hypnerotomachia Poliphili	Entity
+grounds	Concept
+synchronizer	Concept
+prairie cordgrass	Concept
+owner	Concept
+Kew Palace	Entity

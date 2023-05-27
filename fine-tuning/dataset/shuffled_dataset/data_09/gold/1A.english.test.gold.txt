@@ -1,0 +1,1500 @@
+singer	person
+monetary unit
+actor	chess player	wrestler	person
+state	natural phenomenon
+report	written document	annual publication	periodical	piece of work
+student
+emperor	sovereign	leader	documentary	opera	electronic media	chief of state	administrator	personal name	television program	head of state	work of art
+body waste	waste	excretion	waste product	junk	depression	state
+animal	larva
+medical science	engineering science	utility program	data processing	calculation	processing	business activity	human language	engineering	computation	warring	endeavor	utility	military action	language	database	service program	medical procedure	enterprise	engineering physics	applied science	warfare	medicine	learned profession	practice of medicine	dispute	war	utility software
+town	city	provincial capital	capital
+body structure	neural structure	brain	body part	nucleus	anatomical structure	bodily structure
+measuring instrument	measuring device
+carnivore	fault	big cat	animal	carnivory	mistake
+party	social affair	social gathering	meal
+film director	television producer	producer	cinematography	film producer	writer	film production	actor	filmmaker	person	film making	film maker	filming	movie maker
+person	botanist	academic	reformist	function	surname	lithostratigraphic unit	naturalist	family name	cricketer	athlete	contestant	crater	university	academy
+public building	constructed structure	living accommodations
+fish	binomial name	biological group	binomial nomenclature
+person	dbms	officeholder	economic expert	jurist	economist	jurisconsult
+musical style	popular music genre	rock 'n' roll	heavy metal music	music genre	economic science	heavy metal	rock music
+album	medium	transmission channel	energy	free energy	record album	audio signal	studio album	musical work	channel
+performance	physics
+durable good	habitat	structural member	home ground	single-valued function	forrest	raw material	architectural element	biosystem	durable goods	surroundings	support	surround	microenvironment	environment	microhabitat	wood	forest	structural element	building material	scheme	durables
+illness	lesion	pox	sickness	skin disorder	excoriation	infection	skin disease	acne vulgaris	bleb	pustule	blister	contagion	cutaneous disease	communicable disease	pathological state	disease	scrape	inflammatory disease	biological group	disorder
+video game genre
+school	public university	country	university	educational institution	state	college	academy	university system	state university system
+computer code	installation	application software	constructed structure	applications programme	software application	app	application program	application	public building	code	applications software
+software	computer code	software package	software program	computer program	computer software	computer programme
+whole number	natural number	integer
+written language	written communication	written text	transcription
+tendency
+written language	cartography	alluvion	figure	soil	measurement	sign	shape	equilateral triangle	programing language	abstract object	contour	graphic symbol	trilateral	alphabetic character	polygon	alphabet	spatiality	formal language	listing	written communication	measuring	triangle	database	fundamentals	conformation	lithostratigraphic unit	alluvial deposit	plane figure	roman alphabet	metrology	polytope	trigon	type	signal	typeface	list	alluvial sediment	angularity	polygonal shape	substantial form	alluvium	sediment
+magnitude
+edible nut	plant	plant structure	structural biology	engineering	seed	plant part
+carnivore	feline	big cat	cat	felid	carnivory
+code	company	firm	software
+person
+structural member	support	reinforcement	stay	strengthener	brace
+tennis player	sportsperson	person
+attempt	try	experiment	educational assessment	thought process	experimentation
+control	authorisation	potency	authorization
+windstorm	tropical cyclone	weather	atmospheric condition	cyclone	natural phenomenon
+skillfulness
+bookman	lawmaker	legislative body	speaker	intellectual	fictional character	articulator	possessor	owner	orator	legislator	statesman	politician	scholar	scholarly person	house of representatives	person	political leader	utterer	demarcation	limit	lawgiver	leader	public speaker	talker
+virus	pathogen	infective agent	microorganism
+soil	waste product	waste	trash	garbage	feed	mud
+environs	home ground	plain	surround	environment	environment variable
+province	intoxicant	transportation	show	american state	colony	fluid	wheeled vehicle	picture show	mode of transport	transport	alcohol	automotive vehicle	u.s. state	fermented drink	means of transport	social event	alcoholic drink	state	conveyance	dependent territory	liquid state
+working man	worker	herder	laborer	clergyman	hired man	workman	person	priest	employee	working person
+technical specification	rhythmicity	specifications	metric	beat level	metric unit	sound property	unit of length	beat	musical time	rhythmic pattern	linear measure	measure
+composer	musician	person
+void
+medium	periodical publication	periodical literature	storage medium	write-up	public press	press	mass medium	book	mass media	print media	book of account	knowledge organization
+lexical class	form class	body part	adjective	word class	size
+work of art	album	comic book
+person
+sport	olympic sports	group event	team sport	type of sport	winter sport	competition
+finish	failure	dissatisfaction	letdown	discontentedness	undesirable	ending	discontentment	conclusion
+person	actress	celebrity
+transport	railroad train	train	way	transport infrastructure	route
+problem solving
+united states president	broadcast programming	person	moving picture	schedule	family name	video recording	tv series	engineering	lexicology	mate	forename	president	railroad terminal	technology	railway station	jetport	head of government	national leader	statesman	politician	engineering physics	radio station	international airport	chief of state	seaman	head of state	train station	film	movie	radio program	motion picture	mariner	radio programme	leader	given name
+baseball player	pitcher	sportsperson	person
+person
+judgement
+private university	academy	university	educational institution
+person
+depository	deposit	depositary	facility
+article of commerce	asset
+technical specification	geologic timescale	physical property	geological period	magnitude	unit of time	geological time	geologic time
+guitarist	musician	marketer	person
+infectious disease	disease	illness
+function	canvas	placement	way	calculation	series	guidance	itinerary	course of study	arrangement	mathematical operation	magnitude	navigation	computation	path	installation	mathematical process	route	steering	piloting
+business process	certification	authorization	management	procedure
+data processor	microcomputer	mechanical assembly	hand-held computer	electrical appliance	electronic computer	digital computer	mobile device	mechanism
+workplace
+noble	moving picture	show	patrician	pic	dramatic art	picture show	fine art	aristocrat	lady	film	art music	picture	theater	fine arts	noblewoman	musical work	dramatics	musical theater	drama	person	chief	dramaturgy	movie	motion picture	dramatic play	moving-picture show
+motorway	bridge	freeway	lift bridge	throughway	state highway	controlled-access highway	expressway
+population	singer	musician	person
+engine	aircraft engine	atmosphere	combustion	transportation	burning	turbomachine	mode of transport	propulsion	rocket engine	mechanism	motion	conveyance	motor	heat engine	turbine	movement	weapon system	rocket motor
+work of art	database	transmission	narrative mode	storage medium	narrative	storage	story	research	tale	inquiry	piece of work	narration	investigating	print media	database management system
+transport infrastructure	main road	motorway	state highway	controlled-access highway	expressway	way	infrastructure
+psychic communication	extrasensory perception
+current	tide	flow	phenomenon	natural phenomenon	motion	turbulence	physical phenomenon	turbulency
+corporate executive	administrator	affix	business executive	executive	title of respect	person	executive director	constituent	decision maker	senior management
+padding	cushioning	cushion	pillow
+fast food joint	restaurant	quick service restaurant	public building	services	eating house
+tropical cyclone	hurricane	tempest	cyclone	atmospheric phenomenon	windstorm
+nymph
+country	state	asian country	island nation	archipelago
+amphibious assault	island	amphibious warfare	isle	atoll
+chemical process	sound change	chemical change	chemical action	natural action	natural process
+town
+stone	spectral color	bluish green	beryl	primary color	blueness	teal	rock	pebble	spectral colour	gemstone	tectosilicate
+locale	valley	natural depression
+island	isle
+engineering science	cylinder	gun barrel	engineering	small-arm	fire arm	small arms	arm	barrel	weapon	equipment	technology	tube	gun	firearm	shape	engineering physics	geometric shape	projectile	tubing	weapon system	ranged weapon
+cordgrass	grass
+principle	right
+entourage	social event	world organization	government	club	team sport	tournament	planning board	competition	global organization	sports league	voluntary association	governing	brotherhood	athletic conference	locale	sport	group event	association	conference	league	government activity	international organisation	international organization	administration	coalition	governance	surroundings	state	squad	board	team	world organisation	gov
+micro-organism	defect	electronic component	transducer	animal	sensing element	detector	sensor	track and field
+top	instrument	headwear	headdress	clothing
+illness	sickness	pathological state	disease	sleep disorder	sleep disturbance	disorder
+african	person
+mountain pass	mapmaking	pass
+bioscience
+tropical storm	atlantic hurricane	windstorm	denseness	density	air current	tropical cyclone	hurricane	flux density	flux	storm damage	atmospheric phenomenon	storm	current of air	physical phenomenon	violent storm	cyclone	tropical depression	phenomenon
+merchant	merchandiser	selling	merchandising	sales agent	marketing	sale	seller	salesman	selling technique
+bookselling	bookman	medicine	bookstore	student	biologist	history of medicine	biomedical scientist	branch of science	life science	medical specialty
+thespian	playwright	family name	surname	film	noun	clergyman	personnel	museum	state	actor	person	unfortunate person	acquirer	poet
+ceremony	religious ceremony	school	ceremonial	university	educational institution	private university	university of birmingham
+software development	software	license	permit	contract	computer code
+category	sorting	spending	assessment	price	retail price	single-valued function	cost	retail	appraisal
+information processing system	computer
+person	writer	journalist
+specifications	technical specification
+town	township	new england town
+wrongful conduct	misconduct	wrongdoing
+sawing machine	sawblade	saw	power tool	hand tool
+person	national
+sociologist	economist	person
+specifications	written document	technical specification
+noble gas	gas
+broadcaster	media professional	person
+school	scheme	university
+convex shape	elevation	natural elevation	structural member	support	beam	shape	structural element	appendage
+unit of measure	magnitude
+warrior	violence	combat	military man	combatant	warfare	person	personnel	writer	armed services	soldier	military
+legal opinion	natural virtue	philosophy
+service industry	services	service	dishes	table service	foodservice
+disagreeable person	person	horse	mammal	animal
+picturing	pictorial representation
+garnish
+fine art	social affair	party	group event
+technical specification	specifications	fundamental quantity	fundamental measure	duration	time period	period of time
+town
+religious person	prophet	saint	person
+person	actress	celebrity
+whale	cetacean	aquatic mammal	mammal	animal
+person	philosopher	intellectual	scholar
+haulage	road transport	contest	trucking	transportation	transaction
+written agreement	agreement	understanding
+countertenor	singer	work of art	person	album
+agglomeration
+person	physicist
+teaching reading
+asian country	asian nation	country	state	autonomous region
+lexicology	lexical	philology	forename	given name
+equipment	mechanism	system camera	camera	photographic camera	photographic equipment
+fortification	wall	barrier	defense	defensive structure
+cheater	person	worker	deceiver	cheat	beguiler
+saxophonist	person
+agriculture
+plant
+political organization	city	form of government	country	governing	political organisation	governance	mass media	gov	political system	asian nation	asian country	theocracy
+platform game	electronic game	video game	software program	software package	software	application	application software	computer program	software application
+area of mathematics	metric	time interval	time unit	years	solar year	si base unit	orbital period	fundamental measure	measure	period of time	long time	annum	tropical year	astronomical year	age	interval	orbit period	definite quantity	time standard	unit of time	dimensionless quantity	time period	system of measurement
+freeway	base	way	infrastructure	passage
+lecturer	academician	person	faculty member	professor	educator	american literature	reader	assistant professor	academic	educationist	faculty	prof	instructor	teacher
+dominican	reformer	philosopher	social reformer	eristic	dominican order	religious person	reformist	dominicans	scholar
+person
+economic sector	cultivation
+city
+website	electronic media	code	webpage	storage medium	software program	web app	application program	site	applications programme	web site	email reader	internet site	textfile	communication medium	mail user agent	email client	software package	transmission channel	web application	application	data-storage medium	electronic computer	web page	app	software
+automotive vehicle	land vehicle	truck
+violent storm	atmosphere	phenomenon	windstorm	tropical storm	tropical cyclone	air current	atmospheric state	atlantic hurricane	hurricane	cyclone	weather	atmospheric phenomenon	atmospheric condition	storm	current of air	weather condition	natural phenomenon	wind	tropical depression
+group event	sport
+wrongdoer	quitter	bad person	person
+academician	faculty member	professor	educator	population genetics	lector	assistant professor	person	educationist	blood	faculty	instructor	teacher
+plant	perennial
+wrongful act	decease	death	cause of death	immorality	unnatural death	killer	anti-social behaviour	ending	putting to death	homicide	kill	crime	law-breaking	wrongful conduct	termination	voluntary action	killing	lawsuit	wrongfulness
+planned language	software package	software	implementation	computer programme	programming language	language
+hockey player	competitor	athlete	person	olympic sports	olympic sport	sport	sportsperson	jock
+shelter	edifice	constructed structure
+lawbreaking	murder	murderer	killer	killing	kill	law-breaking	misconduct	serial killer	offense	first-degree murder	unjustness	wrongful act	death	cause of death	serial murderer	unnatural death	anti-social behaviour	criminal offense	crime	putting to death	unlawfulness	person	injustice	wrongful conduct	termination	criminal	criminal offence	conclusion
+imaginary place	mythical place
+transmission	transmission channel	channel
+title	diplomat	person
+purchase	buy	purchasing	business process
+person
+union	circle	agreement	understanding
+function	string of words	bodily process	acknowledgment	language	body process	bodily function	phrase
+written record	written account	letter	text	evidence	financial statement	musical notation	tone	tone of voice	folding money	paper money	money	commentary
+person	follower
+plant fiber	fiber	sheet	byproduct	mixture	plant fibre	fibre	plant substance
+lawbreaking	offense	law-breaking	offence	unrighteousness	criminal offense	crime	unlawfulness	transgression	dupery	wrongdoing	falsification	misconduct	unjustness	criminal offence
+competitor	pitcher	person	thrower	contestant	baseball player	sport	sportsperson
+city	town
+electronic game	video game	software program	software package	software	application	application software	computer program	software application
+person	worker
+person	evaluator
+computing device	application	pc game	computing system	software application	app	application program	applications programme	computer	computing machine	computing platform	video game	application software	computer game	software package	video game console	game console	videogaming	computer system	applications software	games console	electronic computer	computer software	software
+olive	plant	seasoning	veggie	flavoring	flavouring	veg	flowering tree	vegetable	woody plant
+cricketer	person	competitor	sportsperson	athlete	jock	contestant
+rate	ratio
+olympic sport	contest	athlete	team sport	social event	competition	brotherhood	team	group event	sport	type of sport	tourney
+computer program	software program	pc game	computer game	moving picture	action game	video game console	software application	app	electronic game	shooter game	video game genre	picture show	game console	games console	motion picture	video game	shoot 'em up	videogaming	computer programme
+possession	financing	tegument	finance	protection	connective tissue	assets
+placentation
+text	textual matter	written document	computer file	sign
+work of art	potato	white potato	food product	pop	veggie	irish potato	veg	foodstuff	fast food	tater
+problem solving	measure	locale	protected area	conservancy	conservation area
+crystal	horsie	spectral colour	primary color	rock	aggregate	gem	precious stone	gemstone	stone	colour	horse
+theater	classical	person	opera
+club	social club	frat	fraternity	brotherhood	lodge	secret society
+wild horse	horsie	race	horse	hoofed mammal
+pike	musical composition	end	musical work	main road	ending	freeway	developed country
+landed estate	plant	parcel	estate	planting	landed property	plot of land	parcel of land	piece of land	derivative	piece of ground	garden
+capital	city	country	provincial capital	centre
+grass	oil	plant	herb	angiosperm	supermolecule	macromolecule
+work of art	portrait	painting	creative work	graphic art
+coleopteran	insect	beetle	beetles
+enquiry	microscopy	research	microscope	laboratory equipment	investigation	investigating	magnifier	scientific instrument
+country	state	asian country	hostility	musical organization	film	band
+manual labour	artifact
+software	computer code	software package	software program	coding system	computer program	computer programme	written communication	computer software
+person	worker	software program	software package	software	application	application software	computer program	software application
+maneuver	decision	pick	tactical manoeuvre
+leatherworker	animal product
+polymer	synthetic resin	styrene	foam	vinyl resin	representational process	vinyl polymer
+crystal	salt	inorganic compound	iodide
+owner	person	holder
+graphic art	visual communication	graphic arts
+suburban area	town
+work of art	medium	data storage device	storage medium	storage	mapping	data-storage medium
+bookman	scholar	scholarly person	historiographer	historian	intellectual	person
+town	city	government	country	authorities	local government
+love	lovemaking	sex activity	sexual love	bodily function	sexual activity	vaginal sex	sexual act	sexual relations	sexual intercourse	human sexual activity	sexual practice	sexual penetration	intercourse	dicking	sexual congress	making love	love life	sexual relation	shag	copulation	sex position	sex act	shagging	movement
+molecular entity	chemical group
+form of government	title of respect	administration	emperor of rome	rule	head of state	person	political organisation	governance	roman emperor	emperor	political system	measuring device
+technologist	person
+politician	member of parliament	boss	person	chief	political leader	leader
+colourant
+textile machine
+song	film
+provincial capital	state	country	province
+person	star sign	forefather
+tropical storm	tropical depression	weather	atmospheric condition	atmospheric state	physical phenomenon	weather condition	tropical cyclone	natural phenomenon	denseness
+person	politician	leader	officeholder	political leader
+atmosphere	windstorm	denseness	violent storm	air current	hurricane	storm damage	atmospheric condition	storm	current of air	physical phenomenon	weather condition	wind	tropical storm
+newspaper columnist	writer	person	columnist	editorialist	media professional	journalist
+inability	unskillfulness
+making	cartography	mapmaking	fashioning
+means of transportation	mechanical assembly	means of transport	travel	move	passenger transport	mode of transport	transport
+firm	trade name	corporate identity	record label	intellectual property	ip	brand	legal name	brand image	marking	brand name	recording label	label	name brand	enterprise	record company	company
+specifications	hurrying	speed	speeding
+file format	data format	software program	software package	coding system	software standard	free software	computer file	textfile	computer code	file	computer program	computer programme	software	computer software
+waterway
+rationalism	school of thought
+finish	finishing line	destination	connective	mark	terminal	attachment	finish line
+tabletop game	card game
+cook	head cook	head chef	worker	person
+difference	dispute	reasoning	difference of opinion	discussion
+person	sportswriter	journalist	writer
+river	waterbody	body of water
+flick	story	novel	moving picture	show	movie	fiction	book	channel	motion picture	literary work	film	picture show
+score	run	statistic	definite quantity	success
+person	writer
+person	worker	supporter	helper
+heaven	social event	company	firm
+horse	ungulate
+footballer	person
+plant	aromatic plant	herb	herbaceous plant
+business model	team sport	agreement	business organization	sports league	voluntary association	business concern	athletic conference	association	concern	conference	league	contract	enterprise	business organisation	team	cite
+hat
+airfield	facility
+picture	text	textual matter	methodology	inquiry	fault	entry	melody	method	icon
+voyage	journey	journeying	campaign	difference of opinion	temporal property	rapidity
+maltreatment
+indicator	partnership	private corporation	corporation	company	syndicate	comradeship	consortium	business organization	agreement	business organisation	voluntary association	privately held corporation	fraternity	brotherhood	commentary	corp	association
+politician	diplomatist	governor	boss	person	chief	political leader	jurist	leader
+sickness	pathological state	disease	respiratory disease	reason	indication	inflammatory disease	clinical symptom
+native species	carnivore	canis familiaris	indigenous species	dogness	dog	canine	indigenous	animal	stray dog	wild dog	carnivory	native
+heraldry	motif	figure	picture	image	illustration	emblem	drawing	icon
+technical specification	space	word string	explanation	possibility	specifications	hypothesis	extent	infinite	metric space
+student	person	intellectual	scholar	scholarly person
+map
+plan of action
+pipe	drain	surface area	tube	pipework	packaging	geometric shape	waste pipe	packing material	tubing	drainpipe	piping	plane section
+flick	moving picture	movie	drama	film	picture show	show	work of art
+endnote	regular payment	cost	citation	payment
+medium	facility	person	sign	inspiration	signal	mark	written document	piece of work	natural action	natural process
+form
+technical specification	measure	mapmaking	first derivative	computation	devising
+visual arts	work of art	wall painting	picture	graphic art	image	fine arts	beaux arts	fine art	visual art	painting	method	painter
+city
+show	series	literary composition	monster	film production	imaginary being	literary work	movie maker	computing platform	film	story	movie	television film	fiction	platform	tv show	cartoon character	tv series	feature film	fictional character	television show	serial	tv program	television series	silent movie	fictitious character	television program
+locale
+capitalist	person	animal	mammal	investor	carnivory
+ill-treatment	pain	distress	ill-usage	falsification	maltreatment	mistreatment	hurt	suffering	abuse	clinical symptom	persecution	misconduct	wrongdoing
+person	writer
+medical science	surgical procedure	surgical operation	medical procedure	practice of medicine	medicine	surgery	surgical process
+generation	contemporary	youth culture	youth subculture	contemporary history	contemporaries
+objection	cry	vocalization	pleading	yell	utterance
+natural number	definite quantity	counting number	large integer	natural numbers	whole number
+spectral color	plant
+constancy	visual property	race	timbre
+politician	parcel	authorities	country	local government	parcel of land
+igneous rock	rock
+subatomic particle	particle
+entertainer	bishop	contestant	athlete	footballer	sportsperson	musician	person
+expenditure	compensation	recompense	payment	cost
+cite	contract	evidence
+music genre	musical style
+concoction	foodstuff	pie	pastry	dish	bakery product
+particle detector	research	scientific research
+writer	playwrighting	playwright	dramatist	person
+wildflower	flower	molecular biology
+sound	alphabetic character	metrology	signal	stop	speech sound	language unit	representational process	depicting	graphic symbol	obstruent
+story	literary composition	writer	work of art	fiction	person	poetess	literary work
+calmness	quiet	silence
+work of art
+lecturer	academician	assistant professor	academic	title	professor	educator	teacher
+horse	album
+possession	sound	work of art	musical composition	vocal music	musical work	piece of music	human language	speech	signaling
+scrap
+locale	unincorporated area	census place
+transportation	travel	move	passenger transport	traveling	travelling	transport	movement
+view
+deity	godhood
+waterbody	sea	marine environment
+person	chief	political leader	politician
+windstorm	tropical storm	violent storm	weather	current of air	physical phenomenon	natural phenomenon	phenomenon	denseness	tropical cyclone	storm	cyclone	weather condition
+river	body of water
+singer	politician	person
+bookman	scholar	scholarly person	doctor	affix	person	dr.	honorific	intellect
+cricketer	athlete	contestant	sportsperson	person
+poet	writer	musician	person
+dose	spacecraft	vehicle	container	medicinal drug	tab	pharmaceutical drug	medicament	pill	dosage form	means of transportation	tablet	seed plants	summary	equipment	medicine	dosage
+county	town	election district	local government	city district	polity	township	urban district	voting precinct	locus
+city	state	mapmaking	country
+written language	software program	computer software	song	software framework	brand	music group	legal name	code	computer program	computer programme	communication medium	software	computer code	software package	island	coding system	data-storage medium	musical group	musical organization	written communication	storage medium	knowledge organization
+clothing	cloth	coat
+malignancy	diagnosis	tumor	illness	sickness
+civil authority	city	island country	national boundary	borderline	estate	state	landed property	island	bounds	boundary line	island nation	public building	dependent territory	border checkpoint	real estate	boundary	acres	border	real property	dependent area
+coinage	bill	coin	write-up	written document	tender	textfile
+measuring system	measuring instrument	pointer	stylus
+playwrighting	playwright	surname	transportation stop	facility	personal name	family name	american literature	county town	film making	bandleader	city	writer	cognomen	station	music director	depot	leader	given name	measuring	conductor	grapheme	film production	railroad station	musician	filmmaker	public building	train depot	boss	dramatist	full name	railway station	town	film director	railroad terminal	person	train station	local government	county courthouse
+swelling	deformity	protuberance	enlargement
+hurricane	weather condition	natural phenomenon	tropical storm	storm
+digital computer	computer	information processing system	data processor	instrument	appliance	home appliance	electrical appliance
+pharmaceutical drug	hypoglycemic agent	medicinal drug
+veg	signal	magnitude relation	energy	vibration
+transportation	constructed structure	armoured vehicle	self-propelled vehicle	vehicle	passenger transport	vessel	information system	armored vehicle	data system	mode of transport	combat vehicle	means of transportation	means of transport	land vehicle	carriage	station	tracked vehicle	military vehicle	transport
+person	musician	composer
+disorder	disease	sickness
+locale	edifice	locus	public building	workshop	workplace	geographic point
+limb	extremity	appendage	division	projection	instrument	body part	armrest	rest	support
+monetary unit	subunit
+suburban area	city	school	brand	university
+secret code	source code	software	cypher	computer code	software package	software program	substitution cipher	coding system	written language	cipher	computer program	cryptograph	computer software	written communication	computer programme
+breathing	sickness	reaction mixture	breathe out	cigarette	illness	chemical action	smoking	chemical change	nonsmoker	breathing out	respiration	external respiration	non-smoker	disease	body process	breath	ventilation	exhalation	expiration	smoke	exhale	disorder
+person	bookman	scholar	scholarly person
+writer	person
+symbolization	representational process	symbolic representation	allegory
+stamp	metal money	money	coinage	coin
+softness	visual impairment	sickness	impairment
+way	stair
+public building	hotel	constructed structure	hotel industry
+h2o	drug
+mechanical assembly	mechanism	motor
+organic	fertiliser	organic fertiliser	chemical fertilizer	organic fertilizer	fertilizer	organic food
+rank	language unit	linguistic unit	technical specification	measure
+deciding	decision-making	decision making	group behaviour
+person	medical practitioner	governor	physician	believer
+girl group	musical group	music group	musical organization	band
+utility	facility	installation
+distribution
+energy
+bookman	scholarly person	journalist	writer	literate	intellectual	scholar	activist	person	politician
+sportswoman	person
+undertaking
+motion	sound	noise	shot	demo	discharge	move	blowup	outburst
+conservative
+specifications	score
+slope	financial institution	financial gain	lucre	profit	net income	deposit	income	facility	installation
+movie	motion picture	action film	film	moving picture
+star	abstract object
+mode of transport	jet
+party game	parlor game	board game	parlour game
+stone	rock
+visual arts	picture	image	visual art	painting	painter
+measuring system	measuring instrument	measuring device
+carbohydrate	saccharide	macromolecule	sugar
+astrophysicist	person
+corporation	company	venture	enterprise
+political organization	protocol	technical specification	executive	committee	union	conjugation	uniting	party	political party	cite	covenant	government	political coalition	planning board	mention	unification	jointure	annotation	point of reference	treaty	credit	political organisation
+craftsman	artisan	worker	person
+work of art	medium	periodical publication	mass media	facility	periodical literature	transmission channel	company	storage medium	public press	mechanical assembly	channel	periodical	enterprise	publishing company	print media	communication medium	mass medium
+means of transportation	medium	transportation	transmission	travel	move	passenger transport	mechanism	motion	means of transport	mechanical assembly	traveling	mode of transport	travelling	transport
+constructed structure	house of prayer	house of god	place of worship	house of worship
+support	aid	assistance	assist	help
+physical property	transportation	technical specification	theatre	public transit	move	scene	surface	locale	dramatic art	theater	transportation system	dramatics	installation	time period	period of time
+spatial relation
+person
+measuring instrument	computing machine	physicist	person	scholar	intellectual	mechanism	space observatory	spacecraft	satellite	telescope	crater	depression
+person	designer	architect
+picture	musical composition	moving picture	song	dance band	musical work	piece of music	show	pic	vocal	track	musical group	moving-picture show	movie	music group
+mammal	antelope	animal
+joint	articulation	edge	limit	boundary	meat	cut	organ	flesh	animal tissue	constructed structure	anatomy	body part	cut of meat	ball-and-socket joint	technical specification
+release	liberation	achievement
+supplier	electrical device	provider
+newspaper	press	periodical	company
+political corruption	trouble	corruption
+extracurricular activity	extracurricular
+town	city
+means of transportation	watercraft	transportation	means of transport	sailboat	travel	passenger transport	traveling	vehicle	travelling	mode of transport	movement
+ceremony	school	academy	university	educational institution	ceremonial occasion
+stock character	person	female person
+attorney	upper class	legal expert	lawyer	jurisconsult
+person	dancer
+person	writer	academic	intellectual	literate
+album	city	state	american state	colony	mapping	single-valued function	u.s. state	dependent area
+school	academy	university	educational institution
+idiom	grammatical construction	phrase	expression	set phrase	word play
+deck department	person	attendant	crewman
+philosophy	justice	correction	rectification	improvement	penalty	getting even	cost	goodness	justness	natural virtue	paying back	payment
+money	hard cash	cash	hard currency
+physical phenomenon	natural phenomenon	atmospheric phenomenon	phenomenon
+king	person	chief of state	monarch	sovereign	head of state
+story	task	television series	film	binary relation	novel	whodunit	wit	detective story	mass medium	funnies	detective
+city	town
+stone	precious stone	jade	spectral color	silicate mineral	crystal	primary color	primary colour	spectral colour	gem
+edible nut	brown	plant	color term	nut	angiosperm	woody plant	seed	renewable resource	natural resources	horsie	perennial	sapwood	primary color	plant substance	wood	equine	plant material	natural resource
+sport	competitor	cricketer	athlete	person	captain	sportsperson	jock
+constellation	celestial body	astronomical object
+computing device	computer software	computer game	app	electronic game	server	computer	video game	computing machine	computing platform	software
+firm	company	corporation	enterprise	juridical person
+county	halt	brand name	railroad station	material-handling equipment	vessel	urban district	local government
+subatomic particle	particle
+increase
+person
+person	arranger	thinker	organizer	intellect
+song	piece of music	album
+picture	studio album	hero	moving picture	show	text	pic	imaginary being	fantasy	demigod	moving-picture show	animation	cartoon character	work of art	fantasy film	uniform title	movie	cinematography	film	person	daemon	film genre	musical work	motion picture
+computer program	written language	software	utility program	operating system	computer software	computer language	software package	software program	system software	object-orientation	computer code	programing language	systems software	system program	systems program	computer programme	utility software	written communication	programming language	utility
+politician	member of parliament	advocate	negotiator	boss	person	chief	political leader	leader	legislator
+stone	ball	substantial form	abstract object	precious stone	jewel	antique white	rock	pebble	orb	white
+written communication	narrative mode	narration	literary work	work of art	fiction	tale	piece of work	narrative	literary study	literary composition
+movie	film
+engineering science	medium	telecommunication	telecom	transmission channel	storage medium	visual communication	recording	business process	broadcasting	mass media	technology	communication medium	channel
+hair styling	tone	technical specification	oscillation	trend	curve	move	hairstyle	nonverbal communication	energy unit	shape	growth	physical phenomenon	emergence	natural phenomenon	phenomenon	hairdo	form	vibration	outgrowth	hair style	curved shape	motion	atmospheric phenomenon	work unit	movement
+subsemigroup	semigroup	groupoid
+grammatical category	decimal digit	imaginary	natural number	complex quantity	complex number	numerical quantity	imaginary number	counting number	natural numbers	whole number
+progeny	person	offspring	substitute	descendants
+concern	enterprise
+musician	person
+taxation	charge	tax	revenue enhancement
+mode of transport	warship	cruiser	ship	light cruiser	vessel	watercraft
+food fish	saltwater fish	fish	seafood
+designated place	surname	transportation stop	constructed structure	facility	locale	personal name	railroad station	hamlet	marque	municipal corporation	brand	metro station	station	substantive	content word	town	center	scientific research	state capital	centre	philology	onomastics	railroad terminal	train depot	municipal government	venture	enterprise	u.s. state	company	family name
+person	educationist	instructor	teacher	educator
+phenomenon	downfall	optical phenomenon	natural phenomenon	atmospheric precipitation	weather	physical phenomenon	weather condition	precipitation
+cost	profit	net earnings	net profit	net income	earnings	income	financial gain	payment	profits
+engineering science	shopkeeper	dbms	database	storekeeper	engineering physics	database management system	tradesman
+function	bodily process	biological group	bodily function	business process	sexual activity	reproduction	sex activity	sexual act	sexual relations	breeding	stage
+social control
+monetary unit	money	definite quantity
+certainty	certitude
+reptilian	reptile	animal	serpent	snake
+financial organization	money	financial organisation	fund	financial institution	scheme	monetary fund
+administrator	title	title of respect	form of address	person	decision maker	corporate title	senior management	leader
+database	measurement
+24-hour interval	twenty-four hour period	day	time interval	period of time
+boutique	retail store
+person	rabbi
+source text	periodical publication	communication medium
+blood supply	bodily structure	closed circulatory system	tube	blood circulation	body structure	anatomical structure	cardiovascular system	body part	vasculature	artery	bloodstream	vascular system
+denseness	storm
+album	dj	record album
+valley	natural depression	vale
+sex act	sexual intercourse	intercourse	sexual practice	body process	sexual activity
+person	philosopher	psychologist	intellectual	scholar
+legislative body
+boy scout	male child	person
+peninsula
+culture	cultivation
+remembering	memory	cassation	signal	order of succession	abrogation	annulment	call	signaling	representational process
+military leader	person
+metro station	railway station	station	stop	train station	train depot	terminal
+point of reference	picture	photograph	uncovering	photo	pic	grounds	evidence	photographic print	determination	piece of work	print	indication	discovery	photographic printing	exposure
+task	auto maker	automaker	business organisation	manufacturing business	works	brand image	company	manufacturer
+medical research	psychology	learned profession	enquiry	psychological science	inquiry	bioscience	investigation	branch of science	applied science	investigating	medicine	medical specialty	history of medicine	practice of medicine
+perfidy	banking concern	data modeling	example
+firm	corporation	company	partnership	venture
+aristocrat	person	peer	patrician	leader
+biomolecule
+disagreement	task	military campaign	military action	campaign	expedition	undertaking	expeditionary warfare	difference of opinion	military operation	dispute	venture	military expedition	difference	war	warfare
+rock band	band	musical group
+natural action	natural process	chemical process	procedure	method
+profit	net earnings	juridical person	physical system	profits	earnings
+competitor	cricketer	athlete	person	sportsperson	jock
+natural history	instructor	writer	teacher	educator
+human language	language
+coin	money	monetary unit	definite quantity	negotiable instrument	coinage
+technical specification	state
+data point	phenomenon	electrical device	specifications	average	electronic equipment	electronic circuit	technical specification	natural phenomenon	mean
+alloy	lanthanoid	musical note	note	metal
+string of words	language
+facility	installation	mathematical operation	wire	conductor	lead	sheet	cutlery	silverware	durable good	utensil	instrument
+person	patron	supporter	sponsor
+person
+city	town
+specialisation	guided transport	rising	communications system	lifting equipment	assist	specialty
+concoction	food product	foodstuff	pastry	dessert	sweet	pastry dough
+nonvascular plant	plant	moss
+interference	snatch	touching	physical intimacy	hindrance	grab	hinderance
+animal
+introspection	attentiveness	reflection	consideration	rumination	thoughtfulness
+epilepsy	brain disorder	brain disease	neurological disorder	disorder	disease	illness
+city district	county	counties of england	non-metropolitan county
+movement	move
+pharmaceutical drug	medicine	medicinal drug	drug
+cricketer	sportsperson	person
+syntactic category	grammatical category	medical research	theory	text	explanation	philosophy	textbook	human language	know-how	work of art	constituent	melody	philosophical theory	tune	linguistics	string of words	philosophical system	database	scientific research	philology	philosophical doctrine	person	methodology	hypothesis	scientific method	political doctrine
+firm	record label	label	corporate identity	mark
+muscular tissue	burning	fire	energy	visual communication	emission	combustion	chemical action	reflection	flaming	fly ball	chemical change	attack	flame	solar radiation	outburst	natural process
+corporation	company	business organization	business firm	corp	venture	enterprise	business organisation
+disorder	illness	pathological state	disease	sickness
+coin	metal money	debt instrument	bill	note	write-up	promissory note	legal tender	written document	mintage	tender	negotiable instrument	coinage	obligation	note of hand
+time interval	map	designated place	channel	free space	specifications	emptiness	broadcast station	mass medium
+mountain	active volcano	volcano	elevation	landmass
+phenomenon	air current	weather	atmospheric phenomenon	current of air	physical phenomenon	weather condition	airstream	wind
+king	warrior	chief of state	male monarch	rank	soldier	state	person	military man	monarch	potentate
+person
+juridical person	company	video game developer	corporation	software company	software developer	firm	enterprise
+phenomenon	violent storm	storm damage	atmospheric phenomenon	storm	physical phenomenon	natural phenomenon	tempest
+soil	sediment	deposit	dirt
+category	control	placement	periodical literature	mapping	arrangement
+lover	person
+time interval	geologic timescale	physical property	geological period	geological time	variable	geologic time	state	magnitude	era	variable quantity
+club	frat
+terminal	airfield	airport	transportation stop
+person	member of congress	politician	activist	leader
+marking	fashion accessory	clothing	symbolisation	clothes
+word string	phrase	string of words	grammatical construction	expression	syntagm
+perquisite
+person
+enquiry	investigating	investigation	inquiry	scrutiny
+spending	endnote	price
+bag	armor	clothes	delivery
+line of descent	musical style	legislative assembly	kindred	heredity	law-makers	kin	lodging	clan	blood line	pedigree	bloodline	housing	public building	living accommodations	locale	family line	legislative body	family unit	kin group
+fluid dynamics	flow	fluid mechanics	flowing
+barrier	obstruction	bar	rail transportation	transportation	land transport	move	passenger transport	rail transport	mode of transport	transport	means of transportation	means of transport	carrier
+person	actress
+story	language	narrative mode	narrative	narration	human language	architecture	make-up	written communication	communication medium	piece of work
+person	decision maker
+downtown	city district	constituency	election district	precinct	magnitude	incorporation	global city	borough	city	town
+power plant	plant	constructed structure	facility	station	installation	powerhouse
+natural phenomenon	death	organic phenomenon	phenomenon	physical phenomenon
+herb	plant	herbaceous plant	aromatic plant
+announcement	declaration	annunciation	proclamation
+fictional character	reference
+public road	thruway	street	constructed structure	transport infrastructure	infrastructure	way
+seed plants
+protein	biopolymer	supermolecule	macromolecule	biomolecule	polymer
+panopticon
+church building	house of god	constructed structure	public building	house of prayer	church	house of worship	place of worship
+information service	service
+city
+hill	natural elevation
+motion picture	show	landed property	national boundary	retail outlet	electrical energy	picture show	border	immovable	city	island country	commercial agent	movie	boutique	record album	acres	equipment	state	employee	marketer	store	musical film	selling	island nation	retail trade	european country	boundary line	grocery	world market	country	social event	transmission channel	food marketing	moving-picture show
+small fry	juvenile	nipper	chip	tyke	bad person	person	youngster	child	fry	tike	minor
+denseness	tropical depression	storm	tropical storm	hurricane	cyclone	atmospheric phenomenon	natural phenomenon	physical phenomenon	phenomenon
+artistic movement	experimentation	tendency	art movement	music genre
+comment	indicator	technical specification	reference	mention	good health	grammatical relation	understanding	specifications	written document	written agreement	commentary	reference point	annotation
+clarity	clearness
+evening newspaper	transmission channel	journal	evening paper	newspaper	magazine	paper	piece of work	mass media	press	daily newspaper	technology	communication medium	mass medium	knowledge organization
+person	writer	historian	literate
+breakdown	failure	equipment failure
+unit of time	stage
+averment	disaffirmation	denial
+public transport	public transit	transport	rail	railroad train
+measuring	measure	corp	capital	measurement
+school	state school	constructed structure	school system	academy	educational institution	public building	ceremonial occasion
+hoofed mammal	mammal	equid	equus	animal	town
+computing device	data processor	information processing system	communications system	software component	software program	telecom system	telecom equipment	computer	server system	telecommunication system	software engineering	connexion	electronic computer	electronic network	computer programme	code	interconnection	computer code	network	service	software package	network host	computer network	coding system	host	server	computer networking	software	connection	technics	communication equipment	telecommunication equipment	net	information network	communication system	computing machine	computer software
+relative	woman	female	sib	female sibling	adult female	religious person	member	sibling	person	missy	young woman	girlie	fellow member	family relationship	girl	miss	young lady
+criticism	accusation	charge	unfavorable judgment	criminal charge	reprimand	reproof	reproach	disapproval
+sea duck	waterfowl	waterbird	animal	duck
+person	writer
+diplomat	person
+ungulate	hoofed mammal	perissodactyl	traveller	traveler	mammal	equus
+facility
+software program	console	video game console
+fault	mistake	error
+city district	city	election district
+writer	lexicographer	actor	clergyman	educator	philosopher	footballer	sportsperson	person
+true bacteria	eubacteria	bacteria	micro-organism
+impression	technical specification	figure	defect	evidence	depiction	clue	signal	representational process	sign	reference point	point of reference	visual aspect	indicator	appearance	monetary unit	person	indication	indicant	written symbol
+phenomenon	film	happening
+person
+person	student
+temperature change	natural action
+substantive
+person	guard	worker
+tabletop game	business establishment	card game	gambling den	gambling house	gaming house
+fictitious character	transmission channel	song
+nervousness	stress	mental strain	phenomenon	mechanical stress	strain	stretching	hostility	physical property	expansion	difficulty	nerves	physical phenomenon	nervous strain
+written document	form	paper	written communication
+human language	creole language	language
+sales outlet	physical property	locus	dimensional analysis	infinite	contestant
+animal
+merchant	legal expert	jurisconsult
+engineering physics	molecular biologist	applied science
+oak	oak tree	plant	woody plant
+civil parish	town
+surfer	sportsperson	person
+spoilage	packaging	visual art	database management system
+aid	tending	care	health care	treatment
+bibliology	website	computer file	bibliography	bibliographic index	database	data storage device	appliance	storage	electronic media	list	data-storage medium	data file	database management system	file	computing device
+person	worker	employee	writer
+chief	politician	political leader	leader	person
+album	indo-european language	audio system	app	music group	rock group	rock band	picture show	mathematical relation	west germanic languages
+branch of science	geophysical science
+work of art	travelling	travel	movement
+infrastructure	constructed structure	route	main road	way	obstructor
+country	gov	political system	governing	government
+juridical personality	legal person	artificial personality
+work of art	artwork
+locale	cartography
+power tool	power hammer
+committee	commission	lumber	building material	display	instrument	surface	electric circuit	computer circuit
+town	city
+sandbank	animal group	bank	body of water
+geological time	geologic time	era	geological period
+military unit	military group	military force	battalion	army unit	division
+amphibian	animal
+possession	selling	vendor	transferred property	sales representative	specifications	marketing	worker	sales	salesclerk	salesperson	employee	vender	seller	salesman	selling technique
+king	chief of state	title	head of state	person	expression
+psychological science	psychology	method	approach
+immorality	anger	misconduct	warfare	military action	difference of opinion	anti-social behaviour	war	injustice	wrongdoing	wrongful conduct	ire
+fragment
+rejection	social rejection
+regime
+composing	arrangement	kind	form	sort	category
+school	public university	academy	university	educational institution	college	university system	campus	state university system
+archaeological site	space	piece of land	mapmaking	site	topological space	person	surround	land site
+thoroughfare	pike	thruway	throughway	state highway	motorway	turnpike
+sociology	warfare	intelligence assessment	intelligence operation	experiment	warring	intelligence activity	military unit	war
+application	pc game	computing system	action game	software application	app	software program	application program	applications programme	computer	first-person shooter	computer system	computer program	computing machine	computing platform	computer programme	software	computer game	software package	video game console	shooter game	server	platform	video game genre	applications software	video game	computer software
+person	actor
+innerwear	pantie	clothing	panties	pants
+mathematician	intellectual	academic	person	astronomer	physicist
+grant	bookman	investigation	researcher	scholar	person
+town	city
+religious person	person	christian
+anti-social behaviour	criminal offense	crime	wrong	law-breaking	wrongful conduct	criminal offence
+air quality	phenomenon	air pollutant	air pollution	natural environment	particulate matter	dust	natural phenomenon	cloud	pollution
+person	inventor
+proceeding	transmission	due process	legal proceeding	proceedings	legal proceedings
+person	natural person	legal person	acquirer	receiver
+indulging	indulgence	merrymaking
+transferred property
+period of time
+chair	article of furniture	piece of furniture	furniture
+economics	economic science
+person	social movement	sociology	social action
+person	politician	officeholder	political leader
+oxidoreduction	onslaught	reaction mixture	chemical reaction	assault	oven	trouble	burning	reaction	combustion	warfare	war	attack	inquiry	redox	natural action	natural process
+disorder
+person	scholar
+fundamental measure	temperature	predisposition	state	variable	state function	fundamental quantity	air temperature	inclination
+politician	possessor	boss	person	chief	leader
+persuasion
+specifications
+person	senator	politician
+person
+edifice	shelter
+body part	veggie	flavouring
+periodical publication	mass media	periodical literature	journal	public press	magazine	literary magazine	piece of work	periodical	press	print media	mass medium
+clothing	footwear	clothes
+person	scholarly person	student	scholar
+jacket	outerwear	overgarment	coat	bad person	textile	cloth	fabric
+knight	person
+cancer	malignant tumor	tumor	growth	pathology	clinical diagnosis	malignancy	pathological state	disorder	anatomical pathology	illness	disease
+transaction	exchange	dealing	commercial activity	business activity
+medical instrument	polygraph	instrument
+person	rabbi	leader	philosopher	writer
+stratum	layer	skin	tissue	membrane	animal tissue	body part
+piece of furniture	backseat
+military vehicle	passenger transport	naval ship	traveling	ship transport	transport	means of transportation	watercraft	travel	land vehicle	mechanism	travelling	movement
+nobleman	noble	form of address	title	title of respect	boss	dictionary entry	prefix	aristocrat
+personal name	full name
+poet	person	writer	poetess
+manometer	pressure gauge	gauge	measuring instrument	instrument	mechanical assembly
+mountain	mountain range	mountain chain	mount	range of mountains	chain of mountains
+traveler	traveller	person	mechanical assembly	mechanism
+map	technical specification	form	curve	curved shape	angular shape	shape	abstract object	motion	movement
+sportsperson	athlete	person
+country	making
+triticum	wheat	cereal	cereal grass	grass	herb	herbaceous plant	plant
+first derivative	measure	specifications	derivative	mathematical function	fashioning	making
+homonym
+written language	portraying	trade name	image	program line	sign	legal name	code	marker	portrayal	brand image	marking	written communication	trademark	mark	theme	icon	name brand	brand
+singing	vocal music	musical performance	performance
+opera	musical work	drama	dramatic play	classical music
+writer	editor	journalist	novelist	literate	intellectual	person
+technical specification	specifications	price	spending	retail price	cost	expenditure
+constructed structure
+island	colony
+body armor
+observable	natural phenomenon	failure
+workplace	apartment	flat	housing
+mill	building complex	hand tool	constructed structure
+state
+bookman	intellectual
+native plant	plant
+athlete	competition	person	olympic sports	olympic sport	sportswoman	sportsperson
+language	library science	philosophy	dravidian language	dravidian	dravidian languages	philosophy of language
+constructed structure	country house
+sound	sound propagation	shout	noise	yell	acoustic wave	sound wave	utterance	vocalization	auditory communication
+person	actor	entertainer
+offense	distaste	rejection	opposition	silent treatment	hostility	hindrance	dislike	offensive activity	disgust	aversion	social rejection	oppositeness	hate	hatred	rebuff
+slope	increase	incline	increment	gamble
+flying machine	spaceship	satellite	artificial satellite	equipment	spacecraft	vehicle
+lock	canal lock	lock chamber
+book	piece of work
+capacity measure	basis	criterion	measure	ideal	reference
+aerospace engineer	aeronautical engineering	aeronautical engineer	rocket scientist	person	rocket engineer	technologist	applied scientist	engineer
+sheet	sheet glass	wall	partition	glass	plate glass	flat solid	panel
+body part	os	grounder	knife
+mogul	entrepreneur	investor	business magnate
+prince	noble	nobleman	aristocrat	leader	person	peer	title	form of address
+record label	brand name	trade name	name brand	company	prerogative	trademark	label	depiction	person	legal name	signaling	branch	depicting	brand image	recording label	brand	perquisite
+public transit	move	traveling	public service	transport	utility	bus service	service	public transport	corporation	travel	travelling	public utility	movement	public utility company	transportation	passenger transport	bus company	means of transport	motion	person	transportation system	public-service corporation	transportation company
+borough	town
+courier	dictionary entry	paper	sheet of paper	communication medium	string of words	sheet	piece of paper	title	person	book
+person	writer	russian literature
+person	physicist	nuclear physicist	intellectual	academic
+offering	offer
+implement	rod	staff	twig	instrument
+person	voice	human voice	tenor
+scientific research	methodology	scientific method
+psychic phenomenon	phenomenon	psychic communication
+storage	memory	storage device	memory device	instrument	zone	framework	frame	supporting structure	hand tool
+herb	grass	plant	herbaceous plant
+rodentia	rodent	animal	mammal
+measure	written symbol	measurement
+monetary unit
+town	city	point of entry	county courthouse	center	public administration	government	locale	shire town	public press	centre	port of entry	locus	county town	county seat	infrastructure	geographical point	geographic point	technology	local government
+h2o	fluid
+person
+person	writer
+landed estate	observable	landed property	scientific research	bounds	surface	acres	map	research project	physical phenomenon	mapping	real property
+designer
+map	moving picture	picture	image	pic	moving-picture show	film	figure	movie	social event	ikon	drawing
+plant	passion flower	genus passiflora	edible fruit	passiflora	passionflower vine	passionflower	passion fruit
+guilt	guiltiness
+state	rock group	rock band	band	river
+waterbody	body of water
+food product
+cord	thought process	rib
+protein	integral membrane protein	biomolecule
+thespian	influential person	celestial body	image	mapping	topological space	important person	shape	separable space	plan	infinite	heavenly body	mathematical relation	abstract object	floral design	written symbol	icon	mathematical space	metrology	space	polygonal shape	polygon	personage	actor	arrangement	geometric shape	drawing
+festival	party	function	social event	celebration
+control	home appliance	computing system	household appliance	computer	graphical interface	systems program	digital computer	computing machine	computing platform	computer peripheral	gizmo	console	equipment	video game console	electronic equipment	platform	games console	systems software	computer software	computing device	gadget	software program	peripheral equipment	computer system	software engineering	system software	game console	software package	peripheral device	electrical appliance	convenience	system program	os
+leader
+military branch	military force	combat	governor	military man	combatant	leader
+religious music
+person
+soccer	football	association football	ball player	team sport	ball game	person	soccerball	sport	football game
+person	mathematician	academic	intellectual
+research laboratory	stone	science laboratory	research lab	rock	geographic point	lab	research centre	research center	research institute	laboratory	calcium sulfate	calcium sulphate	sulfate minerals
+course of instruction	course of study
+stone	facies	pebble
+person
+primary color	spectral color	primary colour
+fix	natural process
+city	designated place	county courthouse	county seat	capital	provincial capital	municipal government
+cartography	sports venue	links course	facility	golf course	installation art
+emblem	technical specification	form	specifications	symbolization	aerofoil	air unit	helping	shape	symbolisation	animal	airfoil
+disorder	disease	sickness
+town	township	land site
+electromagnetic wave	radioactivity	durable good	consumer durables	durable goods	breadth	ionising radiation	energy	gymnastic apparatus	radiation	free energy	surface	side	equipment	scalar	emission	ionizing radiation	representational process	physical phenomenon	durables	signal
+rock	stone	corporation	company	venture	enterprise
+episode
+restraint	fastener	shape	holdfast	fixing	fastening
+thespian	actor
+fictitious character	fictional character	person
+body part	internode	boxes	coffin
+way	thruway	thoroughfare	route	transport infrastructure	throughway
+thespian	actor	person
+physicist	person
+emblem	image	portraiture	artifact	banner	icon
+depiction	measurement	measure	representational process
+lac	resin	varnish	secretion
+confectionery	flavoring	flavouring	sweet	refined sugar	sugars	delicacy	candy	sugar	sweets	treat	goody	business process	confection
+flick	electronic media	pc game	moving picture	show	picture show	series	imaginary being	video recording	broadcast	fictional character	television show	moving-picture show	videogaming	work of art	tv program	computer game	television series	television program	recording	platform	tv show	piece of work	tv series	video	video game	imaginary creature	adaptation
+head of government	united states president	statesman	politician	chief of state	chief	national leader	head of state	person	chief executive	political leader	officeholder	owner	president	leader
+writer	newsperson	anchor	tv reporter	news presenter	person
+competitor	athlete	person	skater	sport	sportsperson
+map	musical work	american state	state	waterbody	body of water	u.s. state	composition
+country	real property	real estate	realty
+carbohydrate	glycan	saccharide	polysaccharide
+film	novel	book
+discharge	dismission	termination	conclusion	ending
+transport
+animal
+differential coefficient	map	popular music genre	mapmaking	piece of music	economics	library science	music genre	musical composition	political economy	making	folk music	popular music	musical work
+person	tycoon	editor	publisher	entrepreneur	bishop
+government agency
+animal
+patrician	person	chief	leader
+drinkable	state of matter	drink	fluid	drinking water	h2o	beverage	potable	liquid state	liquidity
+wadding	box	compartment	space
+geologic timescale	time interval	geological period	era	geological time	geologic time
+malefactor	criminal	bandmember	sportsperson	person
+aquatic bird	seabird	bird	sea bird
+observable	phenomenon	natural phenomenon	atmospheric precipitation	h2o	weather	atmospheric phenomenon	atmospheric condition	physical phenomenon	weather condition	precipitation
+elementary particle	molecular entity	particle	atom
+person	politician	head of government	city administrator	political leader	decision maker	leader
+person
+tracheophyte	chemical phenomenon	growth medium
+nucleic acid sequence
+political ideology	nationalism	patriotism	loyalty	faithfulness
+ground cover	plant	groundcover
+natural process	human process	chemical process
+plant	white cabbage	cruciferous vegetable	veggie	veg	vegetable	cabbage
+person
+illness	sickness	fluid	drug	application	remedy	cure	chemical phenomenon	curative	pharmaceutical drug	medicinal drug	liquid state	liquidity	therapeutic
+asking	request
+woman	businesswoman	female person	adult female	person	female
+map	american state	mapping	state	ship	u.s. state	boat
+jump	time of year	time period	season
+wrongdoer	person	offender
+flick	picture	description	moving picture	title	tie-in	movie	pic	film genre	picture show	season	show	motion picture	action film	verbal description	film	moving-picture show
+coverall	fabric	pant	textile	clothing	clothes
+comune	city
+prose	story	written document	piece of work	determiner	function word	linguistic unit
+infrastructure	celestial navigation	superhighway	expressway	mode of transport	sport	navigation	musical work
+city	penal facility	penal institution
+mammal	carnivore	animal
+engineering science	periodical publication	storage	piece of work	periodical	channel
+person	bookman	biochemist	student
+island
+disorder	illness	animal disease	disease	sickness
+government agency
+city	infrastructure	unincorporated area
+lawbreaking	misdemeanour	acquiring	move	misdemeanor	criminal offense	crime	chess move	voluntary action
+trainer	person	manager	coach	leader
+proscription	ejection
+brain tumor	tumor	cancer	malady	illness	sickness	pathological state	disease	disorder	pathology
+firm	corporation	company	partnership	venture	enterprise	concern
+political organization	city	government	social control	country	administration	state	political organisation
+servicewoman
+corporate executive	direction	television producer	producer	associate	film producer	person
+school text	investigation	methodology	textbook	method
+trouble maker	person	monetary unit	definite quantity	coin	troubler
+investigating	investigation	research
+poet	person	writer
+software company	company	video game developer	software developer	programmer	developer
+microorganism	micro-organism
+oak tree	plant	oak	woody plant	white oak	oak wood
+bedding	bed clothing	cloth covering	bedclothes	clothing
+public building	edifice	constructed structure	compartment
+corporate executive	person	juridical person	executive director	c-suite	political leader	business executive	decision maker	leader
+extinct volcano	mountain	elevation	natural elevation	mount	terrain	active volcano	locus	dormant volcano	volcano	rupture
+software program	software package	software	application	application software	computer program	software application
+person
+art historian	historian	writer	person
+residence	constructed structure
+innerwear	underwear	clothing	clothes
+social function	function	task	schoolwork	group event	social occasion	homework
+moral philosophy	philosophy	ideal	virtue	chastity
+crime	selfish person	criminal offence	self-seeker
+information processing system	network	durable goods	income	mechanism	telecom equipment	telecommunication equipment	component-based software engineering	computer program	soccer	liquidity	electronic network	fabric
+anthropologist	ethnologist	activist	person
+enquiry	investigating	investigation	inquiry	research
+management	career	language
+town	city	residential district	residential area	residential
+electronic device
+computer code	computer software	software package	software program	coding system	code	computer program	computer programme	software
+disease	communicable disease
+health care	care
+molecular entity	subatomic particle	particle	elementary particle
+forecasting	prognostication	prediction	theory
+legality	lawfulness	credibility
+equilibrium	economic equilibrium
+constructed structure	lexical unit	edifice	dictionary entry	public building	language unit	lexical item
+footwear	sandal	footgear	shoe
+poet	person	poetess
+comedian	musical group	musical organization	music group	team
+dispenser	spout	mechanical assembly	nozzle	mechanism
+plant product	drug	plant substance	vapor	physical phenomenon	natural phenomenon	natural process	phenomenon	air pollutant	marijuana	vapour	tobacco	cloud	environmental pollution
+ball	competition	team sport	ball game	game equipment	ballgame	contest	sport	athletic game	equipment
+social function	usefulness	ceremonial	ceremonial occasion
+arachnid
+person	adventurer	explorer	conquistador
+city	town
+giving	effort	attempt
+motorway	way	route	transport infrastructure	main road	freeway	state highway	physical system	superhighway	controlled-access highway	expressway
+person
+person	actor
+investigating	investigation	inquiry	research
+serial publication	cerebration	curiosity	wonder
+clothes	clothing	cap
+layer	stratum
+newspaper columnist	newswriter	pressman	writer	publicist	person	newspaperman	journalist	media professional	commentator
+portrayal	aspect	visual aspect	appearance	image	picture	concavity	shape	concave shape
+station	coal power plant
+public building	edifice	constructed structure
+warrior	war	military branch	combat	military rank	boss	military man	battle	post	commissioned officer	armed forces	warfare	person	chief	fight	soldier	commissioned military officer	military	military unit	leader
+pike	thruway	thoroughfare	throughway	superhighway	expressway	infrastructure
+neural structure	anatomical structure
+plant	food grain	tracheophyte	cereal grass	seed	grain	cereal	grass
+offense	offence	voluntary action	law-breaking	crime	transgression
+weight unit
+coinage	euro coin	monetary unit	bill	euro coins	note	legal tender	mintage	metal money	coin
+penchant	social action	proclivity	predisposition	propensity	sociology	front	social movement	inclination	tendency	movement
+motion	land vehicle	locomotive
+task	assistance	delivery	figuring	conveyance	computer programme	utility
+agreement	deciding	decision-making	closure
+unicameral legislature	national assembly	unicameralism
+weapon	hammer	weapon system	hand tool
+warfare	moving picture	hoofed mammal	data storage device	narrative mode	literary composition	personal name	fiction	psychological thriller	television show	given name	storage device	film
+subjection	bond servant	thralldom	bondage	slavery	slave labour	thrall	person	state	subjugation	thraldom	slave	servitude	legal status
+extinct volcano	mountain	elevation	fracture	natural elevation	volcano	pathological state	active volcano
+decrease	reduction	extract	lessening
+actor	person	company
+non-fiction	cylinder	figure	structural member	support	body structure	anatomical structure	opera	report	geometric shape	nonfiction	bodily structure	work of art	structural analysis	newspaper article	piece of work
+company
+military hospital	medical facility	health facility	military medicine	medical building	healthcare facility	hospital
+mass unit	weight	unit of mass
+validation	proof	discovery	marker	signal
+person	preservation	breed	animal group	animal
+written language	written communication	epistle
+city	boss	head of state
+cell
+uniform	attire	dress	clothing
+true love	passionateness	passion	love
+wrongful conduct	misconduct	state	wrongdoing	degradation
+software	software program	pc game	computer software	computer game	software application	electronic game	mechanism	application	applications software	computer program	video game	videogaming	computer programme
+eating house	eating place	restaurant	eatery	chain store	company	enterprise	foodservice
+weapon	mechanism	projectile
+current of air	atmospheric phenomenon	atmospheric condition	air current	weather condition	natural phenomenon	wind	current	phenomenon
+person	actor	entertainer
+religious writing	petition	request	sacred text	text	worship
+person	writer	illustrator	painter
+military branch	explorer	military machine	travel	adventurer	seaman	crewmember	crew member	person	military force	exploration	military man	military	combatant	military unit	enlisted person
+scientific research	biological research	research
+computing device	computing system	electronic game	application program	applications programme	computer	computing machine	videogaming	computer programme	console	computer game	service	software package	video game console	game console	coding system	server	network host	applications software	electronic computer	video game	software
+literary work	fiction	narrative
+fictional character	protagonist	person
+pest control	instrument
+pile
+mensuration	punctuation mark	mark	signaling	measurement	sign
+gate	impediment	constructed structure	barrier
+retarding force	mechanical phenomenon	fundamental measure	deflexion	physical phenomenon	natural phenomenon	physical property	fundamental quantity	deflection	size
+school	academy	university	educational institution
+toy	construction set	company	firm	enterprise	corporation	venture	juridical person
+investment
+macromolecule	wax	lipid
+manufacture
+legendary creature	work of art	visual art	figure	art of sculpture	mythic creature	solid figure	shape	legendary animal	statue	fabulous creature	mythical creature	sculpture
+person	eating house	foodservice	restaurant
+plant
+function	map	transportation stop	facility	data storage device	storage medium	dance orchestra	stop	mapping	county	single-valued function	municipal corporation	communication medium	bandmember	city	musical work	municipal government	terminal	station	team	depot	local government
+transmission	transmission channel	storage medium	technology	data-storage medium
+thespian	film director	filming	film producer	actor	filmmaker	person	film making	film maker	movie maker
+clearing	justification	research	healing knowledge	liberation
+oxide	metal oxide
+party	political party	political organization
+mechanics	motion	fluid dynamics	flowing	flow	outpouring	change of location	discharge	existence	dynamics	movement	fluid mechanics	natural process
+religious person	person	pope
+write-up	book
+place of business	business concern	military action	business organisation	separate legal entity	business establishment	business organization
+parceling	assignation	allocation	allotment	apportionment of seats	parcelling	distribution
+person
+intractability	intractableness	rebelliousness	resistance	insubordination
+coin	debt instrument	mintage	tender	metal money	coinage	negotiable instrument
+danger	disaster	tragedy	therapy	psychotherapy	medical aid	treatment	intervention
+telecommunication	radio station	broadcast station	radiostation	broadcasting	radio broadcasting	broadcasting station	station	communication medium
+culmination	completion	closing	conclusion	termination
+nongovernmental organization	ngo	non-governmental organization	non-governmental organisation
+transferred property	gift	aid	financial gain	gain	assistance
+constructed structure	floor	wall	storage medium	partition	divider
+ovum	germ cell	reproductive cell	cell	egg cell	sex cell	egg	sea animal
+paper	mag	mass media	gazette	journal	film
+justice	judge	jurist	legal expert
+ordinary	charge	heraldry	emblem	decoration	illustration
+videocassette	magnetic tape	tape
+progeny
+connection	joining	connexion	attachment	inheritance	mechanical system	instrument
+accidental injury	pull	damage	twist	bad luck	injury
+picture	work of art	medium	tv program	television series	moving picture	show	movie	storage medium	television program	video recording	television show	applied science	transmission channel	tv series	video	communication medium
+savvy	deciding	knowing	wisdom
+software	computer code	software package	software program	coding system	code	computer program	computer programme	computer software
+person
+politician	governor	person	chief	political leader	leader
+drug
+quark	high energy physics	fundamental particle	branch of science	quark theory	elementary particle	superpartner	molecular entity	high-energy physics
+flower	learned profession	angiosperm	structural biology	wildflower	wild flower	technology
+rock	incarnadine	stone	gem
+firm	publisher	company	enterprise	dictionary	reference	reference work	publishing house	business organization	source text	reference book	publishing firm	publishing company	serial publication	mass medium
+morpheme	string	lexical item
+person	kid	youngster	minor	child
+picture	library science	show
+unicameral legislature	marketplace	workplace	geographical point	global market	exchange	world market	company	unicameralism	enterprise	legislative assembly	market	securities market	venture	stock exchange	market place	stock market	sharemarket	concern
+herb	tracheophyte
+person	lead vocalist	musician	singer
+suffragist	advocate	person
+marketplace	merchandising	global market	sales outlet	world market	street market	mart	market place	retail store	market	outlet
+person	driver	worker
+syntactic category
+teacher	person
+state	doctrine	philosophy	prosperity
+psychoactive drug	drug
+sexual practice	love	body process	romp	sex act	bodily function	love life	sexual relation	sexual activity	lovemaking	sex activity	sexual act	bodily process	frolic	human sexual activity
+sound	ring	acoustic wave
+person	painting
+instant	example
+person
+inhibitor	food additive	additive
+gift	possession	apportioning	ceremonial	grant	ceremony
+person
+unit of time	time unit	month
+motion	application	database management system	practical application	utilization	usage	movement	communication medium	mechanism
+undertaking
+pension account
+felon	criminal	outlaw	person	miscreant	offender
+jack	helmsman	person
+work of art	pic	picture show	film	album	soundtrack	musical composition
+soap	clothing
+fictitious place	misbehavior	wrongdoing	misbehaviour	misconduct	wrongful conduct	misdeed	mythical place	imaginary place
+computer program	operating system distribution	software	software distribution	computer programme
+chemical series	bond	inorganic compound	chemical bond	chemical group
+money circulation	government note	bank note	banknote	debt instrument	monetary unit	paper money	bill	currency sign	folding money	note	paper currency	legal tender	money	tender	metal money	coinage	bank bill	negotiable instrument	coin
+defence	constructed structure	construction work	fortification	edifice	defensive wall	wall	public building	defense	defensive structure
+conduction	heat transfer	electrical breakdown	bodily process	due process	body process	transfer
+picture	figure	image	artifact	theme	ikon	drawing	icon
+novel	film	work of art
+conservancy	protected area	fort	constructed structure	post	fortification
+time period	period of time
+good example	example	sample
+outgrowth	stalk	stem	plant organ	plant structure
+picture	work of art	figure	fault	image	photograph	illustration	photo	drawing
+parliament	intergovernmental organization
+house of god	constructed structure	mosque	public building	house of prayer	house of worship	place of worship
+food product
+freeway	thruway	infrastructure	thoroughfare	route	transport infrastructure	main road	motorway	throughway	state highway	way	controlled-access highway	expressway
+intermediator	go-between	mediator	negotiator	intermediary	person	chief	leader
+argumentation	logical thinking	law of nature	logical argument	argument	natural law	intellection	principle	reasoning
+resident	occupier	occupant
+disturbance	illness	disorder	psychological disorder
+country	devising	knowledge organization
+monetary unit
+stone	pebble	rock
+packaging	packing	pile	storage device	chimney	list	instrument
+private school	school	educational institution
+project	undertaking	task	assignment
+atmosphere	windstorm	violent storm	air current	atmospheric state	density	current of air	storm damage	atmospheric phenomenon	storm	cyclone	natural phenomenon	tempest	wind
+ship transport	haircut	hairdo	hairstyle	haircutting	transportation	trend	hair style	passenger transport	hair styling	watercraft	vehicle	vessel	ship	military unit	mode of transport	transport
+public building	kitchen
+personnel	rod	stick	instrument
+paramilitary	military force	paramilitary unit	military group	paramilitary organization	paramilitary force	military unit	paramilitary organisation	military organization
+cycling team
+unicameral legislature	general assembly	national assembly	legislative body	guideline	delay	legislative assembly
+string instrument	string	bowed instrument	stringed instrument	instrument	bowed string instrument	musical instrument
+dirtiness	dirtying	environmental condition	impurity	sanitary condition	uncleanness
+band	musical group	music group	rock group	rock band
+equipment	shape	plane figure	cylinder	passage
+battle	fight	difference of opinion
+plant
+person	president	chancellor	leader	administrator	head teacher	teacher
+woman	success	wife	female person	adult female	wifie	married woman	person	female	spouse	married person	husband
+card game	biological group	binomial name	habitat	microhabitat	microenvironment	environment	environment variable	animal	habitation	binomial nomenclature
+pc game	app	application program	computer program	videogaming	computer programme	spy satellite	computer game	application	software package	person	applications software	video game	computer software
+rain	precipitation	downfall	weather condition	atmospheric phenomenon	phenomenon	natural phenomenon	person
+person	athlete	tennis player	sportsperson
+person	worker	television show	gas jet	frame	burner	aviator	moving-picture show
+person
+wheeled vehicle	vehicle
+biocide	herbicide	weed killer	micro-organism
+journal	book	periodical
+costa	cut of meat	primal cut
+coat
+viscosity
+locale	city
+function	social function	social event	social occasion	occasion	party	group event	festivity	celebration
+h2o	layer	fluid
+entry	entrance
+durable good	durable goods	gymnastic apparatus	equipment	exerciser	sports equipment
+legal expert	justice	adjudicator	jurisconsult	person	judge	jurist
+remembering	memory
+attack	cyber attack	maneuver	plan	intrusion
+city	watercraft	manifold	merchant shipping	piece of land	vessel	ship	parcel of land	piece of ground
+person	writer
+state school	high school	school	educational institution
+person	actor
+function	series	broadcast	band	television show	television program	episode	serial	cartoon character	tv program	television series	fictional character	fictitious character	rock group	rock band	record album	tv show	soundtrack album	television season	tv series	storage device	moving-picture show
+tourist attraction	zoological park	feature	zoological garden	animal	zoo
+cosmologist	person
+punk rock	rock 'n' roll	punk	rock and roll	punk music	rock-and-roll	punk rocker	rock	rock music
+atmosphere	windstorm	phenomenon	violent storm	air current	hurricane	storm	current of air	physical phenomenon	tropical depression	tropical storm
+time period	period of time
+protective clothing	coat of mail	protection
+software	computer code	software package	software program	coding system	code	computer program	computer software	written communication	black and white	computer programme
+fall	descent	weakening	downfall	transformation	conclusion
+mechanisation	short story	automation	utilisation	engineering	technology	high tech	use	high technology	utilization	book	usage	exercise
+land vehicle
+coffee plant	coffee	drinkable	regular coffee	cup of joe
+surname	borough
+effort	venture	project
+malady	illness	predisposition	sickness	weakness	unfitness	pathological state	disease	clinical symptom	softness	disorder
+person	miscreant	offender
+work of art	sail
+communication equipment	communications system	communication system	telecom system	telecom equipment	connection	interconnection	telecommunication equipment	connexion	telecommunication system
+advocator	person	proponent	advocate	suffragist
+weather condition	weather	atmospheric phenomenon	atmospheric condition
+killer	killing	expiry	lawsuit	evildoing	legal case	case	court case	putting to death	suit	termination
+electronic media	medium	transmission	transmission channel	digital media	communication medium	channel
+exuberance	enthusiasm	animation
+chief	administrator	person	leader	president	academic administrator
+diocese	intellectual	church fathers	house of prayer	church	deity	godhood	town	clergyman	church father	holy man	philosopher	holy order	holy person	saint	capital	theologist	place of worship
+person	businessman	man of affairs	capitalist
+politician	officeholder	president	person
+island	isle
+protected area	leisure area	parkland	locale	park	surface	conservation area	piece of land	national park	tract	parcel of land	piece of ground	public park
+written communication	episode	stage	time period	period of time
+instrument	musical instrument	bell shape	bell
+herb	dead nettle	herbaceous plant	aromatic plant	plant
+manufacturer	company	enterprise
+province	locale	american state	fashioning	u.s. state
+code	time interval	interval	break	computer code	computer program	inactivity	pause	music notation	note	musical notation
+county courthouse	mass medium	town	city	public administration	transmission channel	mass media	country	provincial capital	print media	local government
+mechanism	motor
+decease	technical specification	specifications	killer	criminal offence	killing	kill	wrongful act	death	cause of death	actus reus	success	unrighteousness	criminal offense	crime	trial	connection	termination	voluntary action	wrongfulness
+political organization	politician	political organisation	political leader	party	political party
+fault	illustration
+dish	dishware	crockery	container	instrument
+borough	town
+ambiguity
+adversity	mistreatment	bad luck	tough luck	fate
+technical specification	measure	mapmaking	sign	depiction	aim	signaling	measurement	junction	configuration	contour	graphic symbol	linear unit	extremity	connexion	punctuation	mark	mathematical notation	punctuation mark	connector
+writer	essayist	theorist	intellectual	literate	person
+memory device	set theory	circle	storage
+fixture
+hot cereal	cereal	breakfast food
+festival
+public building	town hall	constructed structure
+person
+town
+motion	food energy	move	coding system	breath	weather	atmospheric condition	weather condition
+person
+binary relation	function	mathematical function	mapping	mathematical relation
+composition	spending	cost	financial gain	technical specification	physical composition	income	profit	net income
+freedom	independence
+town
+sword	weapon
+point of reference	written account	register	written record	evidence	animal husbandry	indication	scientific evidence	indicant	husbandry	registry
+righteousness	torture	maltreatment	mistreatment	corporal punishment	physical punishment	bludgeon	penalisation	penalty	person	penalization	truncheon	punishment	torturing
+economic theory	theory
+transportation	price	freight transport	shipping	charge	cost	charge per unit	transport
+city	university
+public building	constructed structure
+theologian	illusionist	person
+battle	hostility	fight	combat
+satellite	medium	software package	data storage device	musical work	host	mode of transport	transport
+tricyclic antidepressant	pharmaceutic	antidepressant
+parish	given name
+plant
+appendage	limb	shoe	footwear	extremity	body part
+improperness	immorality
+elevation	natural elevation
+angiosperm	bird
+convex shape	calculation	figuring	dimensional analysis	peak	measure
+question	problems
+throwing	team sport	competition	ball player	ballgame	baseball	ball game	outdoor game	pitch	olympic sport	sport	baseball game
+cutting tool	drill	cutter	drill press	cutting implement	machine tool
+corporate executive	administrator	title of respect	vice president	business executive	executive	boss	vp	chief	executive director	v.p.	decision maker	honorific	corporate title	senior management	leader
+agreement	plot	plan	scheme	strategy	plan of action	wrongful act	unlawfulness	offense	misdemeanor	understanding
+person	noncommissioned officer	military rank	non-commissioned officer	enlisted officer	soldier	military man	military	combatant	enlisted person
+advocator	advocate	protagonist	admirer	supporter	friend	booster
+marital status	unmarried	legal status	state
+king	form of address	title of respect	alcohol	chief of state	title	sovereign	alcoholic beverage	person	monarch
+police procedural	moving picture	literary composition	mesh	television show	moving-picture show	mystery story	crime novel	tv program	network	television series	meshwork	computer network	detective novel	crime thriller	television program	drama	mystery novel	tv show	technics	policier	tv series	video	motion picture	murder mystery	picture show
+policy	foreign policy	intellection	thought process	thinking
+drama	misfortune	trouble
+head of government	administrator	statesman	politician	chief of state	government minister	title of respect	national leader	boss	person	chief	political leader	minister	formulation	head of state	senior management	leader
+portraying	text	punctuation	textual matter	representational process	portrayal	punctuation mark	extract
+warrior	military branch	military force	commanding officer	military rank	commandant	armed services	rank	commander	soldier	person	military man	war machine	personnel	military	combatant	armed combat	military unit	enlisted person	armed forces
+termination	abortion
+firm	lyricist	lyrist	producer	songwriter	company	title of respect	film making	composer	film maker	musician	television producer	title	corporation	writer	partnership	keyboardist	filming	juridical person	person	music director	songster	senior management	leader	movie maker
+bodily process	sexual love	vaginal sex	sexual act	coitus	sexual practice	love life	making love	sexual relation	shag	copulation	sex position	human sexual activity	sexual activity	sexual penetration	sex activity	bodily function	sexual relations	sex act	sexual intercourse	dicking	body process	lovemaking	sexual congress
+person
+person
+flick	roman deity	celestial body	energy	comedy-drama	musical composition	moving-picture show	heavenly body	literary work	deity	film	tale	story	astronomical object	movie	rock group	rock band	major planet	classical mythology	literary composition	music group	terrestrial planet	mythology	noun	roman mythology	planet	person	musical group	forms of energy	greco-roman mythology	motion picture	musical organization
+cast	toy	fundamental measure
+code	pc game	concord	app	pic	video recording	spacecraft	guided transport	moving-picture show	computer program	film	cinematography	tv	movie	travel	franchising	application	tv show	show	travelling	spaceship	movement	traveling	picture	software program	telecommunication	moving picture	electronic game	work of art	turbulence	videogaming	computer programme	television	television producer	computer game	business concern	motion	television series	mass media	space vehicle	motion picture	video game	picture show
+file	file cabinet	filing cabinet	office furniture
+chemical action
+somatic cell	constituent	bone cell	cell
+specifications	climatology	technical specification
+science museum	museum
+manufacture	horse	proclivity	artificer	artistic movement	traveller	draft horse	art movement	person	artisan	craftsman	traveler	rider
+clothing	clothes
+judge	jurisconsult	worker	person
+mechanical assembly	mechanism
+illness	sickness	autoimmune disease	arthritis	disease	inflammatory disease	disorder
+os	organ
+warrior	writer	task	competitor	television producer	producer	soldier	team sport	person	poetess	military man	olympic sports	combatant	armed combat	rugby union	commissioned officer	poet
+malady	disorder
+plant	egyptian	tracheophyte	preservation	person	political economy	biological group	african	knowledge organization
+thruway	constructed structure	flavouring	seasoning	seed plants	throughway	main road	freeway	sadness	base	developed country	unhappiness
+shoot	sport	shot	contest	competition	shooting sport	olympic sports	olympic sport	shooting	type of sport
+trainer	coach	football team	brotherhood	sport	squad	jock	football club	sports organization	person	handler	national sports team	team	sports club	footballer	leader	sportsperson
+consumer durables	data processor	information processing system	durable good	durable goods	electrical appliance	mechanism	household appliance	computer	electronic computer
+linguistic unit
+manufacture
+igneous rock	volcanic rock	rock	stone
+firm	engineering science	corporation	company	business organization	engineering	business firm	corp	database management system	venture	enterprise	business organisation
+reparation	financial compensation	repair	spending	mending	compensation	cost	expenditure	recompense	payment
+political system	political organisation	form of government	governing
+political organization	dance band	dramatic art	beaux arts	roman emperor	measuring rod	political system	biography	album	moving picture	title	social control	movie	life story	histories	record album	potentate	political organisation	film	measuring stick	form of government	theatre	team	biographical film	theater	fine arts	social event	drama	governance	dramaturgy	studio album	moving-picture show
+surface	body covering	connective tissue
+cow	work animal	cattle	bovine	mammal	animal
+person	radical	revolutionary	controversialist	disputant
+person	leader	political leader	socialist	politician	dictator	communist
+transportation	balloon	gas	hot air balloon	lighter-than-air craft	aircraft
+clothing	hiding	garb	clothes
+written document	assets	asset
+inability	stupidity	unintelligence	mistake	error	fault
+equipment	game equipment
+adjective	measure	measurement	letter	representational process
+motion	movement	move	rate	natural process	bodily function	magnitude relation	natural action
+taste sensation	technical specification	sense experience	specifications	savour	aroma	aesthesis	sense impression	sensory faculty	five senses
+affix	catholicos	title	title of respect	boss	chief	constituent	leader
+locale	signal	studio album	transmission	making	binary relation	communication medium	mapping	ascendance	mathematical relation
+political ideology	nationalism	patriotism
+money	fund	cost	financial plan	expense	monetary fund
+editor	worker	person	application
+coverall	clothing	clothes
+person
+storm	tempest	hazard	violent storm
+brain	body part
+academic department	department	dept
+aggregate	silicate	silicate mineral
+intromission
+interval	state
+oxen	cow	wild ox	hoofed mammal	bovid	ox	cows	mammal
+bodily process	chemical process	natural process	physical phenomenon	natural phenomenon	phenomenon
+thespian	producer	scriptwriter	film producer	filmmaker	film maker	film writer	screenwriter	visual arts	film director	television producer	filming	writer	actor	cinematography	person	visual art	movie maker
+help	permissiveness	assistance	agreement	support	relief	aid
+function	school	middle school	constructed structure	secondary school	junior high school	university	educational institution	intermediate school	junior high	public building	academy	group event
+physical system
+donor	benefactor	person
+plant
+dressmaking
+expansion card	hardware	electrical device	computer hardware	control	lever	mechanism
+adornment	piece of jewellery	gear	crown jewel	jewel	headdress
+difficulty	state
+anatomy	body part	bodily structure	organ	animal tissue	intelligence	organs	variety meat	structural biology	intellect
+reflexion
+trifolium	aromatic plant	clover	herb	plant	trefoil
+agreement	concord	alinement	coalition	alignment	understanding
+chemical reaction	reaction	natural action	momentum	natural process
+facility	site	surface	space
+musical work	single	song
+tourism
+pharmaceutical drug	antiprotozoal
+justice	person	judge
+software program	acknowledgment	rite	negotiation
+bodily process	biomolecule	ductus	intelligence	salpinx	passageway	genital	body process	canal	oviduct	body structure	sex organ	passage	sexual organ	bodily structure	ion channel	channel
+right	agreement	allocation	economic aid	apportionment of seats	parcelling	quotation	acknowledgment	gift	contract	credit	aid	allotment	financial aid	international aid	transferred property	international assistance	assistance
+fearfulness	fear	dislike	revulsion	detestation
+drying	dryness
+expense	charge	cost	outgo	fee	weight	physical property
+intelligence information	intelligence	intelligence assessment	intelligence service	government agency	information gathering	intelligence agency
+baseball player	sportsperson	person
+sound	noise
+website	bibliology	home appliance	medium	bibliographic database	electrical load	database	electronic database	on-line database	household appliance	data-storage medium	online database	web site	database management system	computer database
+housing	lodging	living accommodations
+discrimination	racism	racial discrimination
+noble	nobleman	aristocrat	leader	person	peer	title	form of address
+bodily process	body process
+morpheme	person
+foodstuff	food product
+rock band	musical group	rock group	band
+deity	godhood
+transferred property
+person	actor	comic	entertainer
+igniter	microcomputer	electrical conductance	electronic component	party	resistor
+sweet	confection	goody	retail outlet	treat
+horse	semblance	form	lover	horsie	solid figure	person	race	three-dimensional figure	admirer	wild horse	equus
+facies	rock
+locale
+competitor	person	unfortunate person	unfortunate	contestant	gambler
+picture	musical style	high-rise	transport infrastructure	moving-picture show	geographic point	vessel	communication medium	film	city	tower block	musical work	show	skyscraper	geographical point	vehicle	map	medium	moving picture	passenger transport	storage medium	popular music genre	supertall	mapping	point of entry	ship transport	apartment block	work of art	transmission channel	social event	pic	movie	motion picture	picture show
+terminal	written record	finish	end	conclusion	written account	ending	point in time
+arrangement	movement
+thespian	person	chief	film producer	business executive	writer	senior management	leader	actor
+locale	space
+person
+indefinite quantity	measure
+persuader
+harbor	city
+bone	general anatomy	body structure	anatomical structure
+medium	periodical publication	enquiry	transmission channel	storage medium	journalism	research	periodical literature	investigation	inquiry	piece of work	periodical	investigating	communication medium	channel
+fashion accessory	clothing	scarf
+social control	management	administration	direction
+person	writer
+female	woman	person	mythical being	mythical creature	warrior	combatant	soldier
+picture	perception	moving picture	sense modality	picture show	season	sensitivity	sensation	video recording	engineering	television show	moving-picture show	visual image	sensory faculty	serial	looking at	film	visual percept	work of art	sentiency	tv program	look	stimulus	perceptual experience	television program	looking	engineering physics	tv show	sensory system	tv series	video	motion picture	view	sensing	five senses	perspective
+written document
+person	literate	literate person
+disagreeable person	person	unpleasant person
+military leader	boss	person	chief	leader
+spline	delay	interval	time interval	slat	strip
+electronic computer	information processing system	computing machine
+heavenly body	celestial body	astronomical object	planetoid
+indigenous	person
+receiver	receiving system	electronic equipment	equipment	broadcasting	appliance	electrical appliance	home appliance	mass medium	medium	instrument	telecommunication	communication device
+town	city
+fee	terms
+employee	person	worker
+country	european country	state
+control	exclusive right	right	state
+state	weather
+plant	perennial	subshrub	woody plant
+musical work	work of art	composition
+nazi concentration camps	nazi concentration camp	concentration camp	correctional facility	camp	penal institution	forms of energy	jail	prison	prison house
+life
+tunnel	mode of transport	conveyance	way	infrastructure	transport infrastructure	railroad	railway line	carrier	railway	railway system
+town	city
+stone	sandstone	rock	sedimentary rock
+woody plant	plant	family tree	perennial	bramble bush	research
+website	electronic media	medium	mass media	webpage	web service	network service	site	digital media	public press	web site	web services	press	internet site	web page	communication medium	channel
+firm	record producer	boss	person	juridical person	enterprise	senior management
+calendar month	month	time period	period of time
+person	overlord	master	lord
+forecasting	prediction	foretelling
+observable
+piece of work	written language	body of work	written communication	text
+political system	form of government
+cloth covering
+module
+cinematography	filming	film genre
+shape	transportation	form	constructed structure	algebraic structure	technical specification
+person	nonconformist	young	political activist	protester	animal
+person	chief	leader	boss
+garden	topological space	space	surface	parcel of land	piece of land	roof	roof terrace	piece of ground
+sound	waterway	world ocean	channel	stream channel
+statistics	political economy	statistical analysis	economics	economic science
+locale	elevation	natural elevation
+person	freelancer	worker
+poaceae	grass family	gramineae	herb	tracheophyte	plant
+medium	lithostratigraphic unit	chief of state	film producer	photography	general	business process	forms of energy	dramatic art	pictorial representation	authorities	president	hamlet	dramatist	audio signal	work of art	film director	public administration	transmission	binary relation	dramatics	storage	free energy	actor	head of state	poetess	visual art	mathematical relation	channel
+dike	dyke
+parcel	space	topological space	parcel of land	piece of land	surface	topological manifold	piece of ground
+news	text
+calculation	intellection	thinking	mentation	computation	thought process
+evergreen	plant	angiosperm	evergreen plant
+town	city
+rivalry	contention	competition
+person	legislator	senator	chairman	political leader	leader	politician
+person
+engineering science	picture	medium	ad	figure	show	flyer	promotional material	visual communication	social event	diagram	engineering	portraying	advertisement	graphics	portrayal	course of instruction	technology	mass medium	announcement	graphic	text edition	opera	promulgation	entertainment	advert	source text	advertising	mass media	print media	presentation	presentment	throwaway
+band	musical group
+bookman
+social function	affair	ball	show	masquerade	masque	mask	social occasion	social event	party	function	occasion	group event	masquerade party	social gathering
+title	lector	assistant professor	person	prof	teacher
+measuring	measurement	text
+manual labour	handling	job market	labour economics	labour market	employment market	manual labor	toil	labor market
+herb	herbaceous plant	plant
+singer	bandmember	song	track	female person	musician	personal name	vocalist	noun	songster	full name
+breakfast cereal	plant	food grain	tracheophyte	cereal grass	food product	foodstuff	grain	cereal	seed	herbaceous plant
+poem	text
+note	metal money	coinage	coin
+plaza	transportation stop	facility	the mall	conservation area	moving-picture show	shopping centre	railroad terminal	film	train station	service	parkland	bus stop	edifice	depot	terminal	station	cultural property	commercial building	retail store	eating house	shopping arcade	public park	designated place	leisure area	railroad station	stop	piece of land	public building	place of business	outlet	metro station	tract	services	railway station	shopping precinct	shopping mall	protected area	center	restaurant	shopping center	mercantile establishment	parcel of land	mall	train depot	motion picture	picture show
+degree	edge	limit
+political leader	leader	possessor	president	politician	person
+agricultural labourer	farmer	labourer	worker	workman	person
+obstruction	partition	barrier
+stringed instrument	string instrument	musical instrument	plucked string instrument
+mammal	animal
+person
+root vegetable
+video game	software program	software package	software	application	application software	computer program	software application
+educationist
+traveling	guided transport	transportation	public transport	price	freight transport	shipping	means of transport	train	travelling	railroad train	charge per unit	mode of transport	freight train	transport	travel
+story	rhyming	narrative mode	narrative	rhyme	tale	narration
+feed	plant food	organic fertiliser	chemical fertiliser	fertilizer	organic food
+picture	person	figure	horseback rider	photo	figure painting	rider	horseman
+dessert	food product	dish
+partition	porch
+warranty	installation	money	accrual	accruement	cost	outgo	buildup	outlay	monetary fund	guarantee
+competitor	person	boxer	contestant	combatant	sport	fighter	sportsperson
+code	pc game	spysat	move	measurement	group event	bus stop	automobile	edifice	road vehicle	locale	juridical person	transport	air travel	movement	transportation	computer software	auto	natural depression	passenger transport	depression	signaling	metro station	instructor	painter	computer programme	work of art	video game	means of transport	game console	signal	land vehicle	motion	person	conveyance	flying machine	space vehicle	phonetician
+disk	optical disk	memory device	memory	recording	instrument
+piece of furniture
+statute	enactment	music group	band	musical group	legislative act
+city
+report	communication medium	mass medium	news report	story	account	periodical
+film director	television producer	producer	photography	filmmaker	film maker	visual art	movie maker
+supporting	mixture	technical specification	abstract object	support	thermodynamic system	mechanism	state	mechanical assembly	physical system	inaction	pure mathematics	mechanical system
+camper van	motorhome	move	wheeled vehicle	traveling	technology	transport	automotive vehicle	rv	military force	travel	self-propelled vehicle	road vehicle	recreational vehicle	vehicle	travelling	lorry	railway car	medium	transportation	railcar	passenger transport	motor coach	military group	motortruck	mode of transport	wagon	means of transportation	means of transport	land vehicle	campervan	motor vehicle	motion	transmission	conveyance	truck	railroad car	military organization
+politician	governor	boss	person	chief	leader
+information processing system	pc game	adp system	title of respect	applications programme	prefix	knowledge organization	computer program	computing machine	software	console	service	electrical appliance	video game console	coding system	application	book	piece of work	honorific	server system	channel	medium	electrical load	action game	word string	software application	storage medium	software program	volume	host	computer code	book design	computer system	videogaming	computer programme	dictionary entry	language	game console	lexical unit	software package	computer	applications software	title	video game	coffee-table book
+control
+tourist attraction	constructed structure	facility	memorial	public building	group event	work of art	installation	showcase	feature	attraction	installation art
+person
+short title
+means of transport	military unit	image	naval ship	mode of transport
+writer	person
+politician	person
+perversion
+lawbreaking	law-breaking
+soup
+reptile	animal
+follower	person
+computing device	pc game	computing system	computer game	game console	electronic game	server	computer system	video game	console	software	service
+owner	person	holder	possessor
+termination	obliteration	destruction	transformation	natural process
+disorder	illness	pathological state	disease	sickness
+salt	dirt
+medium	book	piece of work	communication medium
+unbelief	doubt	state	incertitude
+warfare	military action	war
+rubber	mixture	construction aggregate
+software program	software package	software	application	application software	computer program	software application
+military man	soldier	enlisted person	person	military	combatant
+interdisciplinary research	research	psychology
+phenomenon	physical property	chance	quantitative relation	operator	physical phenomenon	observable	strength	probality	person	man of affairs	dimensionless quantity
+written language	floating point	computer code	coding system	program line	data type	written communication
+sail	military branch	military machine	military force	military service	travel	sailing vessel	sailing ship	military group	us navy	ship type	naval ship	traveling	river transport	military	transportation	travelling	military unit	ship	boat	military organization
+duty	maneuver	protector	guardian	military group	grasp	clench	defender	hold	sport	competitor	lineman	military force	clutch	duty assignment	person	role	basketball player	grip	military organization	military unit	tactical maneuver	sportsperson	cager
+military action	obstruction	obstacle
+show	film production	filmmaker	film making	moving-picture show	film maker	movie maker	film	tv program	television series	filming	miniseries	movie	fictional universe	television program	cinematography	tv show	universe	tv series	motion picture	book series	picture show
+circle	album	tv series	television program	schooner
+point of reference	interpretation	rendering	interpreting	rendition	constituent
+foundation	sharing	christian	gift	not-for-profit	thought process	giving	disposal	share-out	mentation	benevolence	nonprofit organization	scheme	social control	stimulus	nonprofit	kindness	group event	concern
+person	instructor	teacher	educator
+scrapper	combatant	person	fighter	battler
+president	political leader	national leader	united states president	leader	chief of state	politician	governor	person
+contestant	playwright	person
+sound	technical specification	beat	beat level	musical time	rhythm	musical rhythm
+poet	person	writer	poetess
+chief	political leader	president	politician	person	boxer	athlete	contestant
+person	writer
+person	scriptwriting	screenwriting
+mathematician	person
+environment	environment variable	entirety	habitat	city	biotic community	surround	microenvironment
+advocate	legal expert	writer	person	critic	journalist	jurist	intellectual
+beetle	insect	animal
+plant	perennial	annual plant
+party	group event	social occasion	social event
+written symbol	imaginary being	person	role	persona	portrayal	law of nature	proper class
+city	piece of land	country	tract
+mineral fiber	animal fiber	fiber	fabric	cloth	textile
+educational institution
+track	railway track	train track	topological space	rail track	separable space	hausdorff space	mathematical structure	railroad track
+shaper	company	juridical person	person	worker
+body of water	river
+donation	kindness	contribution	gift
+constructed structure
+dish	recipe	salad
+branch of science	physics	research
+trustworthiness	responsibleness
+paving	surface	stone
+specialist	higher education	health professional	physician	surgical procedure	health care provider	bioscience	medical aid	medicine	health care	surgery	life science	orthopedic surgery	md	orthopaedics	orthopedist	doctor	medical doctor	surgical operation	medical procedure	orthopaedist	orthopedics	specialist degree	treatment	dr.	medical care	practice of medicine	surgical process	medical specialist
+worm	animal
+software program	software package	software	application	application software	computer program	software application
+computer
+person	actress	celebrity
+arena	sports stadium	cartography	locale	stadium	making
+point of reference	function	tribe	union	agreement	understanding	note	family unit	written agreement	kin	reference point	annotation
+wargame	strategy game	fictional universe	franchise	creative work
+affect
+sociologist	person	social scientist
+work of art	technical specification	flooring	level	horizontal surface	topological space	platform	shape	surface	venture	floor	upper deck
+electronic media	tv program	picture show	series	music group	moving-picture show	rock band	recording	band	tv show	television show	musical group	movie	musical organization
+warehouse	supply
+formula	code	algorithm	method	procedure	calculation
+town	city
+head of state	officeholder	person
+person	administrator	executive	chief	leader
+light	visible light	visible radiation	radiation	ionising radiation	physical phenomenon	natural phenomenon	phenomenon
+star	actress	celebrity	entertainer	person
+turbulent flow	waterbody	flow	natural action	body of water
+printed circuit	circuit	component	computer circuit	electronic circuit	controller	electronic component	electronic equipment	pedal	electrical circuit	foot pedal	circuit board	foot lever	pc board	microcircuit	valve	electric circuit	mechanism	semiconductor	circuit card	electrical network	computer hardware	semiconducting material	computer chip
+unfortunate person	godhood	holy person	person
+observable	natural phenomenon	phenomenon	atmospheric phenomenon
+electric energy	energy
+disagreeable person	attacker	person	wrongdoer	persona non grata	aggressor	bad person
+freeway	infrastructure	transport infrastructure	carriageway	motorway	roadway
+rate	ratio	magnitude
+mechanical assembly	mechanism
+county
+declaration	warning	making known	danger	person
+person	sport	competitor	cricketer	sportsperson
+nightwear	clothing	sleepwear	nightclothes	clothes
+body waste	junk	garbage	granular material	sanitary condition	poo	report	defaecation	uncleanness	shit	dirtiness	waste matter	refuse	trash	crap	hearsay	excrement	waste material	dog shit	excretion	excreta	waste product	waste
+polity	compounding
+meat	cow	cattle	bovine	animal
+holding device	holder	instrument
+firm	publisher	video game publisher	corporation	company	enterprise	video game developer	software developer	programmer	developer
+atmosphere	windstorm	violent storm	air current	weather	atmospheric condition	current of air	physical phenomenon	natural phenomenon	flux	cyclone	weather condition	wind
+category	mould	data file	political economy	file	specifications	model
